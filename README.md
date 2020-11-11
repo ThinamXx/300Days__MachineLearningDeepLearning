@@ -2,6 +2,17 @@
 
 **Day1 of 300DaysOfData!**
 - **Gradient Descent and Cross Validation**: Gradient Descent is an iterative approach to approximating the Parameters that minimize a Differentiable Loss Function. Cross Validation is a resampling procedure used to evaluate Machine Learning Models on a limited Data sample which has a parameter that splits the data into number of groups. On my Journey of Machine Learning and Deep Learning, Today I have read in brief about the fundamental Topics such as Calculus, Matrices, Matrix Calculus, Random Variables, Density Functions, Distributions, Independence, Maximum Likelihood Estimation and Conditional Probability. I have also read and Implemented about Gradient Descent and Cross Validation. I am starting this Journey from Scratch and I am following the Book:**Machine Learning From Scratch**. I have presented the Implementation of Gradient Descent and Cross Validation here in the Snapshots. I hope you will also spend some time reading the Topics from the Book mentioned above. I am excited about the days to come!!
-- [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html)
+- Book:
+  - [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%201.PNG)
+
+**Day2 of 300DaysOfData!**
+- **Ordinary Linear Regression**: Linear Regression is a linear approach to modelling the relationships between a scalar response or dependent variable and one or more explanatory variables or independent variables. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Ordinary Linear Regression, Parameter Estimation, Minimizing Loss and Maximizing Likelihood along with the Construction and Implementation of the LR from the Book **Machine Learning From Scratch**. I have also started reading the Book **A Comprehensive Guide to Machine Learning** which focuses on Mathematics and Theory behind the Topics. I have read about Regression, Ordinary Least Squares, Vector Calculus, Orthogonal Projection, Ridge Regression, Feature Engineering, Fitting Ellipses, Polynomial Features, Hyperparameters and Validation, Errors and Cross Validation from this book. I have presented the Implementation of Linear Regression along with Visualizations using Python here in the Snapshots. I hope you will also spend some time reading the Topics and Books mentioned above. Excited about the days ahead!!
+- Books:
+  - [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html)
+  - **A Comprehensive Guide to Machine Learning**
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%202a.PNG)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%202b.PNG)
