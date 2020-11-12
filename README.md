@@ -16,3 +16,11 @@
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%202a.PNG)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%202b.PNG)
+
+**Day3 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Regularized Regression such as Ridge Regression and Lasso Regression, Bayesian Regression, GLMs, Poisson Regression along with Construction and Implementation of the same from the Book **Machine Learning From Scratch**. I have also read the Book **A Comprehensive Guide to Machine Learning** which focuses on Mathematics and Theory behind the Topics. I have read about Maximum Likelihood Estimation or MLE and Maximum a Posteriori or MAE for Regression, Probabilistic Model, Bias Variance Tradeoff, Metrics, Bias Variance Decomposition, Alternative Decomposition, Multivariate Gaussians, Estimating Gaussians from Data, Weighted Least Squares, Ridge Regression, and Generalized Least Squares from this Book. I have presented the Implementation of Ridge Regression, Lasso Regression along with Cross Validation, Bayesian Regression and Poisson Regression using Python here in the Snapshot. I hope you will also spend some time reading the Topics and Books mentioned above. Excited about the days ahead!!
+- Books:
+  - [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html)
+  - **A Comprehensive Guide to Machine Learning**
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%203.PNG)
