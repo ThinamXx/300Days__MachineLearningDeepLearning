@@ -32,3 +32,11 @@
   - **A Comprehensive Guide to Machine Learning**
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%204.PNG)
+
+**Day5 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Generative Classifiers such as Linear Discriminative Analysis or LDA, Quadratic Discriminative Analysis or QDA, Naive Bayes, Parameter Estimation and Data Likelihood along with Construction and Implementation of the same from the Book **Machine Learning From Scratch**. I have also read the Book **A Comprehensive Guide to Machine Learning** which focuses on Mathematics and Theory behind the Topics. I have read about Generative and Discriminative Classification, Bayes Decision Rule, Least Squares Support Vector Machines, Feature Extension, Neural Network Extension, Binary and Multiclass Logistic Regression, Loss Function, Training, Multiclass Extension, Gaussian Discriminant Analysis, QDA and LDA Classification and Support Vector Machines from this Book. I have presented the Implementation of LDA, QDA and Naive Bayes along with Visualizations using Python here in the Snapshot. I hope you will also spend some time reading the Topics and Books mentioned above. Excited about the days ahead!!
+- Books:
+  - [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html)
+  - **A Comprehensive Guide to Machine Learning**
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%205.PNG)
