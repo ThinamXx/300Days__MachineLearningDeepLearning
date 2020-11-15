@@ -40,3 +40,11 @@
   - **A Comprehensive Guide to Machine Learning**
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%205.PNG)
+
+**Day6 of 300DaysOfData!**
+- **Decision Trees**: A Decision Tree is an interpretable machine learning for Regression and Classification. It is a flow chart like structure in which each internal node represents a Test on an attribute and each branch represents the outcome of the Test. On my Journey of Machine Learning and Deep Learning, Today I have read about Decision Trees such as Regression Trees and Classification Trees, Building Trees, Making Splits and Predictions, Hyperparameters, Pruning and Regularization along with Construction and Implementation of the same from the Book **Machine Learning From Scratch**. I have also read the Book **A Comprehensive Guide to Machine Learning** which focuses on Mathematics and Theory behind the Topics. I have read about Decision Tree Learning, Entropy and Information, Gini Impurity, Stopping Criteria, Random Forests, Boosting and AdaBoost, Gradient Boosting, KMeans Clustering from this Book. I have presented the Implementation of Regression Trees and Classification Trees using Python here in the Snapshot. I hope you will also spend some time reading the Topics and Books mentioned above. Excited about the days ahead!!
+- Books:
+  - [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html)
+  - **A Comprehensive Guide to Machine Learning**
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%206.PNG)
