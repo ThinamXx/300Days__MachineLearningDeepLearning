@@ -48,3 +48,11 @@
   - **A Comprehensive Guide to Machine Learning**
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%206.PNG)
+
+**Day7 of 300DaysOfData!**
+- **Tree Ensemble Methods**: Ensemble Methods combine the outputs of multiple simple Models which is often called Learners in order to create the fine Model with low variance. Due to their high variance, a decision trees often fail to reach a level of precision comparable to other predictive algorithms and Ensemble Methods minimize the variance. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Tree Ensemble Methods such as Bagging for Decision Trees, Bootstrapping, Random Forests and Procedure, Boosting, AdaBoost for Binary Classification, Weighted Classification Trees, The Discrete AdaBoost Algorithm and AdaBoost for Regression along with Construction and Implementation of the same from the Book **Machine Learning From Scratch**. I have presented the Implementation of Bagging, Random Forests and AdaBoost along with different base estimators using Python here in the Snapshot. I hope you will also spend some time reading the Topics and Book mentioned above. Excited about the days ahead !!
+- Books:
+  - [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%207.PNG)
+
