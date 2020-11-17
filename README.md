@@ -56,3 +56,10 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%207.PNG)
 
+**Day8 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Neural Networks from the Book **Machine Learning From Scratch**. I have read about Model Structure, Communication between Layers, Activation Functions such as ReLU, Sigmoid, The Linear Activation Function, Optimization, Back Propagation, Calculating Gradients, Chain Rule and Observations, Loss Functions along with Construction using The Loop Approach and The Matrix Approach and Implementation of the same from this Book. I have also read the Book **A Comprehensive Guide to Machine Learning** which focuses on Mathematics and Theory behind the Topics. I have read about Convolutional Neural Networks and Layers, Pooling Layers, Back Propagation for CNN, ResNet and Visual Understanding of CNNs from this Book. Besides, I have seen a couple of videos of Neural Networks and Deep Learning. I have presented the simple Implementation of Neural Networks with The Functional API and The Sequential API using TensorFlow here in the Snapshot. I hope you will also spend some time reading the Topics and Books mentioned above. Excited about the days ahead !!
+- Books:
+  - [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html)
+  - **A Comprehensive Guide to Machine Learning**
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%208.PNG)
