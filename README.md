@@ -63,3 +63,12 @@
   - **A Comprehensive Guide to Machine Learning**
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%208.PNG)
+
+**Day9 of 300DaysOfData!**
+- **Reinforcement Learning**: In Reinforcement Learning, The Learning system called an agent in a particular context can observe the environment, select and perform actions and get rewards in return or penalties in the form of negative rewards. It must learn by itself what is the best policy to get the most reward over time. On my Journey of Machine Learning and Deep Learning, Today I have started reading and Implementing from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have read briefly about The Machine Learning Landscape viz. Types of Machine Learning Systems such as Supervised and Unsupervised Learning, Semisupervised Learning, Reinforcement Learning, Batch Learning and Online Learning, Instance Based Learning and Model Based Learning from this Book. I have presented the simple Implementation of Linear Regression and KNearest Neighbors along with a simple plot using Python here in the Snapshot. I hope you will also spend some time reading the Topics and Book mentioned above. Excited about the days ahead!!
+- Book:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%209a.PNG)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%209b.PNG)
