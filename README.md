@@ -90,9 +90,20 @@
 - On my Journey of Machine Learning and Deep Learning, Today I have learned and Implemented about Creating categories from attributes, Stratified Sampling, Visualizing Data to gain insights, Scatter Plots, Correlations, Scatter Matrix and Attribute Combinations from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have continued working with **California Housing Prices** Dataset which is included in this Book. This Dataset was based on Data from the 1990 California Census. I will build a Model of Housing Prices in California in this Project. I am still working on the same. I have presented the Implementation of Stratified Sampling, Correlations using Scatter Matrix and Attribute combinations using Python here in the Snapshots. I have also presented the Snapshots of Correlations using Scatter plots here. I hope you will spend some time working on the same and reading the Topics and Book mentioned above. Excited about the days ahead !! 
 - Book:
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+- [**California Housing Prices**](https://github.com/ThinamXx/CaliforniaHousing__Prices.git)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2011a.PNG)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2011b.PNG)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2011c.PNG)
+
+**Day12 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have learned and Implemented about Preparing the Data for Machine Learning Algorithms, Data Cleaning, Simple Imputer, Ordinal Encoder, OneHot Encoder, Feature Scaling, Transformation Pipeline, Standard Scaler, Column Transformer, Linear Regression, Decision Tree Regressor and Cross Validation from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have continued working with **California Housing Prices** Dataset which is included in this Book. This Dataset was based on Data from the 1990 California Census. I will build a Model of Housing Prices in California in this Project. The Notebook contains almost every Topics mentioned above. I have presented the Implementation of Data Preparation, Handling missing values, OneHot Encoder, Column Transformer, Linear Regression, Decision Tree Regressor along with Cross Validation using Python here in the Snapshots. I hope you will spend some time working on the same and reading the Topics and Book mentioned above. Excited about the days ahead !!
+- Book:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+- [**California Housing Prices**](https://github.com/ThinamXx/CaliforniaHousing__Prices.git)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2012a.PNG)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2012b.PNG)
