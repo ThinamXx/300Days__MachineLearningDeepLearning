@@ -126,3 +126,12 @@
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2014b.PNG)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2014c.PNG)
+
+**Day15 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about The ROC Curve, Random Forest Classifier, SGD Classifier, Multi Class Classification, One vs One and One vs All Strategies, Cross Validation, Error Analysis using Confusion Matrix, Multi Class Classification, KNeighbors Classifier, Multi Output Classification, Noises, Precision and Recall Tradeoff and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have completed the Topic Classification from this Book. I have presented the Implementation of The ROC Curve, Random Forest Classifier in Multi Class Classification, The One vs One Strategy, Standard Scaler, Error Analysis, Multi Label Classification and Multi Output Classification using Scikit Learn here in the Snapshots. I hope you will also work on the same. I hope you will also spend some time reading the Topics and Book mentioned above. I am excited about the days ahead!!
+- Book:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+  
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2015a.PNG)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2015b.PNG)
