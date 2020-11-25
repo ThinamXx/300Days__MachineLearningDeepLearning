@@ -135,3 +135,14 @@
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2015a.PNG)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2015b.PNG)
+
+**Day16 of 300DaysOfData!**
+- **Ridge Regression**: Ridge Regression is a regularized Linear Regression viz. a regularization term is added to the cost function which forces the learning algorithm to not only fit the Data but also keep the model weights as small as possible. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Training the Models, Linear Regression, The Normal Equations and Computational Complexity, Cost Function and Gradient Descent such as Batch Gradient Descent, Convergence Rate, Stochastic Gradient Descent, Mini batch Gradient Descent, Polynomial Regression and Poly Features, Learning Curves, Bias and Variance Tradeoff, Regularized Linear Models such as Ridge Regression and few more related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have presented the Implementation of Polynomial Regression, Learning Curves and Ridge Regression along with Visualization using Python here in the Snapshots. I hope you will spend some time working on the same and reading the Topics and Book mentioned above. Excited about the days ahead!!
+- Book:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2016.PNG)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2016b.PNG)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2016a.PNG)
