@@ -146,3 +146,12 @@
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2016b.PNG)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2016a.PNG)
+
+**Day17 of 300DaysOfData!**
+- **Elastic Net**: Elastic Net is a middle grouped between Ridge Regression and Lasso Regression. The regularization term **r** is a simple mix of both Ridge and Lasso's regularization terms. When *r* equals 0, it is equivalent to Ridge and when *r* equals 1, it is equivalent to Lasso Regression. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Lasso Regression, Elastic Net, Early Stopping, SGD Regressor, Logistic Regression, Estimating Probabilities, Training and Cost Function, Sigmoid Function, Decision Boundaries, Softmax Regression or Multinomial Logistic Regression, Cross Entropy and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have just started reading the Topic Support Vector Machines. I have presented the simple Implementation of Lasso Regression, Elastic Net, Early Stopping, Logistic Regression and Softmax Regression using Scikit Learn here in the Snapshots. I hope you will spend some time working on the same and reading the Topics and Book mentioned above. Excited about the days ahead!!
+- Book:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2017a.PNG)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2017.PNG)
