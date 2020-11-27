@@ -155,3 +155,14 @@
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2017a.PNG)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2017.PNG)
+
+**Day18 of 300DaysOfData!**
+- **Support Vector Machines**: A Support Vector Machines or SVM is a very powerful and versatile Machine Learning model which is capable of performing Linear and Nonlinear Classification, Regression and even outlier detection. SVMs are particularly well suited for classification of complex but medium sized datasets. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Support Vector Machines, Linear SVM Classification, Soft Margin Classification, Nonlinear SVM Classification, Polynomial Regression, Polynomial Kernel, Adding Similarity Features, Gaussian RBF Kernel, Computational Complexity, SVM Regression which is Linear as well Nonlinear and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have presented the Implementation of Nonlinear SVM Classification using SVC and Linear SVC along with Visualization using Python here in the Snapshots. I hope you will spend some time working on the same and reading the Topics and Book mentioned above. Excited about the days ahead!!
+- Book:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2018a.PNG)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2018b.PNG)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2018c.PNG)
