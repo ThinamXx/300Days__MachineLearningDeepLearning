@@ -166,3 +166,12 @@
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2018b.PNG)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2018c.PNG)
+
+**Day19 of 300DaysOfData!**
+- **Voting Classifiers**: Voting Classifiers are the classifiers which aggregates the predictions of different Classifiers and predicts the class that gets the most votes. The majority vote classifier is called a Hard Voting Classifier. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Ensemble Learning and Random Forests, Voting Classifiers such as Hard Voting and Soft Voting Classifiers and few more topics related to the same. Actually, I have also started working on a Research Project with an amazing Team. I have presented the Implementation of Hard Voting and Soft Voting Classifiers using Scikit Learn here in the Snapshots. I hope you will spend some time working on the same and reading the Topics mentioned above. Excited about the days ahead!!
+- Book:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2019a.PNG)
+
+
