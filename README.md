@@ -182,3 +182,14 @@
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2020b.PNG)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2020a.PNG)
+
+**Day21 of 300DaysOfData!**
+- **Bagging and Pasting**: It refers to the approach which uses the same Training Algorithm for every predictor but to train them on different random subsets of the Training set. When sampling is performed with replacement, it is called Bagging and when sampling is performed without replacement, it is called Pasting. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Ensemble Learning and Random Forests, Voting Classifiers, Bagging and Pasting in Scikit Learn, Out of Bag Evaluation, Random Patches and Random Subspaces, Random Forests, Extremely Randomized Trees Ensemble, Feature Importance, Boosting, AdaBoost, Gradient Boosting and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have presented the Implementation of Bagging Ensembles, Decision Trees, Random Forest Classifier, Feature Importance, AdaBoost Classifier and Gradient Boosting using Python here in the Snapshots. I hope you will spend some time working on the same and reading the Topics and Book mentioned above. Excited about the days ahead!!
+- Book:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2021aa.PNG)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2021a.PNG)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2021b.PNG)
