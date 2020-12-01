@@ -193,3 +193,10 @@
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2021a.PNG)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2021b.PNG)
+
+**Day22 of 300DaysOfData!**
+- **Manifold Learning**: Manifold Learning refers to the Dimensionality Reduction Algorithms that work by modeling the manifold on which the training instances lie which relies on manifold hypothesis which holds that most real world high dimensional datasets to a much lower dimensional manifold. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Gradient Boosting, Early Stopping, Stochastic Gradient Boosting, Extreme Gradient Boosting or XGBoost, Stacking and Blending, Dimensionality Reduction, Curse of Dimensionality, Approaches for Dimensionality Reduction, Projection and Manifold Learning and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have presented the Implementation of Gradient Boosting with Early Stopping along with Visualization using Scikit Learn here in the Snapshots. I hope you will spend some time working on the same and reading the Topics and Book mentioned above. Excited about the days ahead!!
+- Book:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+  
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2022a.PNG)
