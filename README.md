@@ -200,3 +200,10 @@
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
   
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2022a.PNG)
+
+**Day23 of 300DaysOfData!**
+- **Incremental PCA**: Incremental PCA or IPCA Algorithms are the algorithms in which we can split the Training set into mini batches and feed an IPCA Algorithm one mini batch at a time. It is useful for large Training sets and also to apply PCA online. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Principal Component Analysis or PCA, Preserving the Variance, Principal Components, Projecting Down the Dimensions, Explained Variance Ratio, Choosing the Right Number of Dimensions, PCA for Compression and Decompression, Reconstruction Error, Randomized PCA, SVD, Incremental PCA and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have presented the Implementation of PCA, Randomized PCA and Incremental PCA along with Visualizations using Scikit Learn here in the Snapshots. I hope you will spend some time working on the same. I hope you will also spend some time reading the Topics and Book mentioned above. Excited about the days ahead!!
+- Book:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+  
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2023b.PNG)
