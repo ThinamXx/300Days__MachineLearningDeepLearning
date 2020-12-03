@@ -207,3 +207,15 @@
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
   
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2023b.PNG)
+
+**Day24 of 300DaysOfData!**
+- **Clustering**: Clustering Algorithms are the algorithms whose goal is to group similar instances together into Clusters. It is a great tool for Data Analysis, Customer Segmentation, Recommender Systems, Search Engines, Image Segmentation, Dimensionality Reduction and many more. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Kernel Principal Component Analysis, Selecting a Kernel and Tuning Hyperparameters, Pipeline and Grid Search, Locally Linear Embedding, Dimensionality Reduction Techniques such as Multi Dimensional Scaling, Isomap and Linear Discriminant Analysis, Unsupervised Learning such as Clustering and KMeans Clustering Algorithm and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have presented the Implementation of Kernel PCA and Grid Search CV, and KMeans Clustering Algorithm along with a Visualization using Python here in the Snapshots. I hope you will spend some time working on the same and reading the Topics and Book mentioned above. Excited about the days ahead!!
+- Book:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+  
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2024a.PNG)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2024b.PNG)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2024c.PNG)
+
