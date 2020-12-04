@@ -219,3 +219,13 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2024c.PNG)
 
+**Day25 of 300DaysOfData!**
+- **Image Segmentation**: Image Segmentation is the task of partitioning an Image into multiple segments. In Semantic Segmentation, all the pixels that are part of the same object type get assigned to the same segment. In Instance Segmentation, all pixels that are part of the individual object are assigned to the same segment. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about KMeans Algorithms, Centroid Initialization, Accelerated KMeans and Mini Batch KMeans, Finding the Optimal Numbers of Clusters, Elbow rule and Silhouette Coefficient score, Limitations of KMeans, Using Clustering for Image Segmentation and Preprocessing such as Dimensionality Reduction and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have presented the Implementation of Clustering Algorithms for Image Segmentation and Preprocessing along with Visualizations using Python here in the Snapshots. I hope you will spend some time working on the same and reading the Topics and Book mentioned above. Excited about the days ahead!!
+- Book:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2025a.PNG)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2025c.PNG)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2025b.PNG)
