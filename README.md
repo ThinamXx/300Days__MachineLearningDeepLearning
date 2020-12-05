@@ -229,3 +229,12 @@
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2025c.PNG)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2025b.PNG)
+
+**Day26 of 300DaysOfData!**
+- **Gaussian Mixtures Model**: A Gaussian Mixture Model or GMM is a probabilistic Model that assumes that the instances were generated from the mixture of several Gaussian distributions whose parameters are unknown. All the instances generated from a single Gaussian Distributions form a cluster that typically looks like an Ellipsoid. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about using Clustering Algorithms for Semi Supervised Learning, Active Learning and Uncertainty Sampling, DBSCAN, Agglomerative Clustering, Birch Algorithms, Mean Shift and Affinity Propagation Algorithms, Spectral Clustering, Gaussian Mixtures Model, Expectation Maximization Algorithm and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have presented the Implementation of Clustering Algorithms for Semi supervised Learning and DBSCAN along with Visualizations using Python here in the Snapshots. I hope you will spend some time working on the same and reading the Topics and Book mentioned above. Excited about the days ahead!!
+- Book:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+  
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2026a.PNG)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2026b.PNG)
