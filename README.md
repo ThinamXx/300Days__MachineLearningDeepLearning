@@ -238,3 +238,10 @@
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2026a.PNG)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2026b.PNG)
+
+**Day27 of 300DaysOfData!**
+- **Anomaly Detection**: Anomaly Detection also called Outlier Detection is the task of detecting instances that deviate strongly from the norm. These instances are called anomalies or outliers while the normal instances are called inliers. It is useful in Fraud Detection and more. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Gaussian Mixture Models, Anomaly Detection using Gaussian Mixtures, Novelty Detection, Selecting the Number of Clusters, Bayesian Information Criterion, Akaike Information Criterion, Likelihood Function, Bayesian Gaussian Mixture Models, Fast MCD, Isolation Forest, Local Outlier Factor, One Class SVM and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have just started Neural Networks and Deep Learning from this Book. I have presented the Implementation of Gaussian Mixture Model along with Visualizations using Python here in the Snapshots. I hope you will spend some time working on the same and reading the Topics and Book mentioned above. Excited about the days ahead!!
+- Book:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+  
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2027a.PNG)
