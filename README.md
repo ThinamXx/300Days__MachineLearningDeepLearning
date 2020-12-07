@@ -245,3 +245,10 @@
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
   
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2027a.PNG)
+
+**Day28 of 300DaysOfData!**
+- **Rectified Linear Unit Function or ReLU** : It is a continuous but not differentiable at 0 where the slope changes abruptly and makes the Gradient Descent bounce around. It works very well and has the advantage of fast to compute. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Introduction to Artificial Neural Networks with Keras, Biological Neurons, Logical Computations with Neurons, The Perceptron, Hebbian Learning, Multi Layer Perceptron and Backpropagation, Gradient Descent, Hyperbolic Tangent Function and Rectified Linear Unit Function, Regression MLPs, Classification MLPs, Softmax Activation and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have presented the Implementation of Building an Image Classifier using the Sequential API along with Visualization using Keras here in the Snapshots. I hope you will spend some time working on the same and reading the Topics and Book mentioned above. I am excited about the days ahead !!
+- Book:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+  
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2028a.PNG)
