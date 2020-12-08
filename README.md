@@ -252,3 +252,12 @@
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
   
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2028a.PNG)
+
+**Day29 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Creating the Model using Sequential API, Compiling the Model, Loss Function and Activation Function, Training and Evaluating the Model, Learning Curves, Using the Model to make Predictions, Building the Regression MLP using the Sequential API, Building Complex Models using the Functional API, Deep Neural Networks and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have presented the Implementation of Building Regression MLP using Sequential API and Functional API here in the Snapshots. I hope you will gain some insights and you will spend some time working on the same. I hope you will also spend some time reading and Implementing the Topics from the Book mentioned above. I am excited about the days ahead!!
+- Book:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+  
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2029a.PNG)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2029b.PNG)
