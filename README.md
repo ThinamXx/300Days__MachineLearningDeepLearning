@@ -261,3 +261,10 @@
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2029a.PNG)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2029b.PNG)
+
+**Day30 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Building the Complex Models using Functional API, Deep Neural Network Architecture, ReLU Activation Function, Handling Multiple Inputs in the Model, Mean Squared Error Loss Function and Stochastic Gradient Descent Optimizer, Handling Multiple Outputs or Auxiliary Output for Regularization and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have presented the Implementation of Handling Multiple Inputs using Keras Functional API along with the Implementation of Handling Multiple Outputs or Auxiliary Output for Regularization using the same here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time reading the Topics from the Book mentioned above and below. I am excited about the days ahead!!
+- Book:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2030aa.PNG)
