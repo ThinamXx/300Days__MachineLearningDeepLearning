@@ -268,3 +268,12 @@
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2030aa.PNG)
+
+**Day31 of 300DaysOfData!**
+- **Callbacks and Early Stopping**: Early Stopping is a method that allows you to specify an arbitrarily large number of Training epochs and stopping once the Model stops improving on the validation dataset. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Building Dynamic Models using the Sub Classing API, Sequential API and Functional API, Saving and Restoring the Model, Using Callbacks, Model Checkpoints, Early Stopping, Weights and Biases and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have presented the Implementation of Building Dynamic Models using the Sub Classing API along with the Implementation of Using Callbacks and Early Stopping here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time reading the Topics from the Book mentioned above and below. Excited about the days ahead!!
+- Book:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+  
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2031a.PNG)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2031b.PNG)
