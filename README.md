@@ -277,3 +277,12 @@
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2031a.PNG)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2031b.PNG)
+
+**Day32 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Visualization using TensorBoard, Learning Curves, Fine Tuning Neural Network Hyperparameters, Randomized Search CV, Regressor, Libraries to optimize Hyperparameters such as Hyperopt, Talos and few more, Number of Hidden Layers, Number of Neurons per Hidden Layer, Learning Rate, Batch size and Other Hyperparameters and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have also spend some time reading the Paper which is named as **Practical Recommendations for Gradient based Training of Deep Architectures**. Here, I have read about Deep Learning and Greedy Layer Wise Pretraining, Online Learning and Optimization of Generalization Error and few more related to the same. I have presented the Implementation of Tuning Hyperparameters, Keras Regressors and Randomized Search CV here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time reading the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+- Paper:
+  - [**Practical Recommendations for Gradient based Training of Deep Architectures**](https://arxiv.org/pdf/1206.5533.pdf)
+  
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2032a.PNG)
