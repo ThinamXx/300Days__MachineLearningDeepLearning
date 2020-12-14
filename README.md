@@ -286,3 +286,10 @@
   - [**Practical Recommendations for Gradient based Training of Deep Architectures**](https://arxiv.org/pdf/1206.5533.pdf)
   
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2032a.PNG)
+
+**Day33 of 300DaysOfData!**
+- **Vanishing Gradient**: During Backpropagation and calculating Gradients, it often gets smaller and smaller as the Algorithms progresses down to the lower layers which prevents the Training to converge to the good solution. This leads to Vanishing Gradient Problem. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Training Deep Neural Networks, Vanishing and Exploding Gradient Problems, Glorot and He Initialization, Non Saturating Activation Functions, Batch Normalization and its Implementation, Logistic and Sigmoid Activation Function, SELU Activation Function, ReLU Activation Function and Variants, Leaky ReLU and Parametric Leaky ReLU and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have presented the Implementation of Leaky ReLU and Batch Normalization here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time reading the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+  
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2033a.PNG)
