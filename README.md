@@ -293,3 +293,10 @@
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
   
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2033a.PNG)
+
+**Day34 of 300DaysOfData!**
+- **Gradient Clipping**: Gradient Clipping is the Technique to lessen the exploding Gradients problem which simply clip the Gradients during backpropagation so that they never exceed some threshold and it is mostly used in Recurrent Neural Networks. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Gradient Clipping, Batch Normalization, Reusing Pretrained Layers, Deep Neural Networks and Transfer Learning, Unsupervised Pretraining, Restricted Boltzmann Machines, Pretraining on an Auxiliary Task, Self Supervised Learning, Faster Optimizers, Gradient Descent Optimizer, Momentum Optimization, Nesterov Accelerated Gradient and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have presented the simple Implementation of Transfer Learning using Keras and Sequential API here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time reading the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2034a.PNG)
