@@ -300,3 +300,10 @@
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2034a.PNG)
+
+**Day35 of 300DaysOfData!**
+- **Adam Optimization**: Adam which stands for Adaptive Moment Estimation combines the ideas of Momentum Optimization and RMSProp where Momentum Optimization keeps track of an exponentially decaying average of past gradients and RMSProp keeps track of an exponentially decaying average of past squared gradients. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about AdaGrad Algorithm, Gradient Descent, RMSProp Algorithm, Adaptive Moment Estimation or Adam Optimization, Adamax, Nadam Optimization, Training Sparse Models, Dual Averaging, Learning Rate Scheduling, Power Scheduling, Exponential Scheduling, Piecewise Constant Scheduling, Performance Scheduling and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have presented the Implementation of Exponential Scheduling and Piecewise Constant Scheduling here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time reading the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2035a.PNG) 
