@@ -307,3 +307,10 @@
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2035a.PNG) 
+
+**Day36 of 300DaysOfData!**
+- **Deep Neural Networks**: The best Deep Neural Networks configurations which will work fine in most cases without requiring much Hyperparameter Tuning is here: Kernel Initializer as LeCun Initialization, Activation Function as SELU, Normalization as None, Regularization as Early Stopping, Optimizer as Nadam, Learning Rate Schedule as Performance Scheduling. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Avoiding Overfitting Through Regularization, L1 and L2 Regularization, Dropout Regularization, Self Normalization, Batch Normalization, Monte Carlo Dropout, Max Norm Regularization, Activation Functions like SELU and Leaky ReLU, Nadam Optimization and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have presented the Implementation of L2 Regularization and Dropout Regularization using Keras here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time reading the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2036a.PNG)
