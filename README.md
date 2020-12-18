@@ -314,3 +314,11 @@
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2036a.PNG)
+
+**Day37 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Custom Models and Training with TensorFlow, High Level Deep Learning APIs, IO and Preprocessing, Lower Level Deep Learning APIs, Deployment and Optimization, TensorFlow Architecture, Tensors and Operations, Keras Low Level API, Tensors and Numpy, Sparse Tensors, Arrays, String Tensors, Custom Loss Functions, Saving and Loading the Models containing Custom Components and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have also started reading a Book **Speech and Language Processing**. Here, I have read about Regular Expressions, Text Normalization, Tokenization, Lemmatization, Stemming, Sentence Segmentation, Edit Distance and few more Topics related to the same. I have presented the simple Implementation of Custom Loss Function here in the Snapshot. I hope you will also spend some time reading the Topics from the Books mentioned above and below. Excited about the days ahead !!
+- Books:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+  - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2037a.PNG)
