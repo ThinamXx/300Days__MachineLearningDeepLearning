@@ -322,3 +322,11 @@
   - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2037a.PNG)
+
+**Day38 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Custom Activation Functions, Initializers, Regularizers and Constraints, Custom Metrics, MAE and MSE, Streaming Metric, Custom Layers, Custom Models, Losses and Metrics based on Models Internals and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have also started reading a Book **Speech and Language Processing**. Here, I have read about Regular Expressions, Basic Regular Expression Patterns, Disjunction, Range, Kleene Star, Wildcard Expression, Grouping and Precedence, Operator Hierarchy, Greedy and Non Greedy matching, Sequence and Anchors, Counters and few more Topics related to the same. I have presented the Implementation of Custom Activation Functions, Initializers, Regularizers, Constraints and Custom Metrics here in the Snapshots. I hope you will also spend some time reading the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Books:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+  - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2038a.PNG)
