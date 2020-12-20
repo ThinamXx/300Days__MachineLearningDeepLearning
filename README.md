@@ -330,3 +330,10 @@
   - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2038a.PNG)
+
+**Day39 of 300DaysOfData!**
+- **Prefetching and Data API**: Prefetching is the loading of the resource before it is required to decrease the time waiting for that resource. In other words, while the Training Algorithm is working on one batch the dataset will already be working in parallel on getting the next batch ready which will improve the performance dramatically. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Loading and Preprocessing Data using TensorFlow, The Data API, Chaining Transformations, Shuffling the Dataset, Gradient Descent, Interleaving Lines From Multiple Files, Parallelism, Preprocessing the Dataset, Decoding, Prefetching, Multithreading and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have presented the simple Implementation of Data API using TensorFlow here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time reading the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Books:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2039a.PNG)
