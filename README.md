@@ -337,3 +337,10 @@
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2039a.PNG)
+
+**Day40 of 300DaysOfData!**
+- **Embedding and Representation Learning**: An Embedding is a trainable dense vector that represents a category. The better the representation of the categories, the easier it will be for the Neural Network to make accurate predictions, so Embeddings must make the useful representations of the categories. This is called Representation Learning. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about The Features API, Column Transformer, Numerical and Categorical Features, Crossed Categorical Features, Encoding Categorical Features using One Hot Vectors and Embeddings, Representation Learning, Word Embeddings, Using Feature Columns for Parsing, Using Feature Columns in the Models and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have presented the simple Implementation of The Features API in Numerical and Categorical Columns along with Parsing here in the Snapshots. I hope you will also spend some time reading the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Books:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+  
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2040a.PNG)
