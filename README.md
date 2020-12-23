@@ -344,3 +344,10 @@
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
   
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2040a.PNG)
+
+**Day41 of 300DaysOfData!**
+- **Convolutional Layer**:The most important building block of CNN is the Convolutional Layer. Neurons in the first Convolutional Layer are not connected to every single pixel in the Input Image but only to pixels in their respective fields. Similarly, each Neurons in second CL is connected only to neurons located within a small rectangle in the first layer. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Deep Computer Vision using Convolutional Neural Networks, The Architecture of the Visual Cortex, Convolutional Layer, Zero Padding, Filters, Stacking Multiple Feature Maps, Padding, Memory Requirements, Pooling Layer, Invariance, Convolutional Neural Network Architectures and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have presented the simple Implementation of Convolutional Neural Network Architecture here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time reading the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Books:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2041a.PNG)
