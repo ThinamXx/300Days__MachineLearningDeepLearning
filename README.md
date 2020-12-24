@@ -351,3 +351,10 @@
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2041a.PNG)
+
+**Day42 of 300DaysOfData!**
+- **ResNet**: Residual Network or ResNet won the ILSVRC 2015 Challenge, developed by Kaiming He, using an extremely deep CNN composed of 152 Layers. This Network uses the Skip connections which is also called Shortcut connections: The signal feeding into a layer is also added to the output of a layer located a bit higher up the stack. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about LeNet-5 Architecture, AlexNet CNN Architecture, Data Augmentation, Local Response Normalization, GoogLeNet Architecture, Inception Module, VGGNet, Residual Network or ResNet, Residual Learning, Xception or Extreme Inception, Squeeze and Excitation Network or SENet and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have presented the Implementation of ResNet 34 CNN using Keras here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time reading the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Books:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2042a.PNG)
