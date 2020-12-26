@@ -367,3 +367,12 @@
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2043a.PNG)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2043b.PNG)
+
+**Day44 of 300DaysOfData!**
+- **Semantic Segmentation**: In Semantic Segmentation, each pixel is classified according to the class of the object it belongs to but the different objects of the same class are not distinguished. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Classification and Localization, Crowdsourcing in Computer Vision, Intersection Over Union metric, Object Detection, Fully Convolutional Networks or FCNs, VALID Padding, You Only Look Once or YOLO Architecture, Mean Average Precision or MAP, Convolutional Neural Networks, Semantic Segmentation and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have just completed learning from this Book. I have presented the Implementation of Classification and Localization along with the Visualization here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time reading the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Books:
+  - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
+  
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2044a.PNG)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2044b.PNG)
