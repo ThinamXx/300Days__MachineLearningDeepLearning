@@ -376,3 +376,10 @@
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2044a.PNG)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2044b.PNG)
+
+**Day45 of 300DaysOfData!**
+- **Empirical Risk Minimization**: Training a Model means learning good values for all the weights and the biases from Labeled examples. In Supervised Learning, a Machine Learning Algorithm builds a Model by examining many examples and attempting to find a Model that minimizes loss which is called Empirical Risk Minimization. On my Journey of Machine Learning and Deep Learning, Today I have started learning from the **Machine Learning Crash Course** of Google. Here, I have learned about Machine Learning Philosophy, Fundamentals of Machine Learning and Uses, Labels and Features, Labeled and Unlabeled Example, Models and Inference, Regression and Classification, Linear Regression, Weights and Bias, Training and Loss, Empirical Risk Minimization, Mean Squared Error or MSE, Reducing Loss, Gradient Descent and few more Topics related to the same. I have presented the simple Implementation of Basic Recurrent Neural Network here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Course mentioned above and below. Excited about the days ahead !!
+- Course:
+  - [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course)
+  
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2045.PNG)
