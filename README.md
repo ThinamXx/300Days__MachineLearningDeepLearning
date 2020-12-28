@@ -1,5 +1,22 @@
 # **Journey of 300DaysOfData in Machine Learning and Deep Learning**
 
+| Books and Resources |
+| ----- |
+| 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
+| 2. **A Comprehensive Guide to Machine Learning** |
+| 3. **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow** |
+| 4. [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/) |
+| 5. [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course) |
+
+| Research Papers |
+| --------------- |
+| 1. [**Practical Recommendations for Gradient based Training of Deep Architectures**](https://arxiv.org/pdf/1206.5533.pdf) |
+
+| Projects and Notebooks |
+| ---------------------- |
+| 1. [**California Housing Prices**](https://github.com/ThinamXx/CaliforniaHousing__Prices.git) |
+
+
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
 **Day1 of 300DaysOfData!**
