@@ -405,3 +405,12 @@
   - [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course)
   
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2045.PNG)
+
+**Day46 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have learned from **Machine Learning Crash Course** of Google. Here, I have learned and Implemented about Learning Rate or Step size, Hyperparameters in Machine Learning Algorithms, Regression, Gradient Descent, Optimizing Learning Rate, Stochastic Gradient Descent or SGD, Batch and Batch Size, Minibatch Stochastic Gradient Descent, Convergence, Hierarchy of TensorFlow Toolkits and few more Topics related to the same. I have also spend some time in reading the Book **Speech and Language Processing**. Here, I have read about Regular Expressions and Patterns, Precision and Recall, Kleene Star, Aliases for Common Characters, RE Operators for Counting and few more Topics related to the same. I have presented the simple Implementation of Recurrent Neural Network and Deep RNN using Keras here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Course and Book mentioned above and below. Excited about the days ahead !!
+- Course:
+  - [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course)
+- Book:
+  - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2046.PNG)
