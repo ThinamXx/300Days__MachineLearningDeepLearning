@@ -414,3 +414,13 @@
   - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2046.PNG)
+
+**Day47 of 300DaysOfData!**
+- **Feature Vector and Feature Engineering**: Feature Engineering means transforming Raw Data into Feature Vector, which is the set of Floating values comprising the examples of the Dataset. On my Journey of Machine Learning and Deep Learning, Today I have learned from **Machine Learning Crash Course** of Google. Here, I have learned and Implemented about Generalization of Model, Overfitting, Gradient Descent and Loss, Statistical and Computational Learning Theories, Stationarity of Data, Splitting of Data and Validation Set, Representation and Feature Engineering, Feature Vector, Categorical Features and Vocabulary, One Hot Encoding and Sparse Representation, Qualities of Good Features and few more Topics related to the same. I have presented the simple Implementation of RNN along with GRU here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Course and Book mentioned above and below. Excited about the days ahead !!
+- Course:
+  - [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course)
+- Book:
+  - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
+  
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2047.PNG)
+
