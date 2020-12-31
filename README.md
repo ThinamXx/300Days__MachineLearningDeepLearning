@@ -422,3 +422,9 @@
   
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2047.PNG)
 
+**Day48 of 300DaysOfData!**
+- **Scaling Features**: Scaling means converting floating point Feature Values from their Natural range into Standard range such as 0 to 1. If the Feature set contains multiple Features, then Feature Scaling helps Gradient Descent to converge more quickly. On my Journey of Machine Learning and Deep Learning, Today I have learned from **Machine Learning Crash Course** of Google. Here, I have learned and Implemented about Scaling Feature Values, Handling Extreme Outliers, Binning, Scrubbing the Data, Standard Deviation, Feature Cross and Synthetic Feature, Encoding Nonlinearity, Stochastic Gradient Descent, Cross Product, Crossing One Hot Vectors, Regularization For Simplicity, Generalization Curve, L2 Regularization, Early Stopping, Lambda and Learning Rate and few more Topics related to the same. I have presented the simple Implementation of Linear Regression Model using Sequential API here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Course mentioned above and below. Excited about the days ahead !!
+- Course:
+  - [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2048.PNG)
