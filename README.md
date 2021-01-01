@@ -428,3 +428,10 @@
   - [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2048.PNG)
+
+**Day49 of 300DaysOfData!**
+- **Prediction Bias**: Prediction Bias is a quantity that measures how far apart is the average of predictions from the average of labels in Dataset. Prediction Bias is completely a different quantity than Bias. On my Journey of Machine Learning and Deep Learning, Today I have learned from **Machine Learning Crash Course** of Google. Here, I have learned and Implemented about Logistic Regression and Calculating Probability, Sigmoid Function, Binary Classification, Log Loss and Regularization, Early Stopping, L1 and L2 Regularization, Classification and Thresholding, Confusion Matrix, Class Imbalance and Accuracy, Precision and Recall, ROC Curve, Area Under Curve or AUC, Prediction Bias, Calibration Layer, Bucketing, Sparsity, Feature Cross and One Hot Encoding and few more Topics related to the same. I have presented the simple Implementation of Normalization and Binary Classification using Keras here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Course mentioned above and below. Excited about the days ahead !!
+- Course:
+  - [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2049.PNG)
