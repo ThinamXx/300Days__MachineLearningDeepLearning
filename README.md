@@ -435,3 +435,10 @@
   - [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2049.PNG)
+
+**Day50 of 300DaysOfData!**
+- **Categorical Data and Sparse Tensors**: Categorical Data refers to Input Features that represent one or more Discrete items from a finite set of choices. Sparse Tensors are the tensors with very few non zero elements. On my Journey of Machine Learning and Deep Learning, Today I have learned from **Machine Learning Crash Course** of Google. Here, I have learned and Implemented about Neural Networks, Hidden Layers and Activation Functions, Nonlinear Classification and Feature Crosses, Sigmoid Function, Rectified Linear Unit or ReLU, Backpropagation, Vanishing and Exploding Gradients, Dropout Regularization, Multi Class Neural Networks, Softmax, Logistic Regression, Embeddings, Collaborative Filtering, Sparse Features, Principal Component Analysis, Word2Vec and few more Topics related to the same. I have presented the simple Implementation of Deep Neural Networks in Multi Class Classification here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Course mentioned above and below. Excited about the days ahead !!
+- Course:
+  - [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course)
+  
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2050.PNG)
