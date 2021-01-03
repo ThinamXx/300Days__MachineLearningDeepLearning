@@ -10,6 +10,7 @@
 | 3. **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow** |
 | 4. [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/) |
 | 5. [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course) |
+| 6. [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch) |
 
 
 | Research Papers |
@@ -442,3 +443,10 @@
   - [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course)
   
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2050.PNG)
+
+**Day51 of 300DaysOfData!**
+- **Deep Learning**: Deep Learning is the general class of Algorithms which falls under Artificial Intelligence and deals with training Mathematical entities named Deep Neural Networks by presenting the instructive examples. It uses large amounts of Data to approximate Complex Functions. On my Journey of Machine Learning and Deep Learning, Today I have started reading and Implementing from the Book **Deep Learning with PyTorch**. Here, I have learned about Core PyTorch, Deep Learning Introduction and Revolution, Tensors and Arrays, Deep Learning Competitive Landscape, Utility Libraries, Pretrained Neural Network that recognizes the subject of an Image, ImageNet, Image Recognition, AlexNet and ResNet, Torch Vision Module and few more Topics related to the same from here. I have presented the Implementation of Obtaining Pretrained Neural Networks for Image Recognition using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2051.PNG)
