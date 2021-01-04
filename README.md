@@ -450,3 +450,12 @@
   - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2051.PNG)
+
+**Day52 of 300DaysOfData!**
+- **The GAN Game**: GAN stands for Generative Adversarial Network where Generative means something being created, Adversarial means the two Neural Networks are competing to out smart the other and well Network means Neural Networks. A Cycle GAN can turn Images of one Domain into Images of another Domain without the need for us to explicitly provide matching pairs in the Training set. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I have learned about Pretrained Models, Generative Adversarial Network or GAN, ResNet Generator and Discriminator Models, Cycle GAN Architecture, Torch Vision Module, Deep Fakes, A Neural Network that turns Horses into Zebras and few more Topics related to the same from here. I have presented the Implementation of Cycle GAN that turns Horses into Zebras using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2052a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2052b.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2052c.PNG)
