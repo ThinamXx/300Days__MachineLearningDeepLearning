@@ -459,3 +459,10 @@
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2052a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2052b.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2052c.PNG)
+
+**Day53 of 300DaysOfData!**
+- **Tensors and Multi Dimensional Arrays**: Tensors are the Fundamental Data Structure in PyTorch. A Tensor is an array that is a Data Structure which stores a collection of numbers that are accessible individually using a index and that can be indexed with multiple indices. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I have learned about A Pretrained Neural Network that describes the scenes, NeuralTalk2 Model, Recurrent Neural Network, Torch Hub, Fundamental Building Block: Tensors, The world as Floating Point Numbers, Multidimensional Arrays and Tensors, Lists and Indexing Tensors, Named Tensors, Einsum, Broadcasting and few more Topics related to the same from here. I have presented the simple Implementation of Indexing Tensors and Named Tensors using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2053.PNG)
