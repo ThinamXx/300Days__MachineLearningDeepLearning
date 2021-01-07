@@ -474,3 +474,9 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2054.PNG)
 
+**Day55 of 300DaysOfData!**
+- **Encoding Color Channels**: The most common way to encode Colors into numbers is RGB where a color is defined by three numbers representing the Intensity of Red, Green and Blue. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I have learned about Tensors Metadata such as Size, Offset and Stride, Transposing Tensors without Copying, Transposing in Higher Dimensions, Contiguous Tensors, Managing Tensors Device Attribute such as moving to GPU and CPU, Numpy Interoperability, Generalized Tensors, Serializing Tensors, Data Representation using Tensors, Working with Images, Adding Color Channels, Changing the Layout and few more Topics related to the same from here. I have presented the Implementation of Working with Images such as Changing the Layout and Permute method along with Contiguous Tensors using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2055.PNG)
