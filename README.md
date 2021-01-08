@@ -479,3 +479,10 @@
   - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2055.PNG)
+
+**Day56 of 300DaysOfData!**
+- **Continuous, Ordinal and Categorical Values**: Continuous Values are the values which can be counted and measured along with units. Ordinal Values are the continuous values with no fixed relationships between values. Categorical Values are the enumerations of possibilities. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I have learned about Normalizing the Image Data, Working with 3D Images or Volumetric Image Data, Representing the Tabular Data, Loading the Data Tensors using Numpy, Continuous Values, Ordinal Values, Categorical Values, Ratio Scale and Interval Scale, Nominal Scale, One Hot Encoding and Embeddings, Singleton Dimensions and few more Topics related to the same from here. I have presented the Implementation of Normalizing the Image Data, Volumetric Data, Tabular Data and One Hot Encoding using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2056.PNG)
