@@ -486,3 +486,11 @@
   - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2056.PNG)
+
+**Day57 of 300DaysOfData!**
+- **Continuous, Ordinal and Categorical Values**: Continuous Values are the values which can be counted and measured along with units. Ordinal Values are the continuous values with no fixed relationships between values. Categorical Values are the enumerations of possibilities. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I have learned about Continuous and Categorical Data, PyTorch Tensor API, Finding Thresholds in Tabular Data, Advanced Indexing, Working with Time Series Data, Adding Time Dimension in Data, Shaping the Data by Time Period, Tensors and Arrays and few more Topics related to the same from here. I have presented the Implementation of Working with Categorical Data, Time Series Data and Finding Thresholds using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2057.PNG)
+
