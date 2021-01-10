@@ -22,6 +22,7 @@
 | 1. [**California Housing Prices**](https://github.com/ThinamXx/CaliforniaHousing__Prices.git) |
 
 
+
 **Day1 of 300DaysOfData!**
 - **Gradient Descent and Cross Validation**: Gradient Descent is an iterative approach to approximating the Parameters that minimize a Differentiable Loss Function. Cross Validation is a resampling procedure used to evaluate Machine Learning Models on a limited Data sample which has a parameter that splits the data into number of groups. On my Journey of Machine Learning and Deep Learning, Today I have read in brief about the fundamental Topics such as Calculus, Matrices, Matrix Calculus, Random Variables, Density Functions, Distributions, Independence, Maximum Likelihood Estimation and Conditional Probability. I have also read and Implemented about Gradient Descent and Cross Validation. I am starting this Journey from Scratch and I am following the Book:**Machine Learning From Scratch**. I have presented the Implementation of Gradient Descent and Cross Validation here in the Snapshots. I hope you will also spend some time reading the Topics from the Book mentioned above. I am excited about the days to come!!
 - Book:
@@ -494,3 +495,9 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2057.PNG)
 
+**Day58 of 300DaysOfData!**
+- **Encoding and ASCII**: Every written characters is represented by a code which refers to a sequence of bits of appropriate length so that each character can be uniquely identified and it is called Encoding. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I have learned about Working with Time Series Data, Ordinal Variables, One Hot Encoding and Concatenation, Unsqueeze and Singleton Dimension, Mean, Standard Deviation and Rescaling Variables, Text Representation, Natural Language Processing and Recurrent Neural Networks, Converting the Text into Numbers, Project Gutenberg Corpus, One Hot Encoding of Characters, Encoding and ASCII, Embeddings and Processing the Text and few more Topics related to the same from here. I have presented the Implementation of Time Series Data and Text Representation using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2058.PNG)
