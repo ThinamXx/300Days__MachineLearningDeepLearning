@@ -502,3 +502,10 @@
   - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2058.PNG)
+
+**Day59 of 300DaysOfData!**
+- **Loss Function**: Loss Function is a function that computes a single numerical value that the learning process will attempt to minimize. The calculation of loss typically involves taking the difference between the desired outputs for some training samples. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I have learned about One Hot Encoding and Vectors, Data Representation using Tensors, Text Embeddings, Natural Language Processing, The Mechanics of Learning, Johannes Kepler's Lesson in Modeling, Eccentricity, Parameter Estimation, Weight, Bias and Gradients, Simple Linear Model, Loss Function or Cost Function, Mean Square Loss, Broadcasting and few more Topics related to the same from here. I have presented the simple Implementation of Representing Text, Mechanics of Learning and Simple Linear Model using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2059.PNG)
