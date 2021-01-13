@@ -509,3 +509,10 @@
   - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2059.PNG)
+
+**Day60 of 300DaysOfData!**
+- **Gradient Descent**: Gradient Descent is the first order iterative Optimization Algorithm for finding a local minimum of a Differentiable Function. Simply, Gradient is the derivates of the Function with respect to each Parameter. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I have learned about Cost Function or Loss Function, Optimizing Parameters using Gradient Descent, Decreasing Loss Function, Parameter Estimation, Mechanics of Learning, Scaling Factor and Learning Rate, Evaluations of Model, Computing the Derivative of Loss Function and Linear Function, Defining Gradient Function, Partial Derivative and Iterating the Model, The Training Loop and few more Topics related to the same from here. I have presented the Implementation of Loss Function, Computing Derivatives, Gradient Function and Training Loop here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2060.PNG)
