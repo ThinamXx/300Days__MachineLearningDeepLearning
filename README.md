@@ -524,3 +524,10 @@
   - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2061.PNG)
+
+**Day62 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I have learned about Gradient Descent, PyTorch's Autograd and Backpropagation, Chain Rule and Tensors, Grad Attribute and Parameters, Simple Linear Function and Simple Loss Function, Accumulating Grad Functions, Zeroing the Gradients, Autograd Enabled Training Loop, Optimizers and Vanilla Gradient Descent and Optim Submodule of Torch and few more Topics related to the same from here. I have presented the simple Implementation of Linear Model and Loss Function, Autograd Enabled Training Loop using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2062.PNG)
