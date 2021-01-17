@@ -530,3 +530,11 @@
   - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2062.PNG)
+
+**Day63 of 300DaysOfData!**
+- **Stochastic Gradient Descent**: Stochastic Gradient Descent or SGD comes from the fact that the Gradient is typically obtained by averaging over a random subset of all Input samples. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I have learned about Optimizers, Vanilla Gradient Descent Optimization, Stochastic Gradient Descent, Momentum Argument, Minibatch, Learning Rate and Params, Optim Module, Neural Network Models, Adam Optimizers, Backpropagation, Optimizing Weights, Training, Validation and Overfitting, Evaluating the Training Loss, Generalizing to the Validation Set, Overfitting and Penalization Terms and few more Topics related to the same from here. I have presented the Implementation of SGD and Adam Optimizer along with the Training Loop here in the Snapshots. It is the continuation of the previous Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2063.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2063a.PNG)
