@@ -538,3 +538,10 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2063.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2063a.PNG)
+
+**Day64 of 300DaysOfData!**
+- **Activation Functions**: Activation Functions are Nonlinear which allows the overall network to approximate more complex functions. They are differentiable so that Gradients can be computed through them. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I am learning to use a Neural Network to fit the Data, Artificial Neurons, The Learning Process and Loss Function, Non Linear Activation Functions, Weights and Biases, Composing a Multilayer Network, Understanding the Error Function, Capping and Compressing the Output Range, Tanh and ReLU Activations, Choosing the Activation Functions, The PyTorch NN Module and few more Topics related to the same from here. I have presented the simple Implementation of Linear Model and Training Loop using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2064.PNG)
