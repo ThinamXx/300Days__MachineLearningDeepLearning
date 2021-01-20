@@ -546,3 +546,10 @@
   - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2064.PNG)
+
+**Day65 of 300DaysOfData!**
+- **Activation Functions**: Activation Functions are Nonlinear which allows the overall network to approximate more complex functions. They are differentiable so that Gradients can be computed through them. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I have learned about The PyTorch NN Module, Simple Linear Model, Batching Input Data, Optimizing Batches, Mean Square Error Loss Function, Training Loop, Neural Networks, Sequential Model, Tanh Activation Function, Inspecting Parameters, Weights and Biases, OrderedDict Module, Comparing to the Linear Model, Overfitting and few more Topics related to the same form here. I have presented the simple Implementation of Sequential Model and OrderedDict Submodule using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2065.PNG)
