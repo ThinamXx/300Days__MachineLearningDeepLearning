@@ -552,3 +552,11 @@
   - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2065.PNG)
+
+**Day66 of 300DaysOfData!**
+- **Computer Vision**: Computer Vision is an Interdisciplinary scientific field that deals with how computers can gain high level understanding from digital images or videos. It seeks to understand and automate tasks that the human visual system can do. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I have started the new Topic Learning From Images. I have learned about Simple Image Recognition, CIFAR10 which is a Dataset of Tiny Images, Torch Vision Module, The Dataset Class, Iterable Dataset, Python Imaging Library or PIL Package, Dataset Transforms, Arrays and Tensors, Permute Function and few more Topics related to the same. I have presented the simple Implementation of Torch Vision Module along with CIFAR10 Dataset using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2066.PNG)
+
