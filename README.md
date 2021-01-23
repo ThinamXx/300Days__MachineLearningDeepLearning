@@ -560,3 +560,9 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2066.PNG)
 
+**Day67 of 300DaysOfData!**
+- **Computer Vision**: Computer Vision is an Interdisciplinary scientific field that deals with how computers can gain high level understanding from digital images or videos. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I have learned about Permutation Function, Normalizing the Data, Stacking, Mean and Standard Deviation, Torch Vision Module and Submodules, CIFAR10 Dataset, PIL Package, Image Recognition, Building the Dataset, Building a fully connected Neural Networks Model, Sequential Model, Simple Linear Model, Classification and Regression Problems, One Hot Encoding and Softmax and few more Topics related to the same from here. I have presented the Implementation of Normalizing the Data, Building the Dataset and Neural Network Model using Torch Vision Modules here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2067.PNG)
