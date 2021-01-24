@@ -566,3 +566,11 @@
   - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2067.PNG)
+
+**Day68 of 300DaysOfData!**
+- **Softmax Function**: Softmax Function is a type of function that takes a vector of values and produces another vector of the same dimension where the values satisfy the constraints presented as Probabilities. Softmax is a monotone function that the lower values in the input will correspond to lower values in the output. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I have learned about Representing Output as Probabilities and Softmax Function, PyTorch's NN Module, Backpropagation, A Loss for Classification, MSE Loss, Negative Log Likelihood or NLL Loss, Log Softmax Function, Training the Classifier, Stochastic Gradient Descent, Hyperparameters, Minibatches and few more Topics related to the same from here. I have presented the Implementation of Softmax Function, Building Neural Network Model and Training Loop using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2068.PNG)
+
