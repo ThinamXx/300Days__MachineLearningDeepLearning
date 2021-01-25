@@ -574,3 +574,9 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2068.PNG)
 
+**Day69 of 300DaysOfData!**
+- **Cross Entropy Loss**: Cross Entropy Loss is a negative log likelihood of the predicted distribution under the target distribution as an outcome. The combination of Log Softmax Function and NLL Loss Function is equivalent to using Cross Entropy Loss. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I have learned about Gradient Descent, Minibatches and Data Loader, Stochastic Gradient Descent, Neural Network Model, Log Softmax Function, NLL Loss Function, Cross Entropy Loss Function, Trainable Parameters, Weights an Biases, Translation Invariant, Data Augment, Torch Vision and NN Modules and few more Topics related to the same from here. I have presented the Implementation of Building Deep Neural Network, Training Loop and Model Evaluation using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2069.PNG)
