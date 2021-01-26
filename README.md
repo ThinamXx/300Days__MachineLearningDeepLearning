@@ -581,3 +581,10 @@
   - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2069.PNG)
+
+**Day70 of 300DaysOfData!**
+- **Translational Invariance**: Translational Invariance makes the Convolutional Neural Network invariant to translation which means that if we translate the Inputs then the CNN will still be able to detect the class to which the Input belongs. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I have started reading the Topic Using Convolutions to Generalize. I have learned about Convolutional Neural Network, Translation Invariant, Weights and Biases, Discrete Cross Correlations, Locality or Local Operations on Neighborhood Data, Model Parameters, Multi Channel Image, Padding the Boundary, Kernel Size, Detecting Features with Convolutions and few more Topics related to the same. I have presented the simple Implementation of CNN and Building the Data using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2070.PNG)
