@@ -3,6 +3,7 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
+
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -587,3 +588,10 @@
   - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2070.PNG)
+
+**Day71 of 300DaysOfData!**
+- **Down Sampling**: Down Sampling is the scaling of an Image by half which is equivalent of taking four neighboring pixels as input and producing one pixel as Output. Down Sampling principle can be implemented in different ways. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I have learned about Kernel Size, Padding the Image, Edge Detection Kernel, Locality and Translation Invariant, Learning Rate and Weight Update, Max Pooling Layer and Down Sampling, Stride, Convolutional Neural Networks, Receptive Field, Tanh Activation Function, Simple Linear Model, Sequential Model, Parameters of the Model and few more Topics related to the same from here. I have presented the Implementation of Convolutional Neural Network, Plotting the Image and Inspecting the Parameters of the Model using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2071.PNG)
