@@ -601,3 +601,10 @@
   - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2072.PNG)
+
+**Day73 of 300DaysOfData!**
+- **Down Sampling**: Down Sampling is the scaling of an Image by half which is equivalent of taking four neighboring pixels as input and producing one pixel as Output. Down Sampling principle can be implemented in different ways. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I have learned about The Torch NN Module, The Functional API, Convolutional Neural Network and The Training, The Data Loader Module, Forward and Backward Pass of the Network, Stochastic Gradient Descent Optimizer, Zeroing the Gradients, Cross Entropy Loss Function, Model Evaluation and Gradient Descent and few more Topics related to the same from here. I have presented the Implementation of Training Loop and Model Evaluation using PyTorch here in the Snapshot. Actually, It is the continuation of yesterday's Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2073.PNG)
