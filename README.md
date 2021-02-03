@@ -615,3 +615,10 @@
   - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2074.PNG)
+
+**Day75 of 300DaysOfData!**
+- **L2 Regularization**: L2 Regularization is the sum of the squares of all the weights in the Model whereas L1 Regularization is the sum of the absolute values of all the weights in the Model. L2 Regularization is also referred to as Weight Decay. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I have learned about Convolutional Neural Network, L2 Regularization and L1 Regularization, Optimization and Generalization, Weight Decay, The PyTorch NN Module and Sub Modules, Stochastic Gradient Descent Optimizer, Overfitting and Dropout, Deep Neural Networks, Randomization and few more Topics related to the same from here. I have presented the Implementation of L2 Regularization and Dropout Layer using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2075.PNG)
