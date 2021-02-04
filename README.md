@@ -3,6 +3,7 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
+
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -622,3 +623,10 @@
   - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2075.PNG)
+
+**Day76 of 300DaysOfData!**
+- **L2 Regularization**: L2 Regularization is the sum of the squares of all the weights in the Model whereas L1 Regularization is the sum of the absolute values of all the weights in the Model. L2 Regularization is also referred to as Weight Decay. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I have learned about Dropout Module, Batch Normalization and Non Linear Activation Functions, Regularization and Principled Augmentation, Convolutional Neural Networks, Minibatch and Standard Deviation, Deep Neural Networks and Depth Module, Skip Connections Mechanism, ReLU Activation Function, Implementation of Functional API and few more Topics related to the same from here. I have presented the Implementation of Batch Normalization and Deep Neural Networks and Depth Module using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2076.PNG)
