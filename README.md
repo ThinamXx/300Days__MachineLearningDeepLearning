@@ -630,3 +630,11 @@
   - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2076.PNG)
+
+**Day77 of 300DaysOfData!**
+- **Identity Mapping**: When the output of the first activations is used as the input of the last in addition to the standard feed forward path then it is called the Identity Mapping. Identity Mapping alleviate the issues of vanishing gradients. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I have learned about Convolutional Neural Networks, Skip Connections, ResNet Architecture, Simple Linear Layer, Max Pooling Layer, Identity Mapping, Highway Networks, UNet Model, Dense Networks and Very Deep Neural Networks, Sequential and Functional API, Forward and Backpropagation, Torch Vision Module and Sub Modules, Batch Normalization Layer, Custom Initializations and few more Topics related to the same from here. I have presented the Implementation of ResNet Architecture and Very Deep Neural Networks using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2077a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2077b.PNG)
