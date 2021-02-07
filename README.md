@@ -3,6 +3,7 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
+
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -637,3 +638,11 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2077a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2077b.PNG)
+
+**Day78 of 300DaysOfData!**
+- **Voxel**: A Voxel is the 3D equivalent to the familiar 2D pixel. It encloses a volume of space rather than an area. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I have learned about CT Scan Dataset, Voxel, Segmentation, Grouping and Classification, Nodules, 3D Convolutions, Neural Networks, Downloading the LUNA Dataset, Data Loading, Parsing the Data, Training and Validation Set and few more Topics related to the same from here. I have started working with LUNA Dataset which stands for Lung Nodule Analysis 2016. The LUNA Grand Challenge is the combination of an open dataset with high quality labels of patient CT scans: many with lung nodules and a public ranking of classifiers against the data. I have presented the Implementation of Preparing the Data using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+- [**LUNG TUMOR DETECTION**](https://github.com/ThinamXx/LungTumor__Detection)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2078.PNG)
