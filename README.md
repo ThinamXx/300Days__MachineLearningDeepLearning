@@ -645,3 +645,11 @@
   - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2078.PNG)
+
+**Day79 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I have learned about Data Loading and Parsing the Data, CT Scan Dataset, Data Pipeline and few more Topics related to the same from here. Besides, I have also learned about Auto Encoders, Recurrent Neural Networks and Long Short Term Memory or LSTM, Data Processing, One Hot Encoding, Random Splitting of Training and Validation Dataset and few more. I have continued working with LUNA Dataset which stands for Lung Nodule Analysis 2016. The LUNA Grand Challenge is the combination of an open dataset with high quality labels of patient CT scans: many with lung nodules and a public ranking of classifiers against the data. I have presented the simple Implementation of Data Preparation using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- [**LUNG TUMOR DETECTION**](https://github.com/ThinamXx/LungTumor__Detection)
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2079.PNG)
