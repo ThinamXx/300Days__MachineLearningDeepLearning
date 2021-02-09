@@ -654,3 +654,11 @@
   - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2079.PNG)
+
+**Day80 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I have learned about Loading the Individual CT Scans Dataset, 3D Nodules Density Data, SimpleITK Library, Hounsfield Units, Voxels, Batch Normalization, Loading a Nodule using the Patient Coordinate System, Converting between Millimeters and Voxel Addresses, Array Coordinates, Matrix Multiplication and few more Topics related to the same from here. Besides I have also learned about Auto Encoders using LSTM, Stateful Decoder Model and Data Visualization. I have continued working with LUNA Dataset which stands for Lung Nodule Analysis 2016. I have presented the Implementation of Conversion between Patient Coordinates and Arrays Coordinates on CT Scans Dataset using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- [**LUNG TUMOR DETECTION**](https://github.com/ThinamXx/LungTumor__Detection)
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2080.PNG)
