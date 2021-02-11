@@ -3,6 +3,7 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
+
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -658,3 +659,10 @@
   - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
 
 ![image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2080.PNG)
+
+**Day81 of 300DaysOfData!**
+- **Voxel and Nodules**: A Voxel is the 3D equivalent to the familiar 2D pixel. It encloses a volume of space rather than an area. A mass of tissue made of proliferating cell in the lung is called a Tumor. A small Tumor just a few millimeters wide is called a Nodules. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Deep Learning with PyTorch**. Here, I have learned about PyTorch Dataset Instance Implementation, LUNA Dataset Class, Cross Entropy Loss, Positive and Negative Nodules, Arrays and Tensors, Caching Candidate Arrays, Training and Validation Datasets, Data Visualization and few more Topics related to the same from here. Besides I have also learned about about Normalization of Data, Variance Threshold, RDKIT Library and few more Topics related to the same. I have presented the Implementation of Preparing the LUNA Dataset using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2081.PNG)
