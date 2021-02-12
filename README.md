@@ -666,3 +666,10 @@
   - [**Deep Learning with PyTorch**](https://www.manning.com/books/deep-learning-with-pytorch)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2081.PNG)
+
+**Day82 of 300DaysOfData!**
+- **Tagging Algorithms**: The problem of learning to predict classes that are not mutually exclusive is called Multilabel Classification. Auto Tagging Problems are best described as Multilabel Classification Problems. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about A Motivating Example on Machine Learning, Learning Algorithms, Training Process, Data, Features, Models, Objective Functions, Optimization Algorithms, Supervised Learning, Regression, Binary, Multiclass and Hierarchical Classification, Cross Entropy and Mean Squared Error Loss Functions, Gradient Descent, Tagging Algorithms and few more Topics related to the same from here. I have presented the Implementation of Preparing the Data, Normalization, Removing Low Variance Features and Data Loaders using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2082.PNG)
