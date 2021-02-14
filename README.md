@@ -3,6 +3,7 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
+
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -673,3 +674,10 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
   
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2082.PNG)
+
+**Day83 of 300DaysOfData!**
+- **Reinforcement Learning**: Reinforcement Learning gives a very general statement of problem in which an agent interacts with the environment over a series of time steps and receives some observation and must choose action. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Search Algorithms, Recommender Systems, Sequence Learning, Tagging and Parsing, Machine Translation, Unsupervised Learning, Interacting with an Environment and Reinforcement Learning, Data Manipulation, Mathematical Operations, Broadcasting Mechanisms, Indexing and Slicing, Saving Memory in Tensors, Conversion to Other Datatypes and few more Topics related to the same from here. I have presented the Implementation of Mathematical Operations, Tensors Concatenation, Broadcasting Mechanisms and Datatypes Conversion using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2083.PNG)
