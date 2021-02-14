@@ -11,6 +11,7 @@
 | 4. [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/) |
 | 5. [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course) |
 | 6. [**Deep Learning with PyTorch: Part I**](https://www.manning.com/books/deep-learning-with-pytorch) |
+| 7. [**Dive into Deep Learning**](https://d2l.ai/) |
 
 
 | Research Papers |
