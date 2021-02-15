@@ -681,3 +681,10 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
   
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2083.PNG)
+
+**Day84 of 300DaysOfData!**
+- **Tensors**: Tensors refer to algebraic objects describing the n dimensional arrays with an arbitrary number of axes. Vectors are first order Tensors and Matrices are second order Tensors. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Data Processing, Reading the Dataset, Handling the Missing Data, Categorical Data, Conversion to the Tensor Format, Linear Algebra such as Scalars, Vectors, Length, Dimensionality and Shape, Matrices, Symmetric Matrix, Tensors, Basic Properties of Tensor Arithmetic, Reduction, Non Reduction Sum, Dot Products, Matrix Vector Products and few more Topics related to the same from here. I have presented the Implementation of Data Processing, Handling the Missing Data, Scalars, Vectors, Matrices and Dot Products using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2084.PNG)
