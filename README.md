@@ -688,3 +688,10 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
   
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2084.PNG)
+
+**Day85 of 300DaysOfData!**
+- **Method of Exhaustion**: The ancient process of finding the area of curved shapes such as circle by inscribing the polygons in such shapes which better approximate the circle is called the Method of Exhaustion. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Matrix Multiplication, L1 and L2 Normalization, Frobenius Normalization, Calculus, Method of Exhaustion, Derivatives and Differentiation, Partial Derivatives, Gradient Descents, Chain Rule, Automatic Differentiation, Backward for Non Scalar Variables, Detaching Computation, Backpropagation, Computing the Gradient with Control Flow and few more Topics related to the same from here. I have presented the Implementation of Matrix Multiplication, L1, L2 and Frobenius Normalization, Derivatives and Differentiation, Automatic Differentiation and Computing the Gradient using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2085.PNG)
