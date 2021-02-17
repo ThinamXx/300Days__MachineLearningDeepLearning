@@ -695,3 +695,10 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
   
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2085.PNG)
+
+**Day86 of 300DaysOfData!**
+- **Method of Exhaustion**: The ancient process of finding the area of curved shapes such as circle by inscribing the polygons in such shapes which better approximate the circle is called the Method of Exhaustion. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Probabilities, Basic Probability Theory, Sampling, Multinomial Distribution, Axioms of Probability Theory, Random Variables, Dealing with Multiple Random Variables, Joint Probability, Conditional Probability, Bayes Theorem, Marginalization, Independence and Dependence, Expectation and Variance, Finding Classes and Functions in a Module and few more Topics related to the same from here. I have presented the Implementation of Multinomial Distribution, Visualization of Probabilities, Derivatives and Differentiation using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2086.PNG)
