@@ -702,3 +702,10 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2086.PNG)
+
+**Day87 of 300DaysOfData!**
+- **Hyperparameters**: The parameters that are tunable but not updated in the training loop are called Hyperparameters. Hyperparameters Tuning is the process by which hyperparameters are chosen and typically requires adjusting based on the results of the Training Loop. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Linear Regression, Basic Elements of Linear Regression, Linear Model and Transformation, Loss Function, Analytic Solution, Minibatch Stochastic Gradient Descent, Making Predictions with the Learned Model, Vectorization of Speed, The Normal Distribution and Squared Loss, Linear Regression to Deep Neural Networks, Biological Interpretation, Hyperparameters Tuning and few more Topics related to the same from here. I have presented the Implementation of Vectorization of Speed and Normal Distributions using Python here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2087.PNG)
