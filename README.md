@@ -709,3 +709,10 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2087.PNG)
+
+**Day88 of 300DaysOfData!**
+- **Hyperparameters**: The parameters that are tunable but not updated in the training loop are called Hyperparameters. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Linear Regression Implementation From Scratch, Data Pipeline, Deep Learning Frameworks, Generating the Artificial Dataset, Scatter Plot and Correlation, Reading the Dataset, Minibatches, Features and Labels, Parallel Computing, Initializing the Model Parameters, Minibatch Stochastic Gradient Descent, Defining the Simple Linear Regression Model, Broadcasting Mechanism, Vectors and Scalars and few more Topics related to the same from here. I have presented the Implementation of Generating the Synthetic Dataset, Generating the Scatter Plot, Reading the Dataset, Initializing the Model Parameters and Defining the Linear Regression Model using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2088.PNG)
