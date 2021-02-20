@@ -716,3 +716,10 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2088.PNG)
+
+**Day89 of 300DaysOfData!**
+- **Linear Regression**: Linear Regression is a linear approach to modelling the relationship between a scalar response and one or more explanatory variables also known as dependent variables and independent variables. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Linear Regression, Defining the Loss Function, Defining the Optimization Algorithm, Minibatch Stochastic Gradient Descent, Training the Model, Tensors and Differentiation, Concise Implementation of Linear Regression, Generating the Synthetic Dataset, Model Evaluation and few more Topics related to the same from here. I have presented the Implementation of Defining the Loss Function, Minibatch Stochastic Gradient Descent, Training and Evaluating the Model, Concise Implementation of Linear Regression and Reading the Dataset using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2089.PNG)
