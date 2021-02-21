@@ -723,3 +723,11 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2089.PNG)
+
+**Day90 of 300DaysOfData!**
+- **Linear Regression**: Linear Regression is a linear approach to modelling the relationship between a scalar response and one or more explanatory variables also known as dependent variables and independent variables. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Softmax Regression, Classification Problem, Network Architecture, Parameterization Cost of Fully Connected Layers, Softmax Operation, Vectorization for Minibatches, Loss Function, Log Likelihood, Softmax and Derivatives, Cross Entropy Loss, Information Theory Basics, Entropy and Surprisal, Model Prediction and Evaluation, The Image Classification Dataset and few more Topics related to the same from here. I have presented the Implementation of Image Classification Dataset, Visualization, Softmax Regression and Operation along with Model Parameters using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2090a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2090b.PNG)
