@@ -731,3 +731,11 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2090a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2090b.PNG)
+
+**Day91 of 300DaysOfData!**
+- **Activation Functions**: Activation Functions decide whether a neuron should be activated or not by calculating the weighted sum and further adding bias with it. They are differentiable operators. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Cross Entropy Loss Function, Classification Accuracy and Training, Softmax Regression, Model Parameters, Optimization Algorithms, Multi Layer Perceptrons, Hidden Layers, Linear Models Problems, From Linear to Nonlinear Models, Universal Approximators, Activation Functions like RELU Function, Sigmoid Function, Tanh Function, Derivatives and Gradients and few more Topics related to the same from here. I have presented the Implementation of Softmax Regression Model, Classification Accuracy, RELU Function, Sigmoid Function, Tanh Function along with Visualizations using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2091a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2091b.PNG)
