@@ -739,3 +739,10 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2091a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2091b.PNG)
+
+**Day92 of 300DaysOfData!**
+- **Activation Functions**: Activation Functions decide whether a neuron should be activated or not by calculating the weighted sum and further adding bias with it. They are differentiable operators. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Implementation of Multi Layer Perceptrons, Initializing Model Parameters, RELU Activation Functions, Cross Entropy Loss Function, Training the Model, Fully Connected Layers, Simple Linear Layer, Softmax Regression and Function, Stochastic Gradient Descent, Sequential API, High Level APIs, Learning Rate, Weights and Biases, Tensors, Hyperparameters and few more Topics related to the same from here. I have presented the Implementation of Multi Layer Perceptrons, RELU Activation Function, Training the Model and Model Evaluations using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2092.PNG)
