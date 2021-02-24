@@ -746,3 +746,11 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2092.PNG)
+
+**Day93 of 300DaysOfData!**
+- **Multi Layer Perceptrons**: The simplest deep neural networks are called Multi Layer Perceptrons. They consist of multiple layers of Neurons. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Model Selection, Underfitting, Overfitting, Training Error and Generalization Error, Statistical Learning Theory, Model Complexity, Early Stopping, Training, Testing and Validation Dataset, K-Fold Cross Validation, Dataset Size, Polynomial Regression, Generating the Dataset, Training and Testing the Model, Third Order Polynomial Function Fitting, Linear Function Fitting, High Order Polynomial Function Fitting, Weight Decay, Normalization and few more Topics related to the same from here. I have presented the Implementation of Generating the Dataset, Defining the Training Function and Polynomial Function Fitting using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2093a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2093b.PNG)
