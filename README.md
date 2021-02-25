@@ -754,3 +754,11 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2093a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2093b.PNG)
+
+**Day94 of 300DaysOfData!**
+- **Multi Layer Perceptrons**: The simplest deep neural networks are called Multi Layer Perceptrons. They consist of multiple layers of neurons each fully connected to those in layers below from which they receive input and above which in turn influence. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about High Dimensional Linear Regression, Model Parameters, Defining L2 Normalization Penalty, Defining the Training Loop, Regularization and Weight Decay, Dropout and Overfitting, Bias and Variance Tradeoff, Gaussian Distributions, Stochastic Gradient Descent, Training Error and Test Error and few more Topics related to the same from here. I have presented the Implementation of High Dimensional Linear Regression, Model Parameters, L2 Normalization Penalty, Regularization and Weight Decay using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2094a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2094b.PNG)
