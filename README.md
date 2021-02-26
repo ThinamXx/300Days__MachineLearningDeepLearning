@@ -3,6 +3,7 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
+
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -761,3 +762,11 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2094a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2094b.PNG)
+
+**Day95 of 300DaysOfData!**
+- **Dropout and Co-adaption**: Dropout is the process of injecting noise while computing each internal layer during forward propagation. Co-adaption is the condition in neural network which is characterized by a state in which each layer relies on the specific pattern of the activations in the previous layer. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Dropout, Overfitting, Generalization Error, Bias and Variance Tradeoff, Robustness through Perturbations, L2 Regularization and Weight Decay, Co-adaption, Dropout Probability, Dropout Layer, Fashion MNIST Dataset, Activation Functions, Stochastic Gradient Descent, The Sequential and Functional API and few more Topics related to the same from here. I have presented the Implementation of Dropout Layer, Training and Testing the Model using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2095a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2095b.PNG)
