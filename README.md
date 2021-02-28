@@ -3,6 +3,7 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
+
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -769,3 +770,11 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2095a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2095b.PNG)
+
+**Day96 of 300DaysOfData!**
+- **Dropout and Co-adaption**: Dropout is the process of injecting noise while computing each internal layer during forward propagation. Co-adaption is the condition in neural network which is characterized by a state in which each layer relies on the specific pattern of the activations in the previous layer. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Forward Propagation, Backward Propagation and Computational Graphs, Numerical Stability, Vanishing and Exploding Gradients, Breaking the Symmetry, Parameter Initialization, Environment and Distribution Shift, Covariate Shift, Label Shift, Concept Shift, Non stationary Distributions, Empirical Risk and True Risk, Batch Learning, Online Learning, Reinforcement Learning and few more Topics related to the same from here. I have presented the Implementation of Data Preprocessing and Data Preparation using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+- [**Predicting Housing Prices**](https://github.com/ThinamXx/Predicting__HousingPrices.git)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2096.PNG)
