@@ -778,3 +778,12 @@
 - [**Predicting Housing Prices**](https://github.com/ThinamXx/Predicting__HousingPrices.git)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2096.PNG)
+
+**Day97 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Training and Building Deep Networks, Downloading and Caching Datasets, Data Preprocessing, Regression Problems, Accessing and Reading the Dataset, Numerical and Discrete Categorical Features, Optimization and Variance, Arrays and Tensors, Simple Linear Model, The Sequential API, Root Mean Squared Error, Adam Optimizer, Hyperparameter Tuning, K-Fold Cross Validation, Training and Validation Error, Model Selection, Overfitting and Regularization and few more Topics related to the same from here. I have presented the Implementation of Simple Linear Model, Root Mean Squared Error, Training Function and K-Fold Cross Validation using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+- [**Predicting Housing Prices**](https://github.com/ThinamXx/Predicting__HousingPrices.git)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2097.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2097a.PNG)
