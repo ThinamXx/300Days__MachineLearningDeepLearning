@@ -787,3 +787,11 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2097.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2097a.PNG)
+
+**Day98 of 300DaysOfData!**
+- **Constant Parameters**: Constant Parameters are the terms that are neither the result of the previous layers nor updatable parameters in the Neural Networks. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about K-Fold Cross Validation, Training and Predictions, Hyperparameters Optimization, Deep Learning Computation, Layers and Blocks, Softmax Regression, Multi Layer Perceptrons, ResNet Architecture, Forward and Backward Propagation Function, RELU Activation Function, The Sequential Block Implementation, MLP Implementation, Constant Parameters and few more Topics related to the same from here. I have presented the Implementation of MLP, The Sequential API Class and Forward Propagation Function using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+- [**Predicting Housing Prices**](https://github.com/ThinamXx/CaliforniaHousing__Prices/blob/main/PredictingHousePrices.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2098.PNG)
