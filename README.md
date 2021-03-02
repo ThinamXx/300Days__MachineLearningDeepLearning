@@ -775,7 +775,7 @@
 - **Dropout and Co-adaption**: Dropout is the process of injecting noise while computing each internal layer during forward propagation. Co-adaption is the condition in neural network which is characterized by a state in which each layer relies on the specific pattern of the activations in the previous layer. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Forward Propagation, Backward Propagation and Computational Graphs, Numerical Stability, Vanishing and Exploding Gradients, Breaking the Symmetry, Parameter Initialization, Environment and Distribution Shift, Covariate Shift, Label Shift, Concept Shift, Non stationary Distributions, Empirical Risk and True Risk, Batch Learning, Online Learning, Reinforcement Learning and few more Topics related to the same from here. I have presented the Implementation of Data Preprocessing and Data Preparation using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
 - Book:
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
-- [**Predicting Housing Prices**](https://github.com/ThinamXx/Predicting__HousingPrices.git)
+- [**Predicting Housing Prices**](https://github.com/ThinamXx/CaliforniaHousing__Prices/blob/main/PredictingHousePrices.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2096.PNG)
 
@@ -783,7 +783,7 @@
 - On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Training and Building Deep Networks, Downloading and Caching Datasets, Data Preprocessing, Regression Problems, Accessing and Reading the Dataset, Numerical and Discrete Categorical Features, Optimization and Variance, Arrays and Tensors, Simple Linear Model, The Sequential API, Root Mean Squared Error, Adam Optimizer, Hyperparameter Tuning, K-Fold Cross Validation, Training and Validation Error, Model Selection, Overfitting and Regularization and few more Topics related to the same from here. I have presented the Implementation of Simple Linear Model, Root Mean Squared Error, Training Function and K-Fold Cross Validation using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
 - Book:
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
-- [**Predicting Housing Prices**](https://github.com/ThinamXx/Predicting__HousingPrices.git)
+- [**Predicting Housing Prices**](https://github.com/ThinamXx/CaliforniaHousing__Prices/blob/main/PredictingHousePrices.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2097.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2097a.PNG)
