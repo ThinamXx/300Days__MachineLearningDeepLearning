@@ -795,3 +795,11 @@
 - [**Predicting Housing Prices**](https://github.com/ThinamXx/CaliforniaHousing__Prices/blob/main/PredictingHousePrices.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2098.PNG)
+
+**Day99 of 300DaysOfData!**
+- **Constant Parameters**: Constant Parameters are the terms that are neither the result of the previous layers nor updatable parameters in the Neural Networks. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Parameter Management, Parameter Access, Targeted Parameters, Collecting Parameters from Nested Block, Parameter Initialization, Custom Initialization, Tied Parameters, Deferred Initialization, Multi Layer Perceptrons, Input Dimensions, Defining Custom Layers, Layers without Parameters, Forward Propagation Function, Constant Parameters, Xavier Initializer, Weight and Bias and few more Topics related to the same from here. I have presented the Implementation of Parameter Access, Parameter Initialization, Tied Parameters and Layers without Parameters using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2099a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2099b.PNG)
