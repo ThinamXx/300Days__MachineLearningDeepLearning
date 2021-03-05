@@ -810,3 +810,10 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20100a.PNG)
+
+**Day101 of 300DaysOfData!**
+- **Invariance and Locality Principle**: Translation Invariance principle states that out network should respond similarly to the same patch regardless of where it appears in the image. Locality Principle states that the network should focus on local regions without regard to the contents of the image in distant regions. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Convolutional Neural Networks, Convolutions for Images, The Cross Correlation Operation, Convolutional Layers, Constructor and Forward Propagation Function, Weight and Bias, Object Edge Detection in Images, Learning a Kernel, Back Propagation, Feature Map and Receptive Field, Kernel Parameters and few more Topics related to the same from here. I have presented the Implementation of Cross Correlation Operation, Convolutional Layers and Learning a Kernel using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20101.PNG)
