@@ -3,6 +3,7 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
+
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -816,3 +817,12 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20101.PNG)
+
+**Day102 of 300DaysOfData!**
+- **Maximum Pooling**: Pooling Operators consist of a fixed shape window that is slid over all the regions in the input according to its stride computing a single output for each location which is either maximum or the average value of the elements in the pooling window. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Padding and Stride, Strided Convolutions, Cross Correlations, Multiple Input and Multiple Output Channels, Convolutional Layer, Maximum Pooling Layer and Average Pooling Layer, Pooling Window and Operators, Convolutional Neural Networks, LeNet Architecture, Supervised Learning, Convolutional Encoder, Sigmoid Activation Function and few more Topics related to the same from here. I have presented the Implementation of CNN, Implementation of Padding, Stride and Pooling Layers, Multiple Channels using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20102.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20102a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20102b.PNG)
