@@ -826,3 +826,11 @@
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20102.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20102a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20102b.PNG)
+
+**Day103 of 300DaysOfData!**
+- **VGG Networks**: VGG Networks construct a network using reusable convolutional blocks. VGG Models are defined by the number of convolutional layers and output channels in each block. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Convolutional Neural Networks, Supervised Learning, Deep CNN and AlexNet, Support Vector Machine and Features, Learning Representations, Data and Hardware Accelerator Problems, Architectures of LeNet and AlexNet, Activation Functions such as ReLU, Networks using CNN Blocks, VGG Neural Networks Architecture, Padding and Pooling, Convolutional Layers, Dropout, Dense and Linear Layers and few more Topics related to the same from here. I have presented the Implementation of AlexNet Architecture and VGG Networks Architecture along with CNN Blocks using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20103a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20103b.PNG)
