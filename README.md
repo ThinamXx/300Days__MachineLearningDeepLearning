@@ -834,3 +834,11 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20103a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20103b.PNG)
+
+**Day104 of 300DaysOfData!**
+- **VGG Networks**: VGG Networks construct a network using reusable convolutional blocks. VGG Models are defined by the number of convolutional layers and output channels in each block. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Network In Network or NIN Architecture, NIN Blocks and Model, Convolutional Layer, RELU Activation Function, The Sequential and Functional API, Global Average Pooling Layer, Networks with Parallel Concatenations or GoogLeNet, Inception Blocks, GoogLeNet Model and Architecture, Maximum Pooling Layer, Training the Model and few more Topics related to the same from here. I have presented the Implementation of NIN Block and Model, Inception Block and GoogLeNet Model using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20104a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20103b.PNG)
