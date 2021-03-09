@@ -842,3 +842,11 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20104a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20104b.PNG)
+
+**Day105 of 300DaysOfData!**
+- **Batch Normalization**: Batch Normalization continuously adjusts the intermediate output of the neural network by utilizing the mean and standard deviation of the minibatch so that the values of the intermediate output are more stable. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Batch Normalization, Training Deep Neural Networks, Scale Parameter and Shift Parameter, Batch Normalization Layers, Fully Connected Layers, Convolutional Layers, Batch Normalization during Prediction, Tensors, Mean and Variance, Applying BN in LeNet, Concise Implementation of BN using high level API, Internal Covariate Shift, Dropout Layer, Residual Networks or ResNet, Function Classes, Residual Blocks and few more Topics related to the same from here. I have presented the Implementation of Batch Normalization Architecture using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20105a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20105b.PNG)
