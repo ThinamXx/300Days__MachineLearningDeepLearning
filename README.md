@@ -850,3 +850,11 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20105a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20105b.PNG)
+
+**Day106 of 300DaysOfData!**
+- **Batch Normalization**: Batch Normalization continuously adjusts the intermediate output of the neural network by utilizing the mean and standard deviation of the minibatch so that the values of the intermediate output are more stable. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Densely Connected Neural Networks or DenseNet, Dense Blocks, Batch Normalization, Activation Functions and Convolutional Layer, Transition Layer, Residual Networks or ResNet, Function Classes, Residual Blocks, Residual Mapping, Residual Connection, ResNet Model, Maximum and Average Pooling Layers, Training the Model and few more Topics related to the same from here. I have presented the Implementation of ResNet Architecture and ResNet Model using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20106a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20106a.PNG)
