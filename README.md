@@ -858,3 +858,12 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20106a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20106b.PNG)
+
+**Day107 of 300DaysOfData!**
+- **Sequence Models**: The prediction beyond the known observations is called Extrapolation. The estimating between the existing observations is called Interpolation. Sequence Models require specialized statistical tools for estimation such as Auto Regressive Models. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about DenseNet Model, Convolutional Layers, Recurrent Neural Networks, Sequence Models, Interpolation and Extrapolation, Statistical Tools, Autoregressive Models, Latent Autoregressive Models, Markov Models, Reinforcement Learning Algorithms, Causality, Conditional Probability Distribution, Training the MLP, One step ahead prediction and few more Topics related to the same from here. I have presented the Implementation of DenseNet Architectures and Simple Implementation of RNNs using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20107a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20107b.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20107c.PNG)
