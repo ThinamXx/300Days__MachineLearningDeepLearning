@@ -867,3 +867,10 @@
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20107a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20107b.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20107c.PNG)
+
+**Day108 of 300DaysOfData!**
+- **Tokenization and Vocabulary**: Tokenization is the splitting of a string or text into a list of tokens. Vocabulary is the dictionary that maps string tokens into numerical indices. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **ve into Deep Learning**Here, I have learned about Text Preprocessing, Corpus of Text, Tokenization Function, Sequence Models and Dataset, Vocabulary, Dictionary, Multilayer Perceptron, One step ahead prediction, Multi step ahead prediction, Tensors, Recurrent Neural Networks and few more Topics related to the same from here. I have presented the Implementation of Reading the Dataset, Tokenization and Vocabulary using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20108.PNG)
