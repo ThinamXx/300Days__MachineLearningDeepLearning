@@ -874,3 +874,13 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20108.PNG)
+
+**Day109 of 300DaysOfData!**
+- **Sequential Partitioning**: Sequential Partitioning is the strategy that preserves the order of split subsequences when iterating over minibatches. It ensures that the subsequences from two adjacent minibatches during iteration are adjacent in the original sequence. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Language Models and Sequence Dataset, Conditional Probability, Laplace Smoothing, Markov Models and NGrams, Unigram, Bigram and Trigram Models, Natural Language Statistics, Stop words, Word Frequencies, Zipf's Law, Reading Long Sequence Data, Minibatches, Random Sampling, Sequential Partitioning and few more Topics related to the same from here. I have presented the Implementation of Unigram, Bigram and Trigram Model Frequencies, Random Sampling and Sequential Partitioning using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20109a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20109b.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20109c.PNG)
+
