@@ -892,3 +892,10 @@
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20110.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20110a.PNG)
 
+**Day111 of 300DaysOfData!**
+- **Recurrent Neural Networks**: Recurrent Neural Networks are the networks that uses recurrent computation for hidden states. The hidden state of an RNN can capture historical information of the sequence up to the current time step. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Implementation of Recurrent Neural Networks, Defining the RNN Model, Training and Prediction, Backpropagation through Time, Exploding Gradients, Vanishing Gradients, Analysis of Gradients in RNNs, Full Computation, Truncating Time Steps, Randomized Truncation, Gradient Computing strategies in RNNs, Activation Functions, Regular Truncation and few more Topics related to the same from here. I have presented the Implementation of Recurrent Neural Networks, Training and Prediction using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20111a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20111a.PNG)
