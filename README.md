@@ -898,4 +898,4 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20111a.PNG)
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20111a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20111b.PNG)
