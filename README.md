@@ -899,3 +899,11 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20111a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20111b.PNG)
+
+**Day112 of 300DaysOfData!**
+- **Gated Recurrent Units**: Gated Recurrent Units or GRUs are a gating mechanisms in Recurrent Neural Networks in which hidden state should be updated and also when it should be reset. It aims to solve the vanishing gradient problem which comes with standard RNNs. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Modern Recurrent Neural Networks, Gradient Clipping, Gated Recurrent Units or GRUs, Memory cell, Gated Hidden State, Reset Gate and Update Gate, Broadcasting, Candidate Hidden State, Hadamard Product Operator, Hidden State, Initializing Model Parameters, Defining the GRU Model, Training and Prediction and few more Topics related to the same from here. I have presented the Implementation of Gated Recurrent Units, GRU Model, Training and Prediction using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20112a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20112b.PNG)
