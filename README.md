@@ -907,3 +907,11 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20112a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20112b.PNG)
+
+**Day113 of 300DaysOfData!**
+- **Long Short Term Memory**: Long Short Term Memory or LSTM is a type of Recurrent Neural Networks capable of learning order dependence in sequence prediction problems. LSTM has Input Gates, Forget Gates and Output Gates that control the flow of information. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Long Short Term Memory or LSTM, Gated Memory Cell, Input Gate, Forget Gate and Output Gate, Candidate Memory Cell, Tanh Activation Function, Sigmoid Activation Function, Memory Cell, Hidden State, Initializing Model Parameters, Defining the LSTM Model, Training and Prediction, Gated Recurrent Units or GRUs, Gaussian Distribution and few more Topics related to the same from here. I have presented the Implementation of Long Short Term Memory or LSTM Model, Training and Prediction using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20113a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20113b.PNG)
