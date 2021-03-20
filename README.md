@@ -917,6 +917,14 @@
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20113b.PNG)
 
 **Day114 of 300DaysOfData!**
+- **Long Short Term Memory**: Long Short Term Memory or LSTM is a type of Recurrent Neural Networks capable of learning order dependence in sequence prediction problems. LSTM has Input Gates, Forget Gates and Output Gates that control the flow of information. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Deep Recurrent Neural Networks, Functional Dependencies, Bidirectional Recurrent Neural Networks, Dynamic Programming in Hidden Markov Models, Bidirectional Model, Computational Cost and Applications, Machine Translation and Dataset, Preprocessing the Dataset, Tokenization, Vocabulary, Padding Text Sequences and few more Topics related to the same from here. I have presented the Implementations of Downloading the Dataset, Preprocessing, Tokenization and Vocabulary using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20114a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20114b.PNG)
+
+**Day115 of 300DaysOfData!**
 - **Encoder and Decoder Architecture**: Encoder takes a variable length sequence as the input and transforms it into a state with a fixed shape. Decoder maps the encoded state of a fixed shape to a variable length sequence. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Encoder and Decoder Architectures, Machine Translation Model, Sequence Transduction Models, Forward Propagation Function, Sequence to Sequence Learning, Recurrent Neural Networks, Embedding Layer, Gated Recurrent Units or GRU Layers, Hidden States and Units, RNN Encoder and Decoder Architecture, Vocabulary and few more Topics related to the same from here.I have presented the Implementation of Encoder, Decoder Architectures and RNN Encoder Decoder for Sequence to Sequence Learning using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
 - Book:
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
