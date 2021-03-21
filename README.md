@@ -931,3 +931,11 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20115a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20115b.PNG)
+
+**Day116 of 300DaysOfData!**
+- **Sequence Search**: Greedy Search is the conditional probability of generating an output sequence based on the input sequence. Beam Search is an improved version of Greedy Search with a hyperparameter named beam size. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Softmax Cross Entropy Loss Function, Sequence Masking, Teacher Forcing, Training and Prediction, Evaluation of Predicted Sequences, BLEU or Bilingual Evaluation Understudy, RNN Encoder Decoder, Beam Search, Greedy Search, Exhaustive Search, Attention Mechanisms, Attention Cues, Nonvolitional Cue and Volitional Cue, Queries, Keys and Values, Attention Pooling and few more Topics related to the same from here. I have presented the Implementation of Sequence Masking, Softmax Cross Entropy Loss, Training RNN Encoder Decoder Model and BLEU using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20116a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20116b.PNG)
