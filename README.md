@@ -939,3 +939,11 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20116a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20116b.PNG)
+
+**Day117 of 300DaysOfData!**
+- **Attention Pooling**: Attention Pooling selectively aggregates values or sensory inputs to produce the output. It implies the interaction between queries and keys. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Attention Pooling or Nadaraya Watson Kernel Regression, Queries or Volitional Cues and Keys or Non Volitional Cues, Generating the Dataset, Average Pooling, Non Parametric Attention Pooling, Attention Weight, Gaussian Kernel, Parametric Attention Pooling, Batch Matrix Multiplication, Defining the Model, Training the Model, Stochastic Gradient Descent, MSE Loss Function and few more Topics related to the same from here. I have presented the Implementation of Attention Mechanisms, Non Parametric Attention Pooling, Batch Matrix Multiplication, NW Kernel Regression Model, Training and Prediction using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20117a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20117b.PNG)
