@@ -954,3 +954,11 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20118.PNG)
+
+**Day119 of 300DaysOfData!**
+- **Attention Pooling**: Attention Pooling selectively aggregates values or sensory inputs to produce the output. It implies the interaction between queries or volitional cues and keys or non volitional cues. Attention Pooling is the weighted average of the training outputs. It can be parametric or nonparametric. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book "Dive into Deep Learning". Here, I have learned about Scaled Dot Product Attention, Queries, Keys and Values, Additive Attention, Attention Pooling, Bahdanau Attention, RNN Encoder Decoder Architecture, Hidden States, Embedding, Defining Decoder with Attention, Sequence to Sequence Attention Decoder and few more Topics related to the same from here.I have presented the Implementation of Scaled Dot Product Attention and Sequence to Sequence Attention Decoder Model using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20119a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20119b.PNG)
