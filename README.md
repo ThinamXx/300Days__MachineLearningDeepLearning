@@ -3,6 +3,7 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
+
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -284,7 +285,6 @@
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
   
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2029a.PNG)
-
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2029b.PNG)
 
 **Day30 of 300DaysOfData!**
@@ -300,7 +300,6 @@
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
   
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2031a.PNG)
-
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2031b.PNG)
 
 **Day32 of 300DaysOfData!**
@@ -961,3 +960,10 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20119a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20119b.PNG)
+
+**Day120 of 300DaysOfData!**
+- **Multi Head Attention**: Multi Head Attention is the design for attention mechanisms which runs through an attention mechanism several times in parallel. Instead of performing single attention pooling, queries, keys and values can be transformed into learned linear projections which are fed into attention pooling in parallel. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Bahdanau Attention, Recurrent Neural Networks Encoder Decoder Architecture, Training the Sequence to Sequence Model, Embedding Layer, Attention Weights, GRU, Heatmaps, Multi Head Attention, Queries, Keys and Values, Attention Pooling, Additive Attention and Scaled Dot Product Attention, Transpose Functions and few more Topics related to the same from here.  I have presented the Implementation Multi Head Attention using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20120.PNG)
