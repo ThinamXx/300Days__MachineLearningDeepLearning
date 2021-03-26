@@ -967,3 +967,10 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20120.PNG)
+
+**Day121 of 300DaysOfData!**
+- **Multi Head Attention**: Multi Head Attention is the design for attention mechanisms which runs through an attention mechanism several times in parallel. Instead of performing single attention pooling, queries, keys and values can be transformed into learned linear projections which are fed into attention pooling in parallel. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Multi Head Attention, Queries, Keys and Values, Attention Pooling, Scaled Dot Product Attention, Self Attention and Positional Encoding, Recurrent Neural Networks, Intra Attention, Comparing CNNs, RNNs and Self Attention, Padding Tokens, Absolute Positional Information, Relative Positional Information and few more Topics related to the same from here. I have presented the Implementation of Positional Encoding using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20121.PNG)
