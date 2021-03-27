@@ -974,3 +974,12 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20121.PNG)
+
+**Day122 of 300DaysOfData!**
+- **Transformer Architecture**: Transformer is an architecture for transforming one sequence into another one with the help of two parts, Encoder and Decoder. It makes the use of Self Attention mechanisms. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Transformer, Self Attention, Encoder and Decoder Architecture, Sequence Embeddings, Positional Encoding, Position Wise Feed Forward Networks, Residual Connection and Layer Normalization, Encoder Block and Multi Head Self Attention, Transformer Decoder, Queries, Keys and Values, Scaled Dot Product Attention and few more Topics related to the same from here. I have presented the Implementation of Position Wise Feed Forward Networks, Residual Connection and Layer Normalization, Encoder, Decoder Block and Transformer Decoder using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20122a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20122b.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20122c.PNG)
