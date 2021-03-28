@@ -13,7 +13,7 @@
 | 5. [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course) |
 | 6. [**Deep Learning with PyTorch: Part I**](https://www.manning.com/books/deep-learning-with-pytorch) |
 | 7. [**Dive into Deep Learning**](https://d2l.ai/) |
-
+| 8. [**Logistic Regression Docs**](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html) |
 
 | Research Papers |
 | --------------- |
@@ -23,6 +23,7 @@
 | Projects and Notebooks |
 | ---------------------- |
 | 1. [**California Housing Prices**](https://github.com/ThinamXx/CaliforniaHousing__Prices.git) |
+| 2. [**Logistic Regression from Scratch**](https://github.com/ThinamXx/MachineLearning__Algorithms/blob/main/LogisticRegression/LogisticRegression.ipynb) |
 
 
 
@@ -980,3 +981,13 @@
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20122a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20122b.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20122c.PNG)
+
+**Day123 of 300DaysOfData!**
+- **Transformer Architecture**: Transformer is an architecture for transforming one sequence into another one with the help of two parts, Encoder and Decoder. It makes the use of Self Attention mechanisms. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Decoder Architecture, Self Attention, Encoder Decoder Attention, Position Wise Feed Forward Networks, Residual Connections, Transformer Decoder, Embedding Layer, Sequential Blocks, Training the Transformer Architecture and few more Topics related to the same from here. I have also read about Logistic Regression, Sigmoid Activation Function, Weights Initialization, Gradient Descent, Cost Function and more. I have presented the Implementation of Logistic Regression from Scratch using NumPy, Transformer Decoder and Training using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Logistic Regression Docs**](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20123a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20123b.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20123c.PNG)
