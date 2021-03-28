@@ -131,7 +131,6 @@
 - [**California Housing Prices**](https://github.com/ThinamXx/CaliforniaHousing__Prices.git)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2012a.PNG)
-
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2012b.PNG)
 
 **Day13 of 300DaysOfData!**
@@ -148,9 +147,7 @@
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2014a.PNG)
-
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2014b.PNG)
-
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2014c.PNG)
 
 **Day15 of 300DaysOfData!**
