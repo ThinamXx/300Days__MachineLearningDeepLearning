@@ -991,3 +991,10 @@
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20123a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20123b.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20123c.PNG)
+
+**Day124 of 300DaysOfData!**
+- **Transformer Architecture**: Transformer is an architecture for transforming one sequence into another one with the help of two parts, Encoder and Decoder. It makes the use of Self Attention mechanisms. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Optimization Algorithms and Deep Learning, Objective Function and Minimization, Goal of Optimization, Generalization Error, Training Error, Risk Function and Empirical Risk Function, Optimization Challenges, Local Minimum and Global Minimum, Saddle Points, Hessian Matrix and Eigenvalues, Vanishing Gradients, Convexity, Convex Sets and Functions, Jensen's Inequality and few more Topics related to the same from here. I have presented the Implementation of Local Minima, Saddle Points, Vanishing Gradients and Convex Functions using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20124.PNG)
