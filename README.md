@@ -97,7 +97,6 @@
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%209a.PNG)
-
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%209b.PNG)
 
 **Day10 of 300DaysOfData!**
@@ -108,9 +107,7 @@
 - [**California Housing Prices**](https://github.com/ThinamXx/CaliforniaHousing__Prices.git)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2010.PNG)
-
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2010b.PNG)
-
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2010a.PNG)
 
 **Day11 of 300DaysOfData!**
@@ -120,9 +117,7 @@
 - [**California Housing Prices**](https://github.com/ThinamXx/CaliforniaHousing__Prices.git)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2011a.PNG)
-
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2011b.PNG)
-
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2011c.PNG)
 
 **Day12 of 300DaysOfData!**
@@ -166,9 +161,7 @@
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2016.PNG)
-
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2016b.PNG)
-
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2016a.PNG)
 
 **Day17 of 300DaysOfData!**
