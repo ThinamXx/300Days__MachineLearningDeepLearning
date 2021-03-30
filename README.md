@@ -991,3 +991,11 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20124.PNG)
+
+**Day125 of 300DaysOfData!**
+- **Gradient Descent**: Gradient Descent is an optimization algorithm which is used to minimize the differentiable function by iteratively moving in the direction of steepest descent as defined by the negative of the Gradient. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Convexity and Second Derivatives, Constrained Optimization, Lagrangian Function and Multipliers, Penalties, Projections, Gradient Clipping, Stochastic Gradient Descent, One Dimensional Gradient Descent, Objective Function, Learning Rate, Local Minimum and Global Minimum, Multivariate Gradient Descent and few more Topics related to the same from here. I have presented the Implementation of One Dimensional Gradient Descent, Local Minima and Multivariate Gradient Descent using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20125a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20125b.PNG)
