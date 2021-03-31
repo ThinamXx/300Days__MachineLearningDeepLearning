@@ -1000,3 +1000,10 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20125a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20125b.PNG)
+
+**Day126 of 300DaysOfData!**
+- **Gradient Descent**: Gradient Descent is an optimization algorithm which is used to minimize the differentiable function by iteratively moving in the direction of steepest descent as defined by the negative of the Gradient. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Multivariate Gradient Descent, Adaptive Methods, Learning Rate, Newtons Method, Taylor Expansion, Hessian Function, Gradient and Backpropagation, Nonconvex Function, Convergence Analysis, Linear Convergence, Preconditioning, Gradient Descent with Line Search, Stochastic Gradient Descent, Loss Functions and few more topics related to the same from here. I have presented the Implementation of Newtons Method, Non Convex Functions and Stochastic Gradient Descent using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20126.PNG)
