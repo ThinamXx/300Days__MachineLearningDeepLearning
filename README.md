@@ -980,6 +980,7 @@
 - Book:
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
   - [**Logistic Regression Docs**](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html)
+  - [**Implementation of Logistic Regression**](https://github.com/ThinamXx/MachineLearning__Algorithms/tree/main/LogisticRegression)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20123a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20123b.PNG)
