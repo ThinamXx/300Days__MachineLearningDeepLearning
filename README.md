@@ -999,3 +999,11 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20126.PNG)
+
+**Day127 of 300DaysOfData!**
+- **Stochastic Gradient Descent**: Stochastic Gradient Descent is an iterative method for optimizing an objective function with suitable differentiable properties. It is a variation of the gradient descent algorithm that calculates the error and updates the model. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Stochastic Gradient Descent, Dynamic Learning Rate, Exponential Decay and Polynomial Decay, Convergence Analysis for Convex Objectives, Stochastic Gradient and Finite Samples, Minibatch Stochastic Gradient Descent, Vectorization and Caches, Matrix Multiplications, Minibatches, Variance, Implementation of Gradients and few more topics related to the same from here. I have presented the implementation of Stochastic Gradient Descent and Minibatch Stochastic Gradient Descent using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20127a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20127b.PNG)
