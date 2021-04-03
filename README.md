@@ -41,7 +41,6 @@
   - **A Comprehensive Guide to Machine Learning**
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%202a.PNG)
-
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%202b.PNG)
 
 **Day3 of 300DaysOfData!**
@@ -1015,3 +1014,10 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20128a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20128b.PNG)
+
+**Day129 of 300DaysOfData!**
+- **Stochastic Gradient Descent**: Stochastic Gradient Descent is an iterative method for optimizing an objective function with suitable differentiable properties. It is a variation of the gradient descent algorithm that calculates the error and updates the model. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Adagrad Optimization Algorithms, Sparse Features and Learning Rates, Preconditioning, Stochastic Gradient Descent Algorithm, The Algorithms, Implementation of Adagrad from Scratch, Deep Learning and Computational Constraints, Learning Rates and few more Topics related to the same from here. I have presented the implementation Adagrad Optimization Algorithm from Scratch using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead!!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20129.PNG)
