@@ -1015,3 +1015,10 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20129.PNG)
+
+**Day130 of 300DaysOfData!**
+- **RMSProp Optimization Algorithm**: RMSProp is a gradient based optimization algorithm that utilizes the magnitude of recent gradients to normalize the gradients. It deals with Adagrad's radically diminishing learning rates. It divides the learning rate by an exponentially decaying average of squared gradients. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about RMSProp Optimization Algorithm, Learning Rate, Leaky Averages and Momentum Method, Implementation of RMSProp from scratch, Gradient Descent Algorithm, Preconditioning and few more topics related to the same from here. I have presented the implementation of RMSProp Optimization Algorithm from scratch using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead!!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20130.PNG)
