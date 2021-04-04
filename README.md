@@ -151,7 +151,6 @@
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
   
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2015a.PNG)
-
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2015b.PNG)
 
 **Day16 of 300DaysOfData!**
@@ -169,7 +168,6 @@
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2017a.PNG)
-
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2017.PNG)
 
 **Day18 of 300DaysOfData!**
@@ -202,9 +200,7 @@
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2021aa.PNG)
-
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2021a.PNG)
-
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2021b.PNG)
 
 **Day22 of 300DaysOfData!**
@@ -227,9 +223,7 @@
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
   
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2024a.PNG)
-
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2024b.PNG)
-
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2024c.PNG)
 
 **Day25 of 300DaysOfData!**
