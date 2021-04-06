@@ -3,6 +3,7 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
+
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -1021,3 +1022,10 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20130.PNG)
+
+**Day131 of 300DaysOfData!**
+- **RMSProp Optimization Algorithm**: RMSProp is a gradient based optimization algorithm that utilizes the magnitude of recent gradients to normalize the gradients. It deals with Adagrad's radically diminishing learning rates. It divides the learning rate by an exponentially decaying average of squared gradients. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Adadelta Optimization Algorithms, Learning Rates, Leaky Averages, Momentum, Gradient Descent, Concise Implementation of Adadelta, Adam Optimization Algorithms, Vectorization and Minibatch SGD, Weighting Parameters, Normalization, Concise Implementation of Adam Algorithms and few more topics related to the same from here. I have presented the Implementation of Adadelta Optimization Algorithm and Adam Optimization Algorithm from scratch using PyTorch here in the Snapshot. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20131.PNG)
