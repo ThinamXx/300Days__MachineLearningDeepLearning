@@ -1,8 +1,6 @@
 # **Journey of 300DaysOfData in Machine Learning and Deep Learning**
 
-
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
-
 
 | Books and Resources |
 | ----- |
@@ -1029,3 +1027,12 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20131.PNG)
+
+**Day132 of 300DaysOfData!**
+- **Adam Optimizer**: Adam uses exponential weighted moving averages also known as Leaky Averaging to obtain an estimate of both momentum and also the second moment of the gradient. It combines the features of many optimization algorithms. It uses EWMA on minibatch Stochastic Gradient Descent. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Adam and Yogi Optimization Algorithms, Variance, Minibatch SGD, Learning Rate Scheduling, Weight Vectors, Convolutional Layer, Linear Layer, Max Pooling Layer, Sequential API, RELU, Cross Entropy Loss, Schedulers, Overfitting and few more topics related to the same from here. I have presented the implementation of LeNet Architecture and Yogi Optimization Algorithm using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20132a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20132b.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20132c.PNG)
