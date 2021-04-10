@@ -1043,3 +1043,10 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20133.PNG)
+
+**Day134 of 300DaysOfData!**
+- **Adam Optimizer**: Adam uses exponential weighted moving averages also known as Leaky Averaging to obtain an estimate of both momentum and also the second moment of the gradient. It combines the features of many optimization algorithms. It uses EWMA on minibatch Stochastic Gradient Descent. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Model Computational Performance, Compilers and Interpreters, Symbolic Programming and Imperative Programming, Hybrid Programming, Dynamic Computations Graph, Hybrid Sequential, Acceleration by Hybridization, Multi Layer Perceptrons, Asynchronous Computation and few more topics related to the same from here. I have presented the implementation of Hybrid Sequential, Acceleration by Hybridization and Asynchronous Computation using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20134.PNG)
