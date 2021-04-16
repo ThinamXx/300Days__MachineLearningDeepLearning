@@ -22,6 +22,7 @@
 | ---------------------- |
 | 1. [**California Housing Prices**](https://github.com/ThinamXx/CaliforniaHousing__Prices.git) |
 | 2. [**Logistic Regression from Scratch**](https://github.com/ThinamXx/MachineLearning__Algorithms/blob/main/LogisticRegression/LogisticRegression.ipynb) |
+| 3. [**Implementation of LeNet Architecture**](https://github.com/ThinamXx/MachineLearning__Algorithms/blob/main/LeNetArchitecture/LeNetArchitecture.ipynb) |
 
 
 
@@ -1083,3 +1084,10 @@
   - [**Implementation of LeNet Architecture**](https://github.com/ThinamXx/MachineLearning__Algorithms/blob/main/LeNetArchitecture/LeNetArchitecture.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20138.PNG)
+
+**Day139 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Image Augmentation, CIFAR10 Dataset, Using a Multi GPU Training Model, Fine Tuning the Model, Overfitting, Pretrain Neural Network, Target Initialization, ResNet Model, ImageNet Dataset, Normalization of RGB Images, Mean and Standard Deviation, Torch Vision Module, Flipping and Cropping Images, Adam Optimization, Cross Entropy Loss Function and few more topics related to the same from here. I have presented the implementation of Training the Model with Image Augmentation and Normalization of Images using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20139a.PNG)
