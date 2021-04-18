@@ -1098,3 +1098,13 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20140.PNG)
+
+**Day141 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Object Detection and Object Recognition, Image Classification and Computer Vision, Images and Bounding Boxes, Target Location and Axis Coordinates and few more topics related to the same from here. I have also spend some time reading the Book **Speech and Language Processing**. Here, I have learned about Regular Expressions, Disjunction, Grouping and Precedence, Precision and Recall, Substitution and Capture Groups, Lookahead Assertions, Words, Corpora and few more topics related to the same. I have presented the simple implementation of Object Detection and Bounding Boxes using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20141.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20141a.PNG)
+
