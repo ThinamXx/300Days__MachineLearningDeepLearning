@@ -1108,3 +1108,10 @@
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20141.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20141a.PNG)
 
+**Day142 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Computer Vision, Anchor Boxes, Object Detection Algorithms, Bounding Boxes, Generating Multiple Anchor Boxes, Computation Complexity, Sizes and Ratios and few more topics related to the same from here. I have also spend some time reading the Book **Speech and Language Processing**. Here, I have learned about Text Normalization, Unix Tools for Crude Tokenization and Normalization, Word Tokenization, Named Entity Detection, Penn Treebank Tokenization and few more topics related to the same from here. I have presented the implementation of Generating Anchor Boxes, Object Detection and Bounding Boxes using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20142.PNG)
