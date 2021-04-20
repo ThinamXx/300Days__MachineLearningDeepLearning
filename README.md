@@ -17,14 +17,11 @@
 | --------------- |
 | 1. [**Practical Recommendations for Gradient based Training of Deep Architectures**](https://arxiv.org/pdf/1206.5533.pdf) |
 
-
 | Projects and Notebooks |
 | ---------------------- |
 | 1. [**California Housing Prices**](https://github.com/ThinamXx/CaliforniaHousing__Prices.git) |
 | 2. [**Logistic Regression from Scratch**](https://github.com/ThinamXx/MachineLearning__Algorithms/blob/main/LogisticRegression/LogisticRegression.ipynb) |
 | 3. [**Implementation of LeNet Architecture**](https://github.com/ThinamXx/MachineLearning__Algorithms/blob/main/LeNetArchitecture/LeNetArchitecture.ipynb) |
-
-
 
 **Day1 of 300DaysOfData!**
 - **Gradient Descent and Cross Validation**: Gradient Descent is an iterative approach to approximating the Parameters that minimize a Differentiable Loss Function. Cross Validation is a resampling procedure used to evaluate Machine Learning Models on a limited Data sample which has a parameter that splits the data into number of groups. On my Journey of Machine Learning and Deep Learning, Today I have read in brief about the fundamental Topics such as Calculus, Matrices, Matrix Calculus, Random Variables, Density Functions, Distributions, Independence, Maximum Likelihood Estimation and Conditional Probability. I have also read and Implemented about Gradient Descent and Cross Validation. I am starting this Journey from Scratch and I am following the Book:**Machine Learning From Scratch**. I have presented the Implementation of Gradient Descent and Cross Validation here in the Snapshots. I hope you will also spend some time reading the Topics from the Book mentioned above. I am excited about the days to come!!
@@ -1115,3 +1112,11 @@
   - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20142.PNG)
+
+**Day143 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Computer Vision, Generating Multiple Anchor Boxes, Batch Size, Coordinate Values, Intersection Over Union Algorithm, Jaccard Index, Computation Complexity, Sizes and Ratios and few more topics related to the same from here. I have also spend some time reading the Book **Speech and Language Processing**. Here, I have learned about Byte Pair Encoding Algorithm for Tokenization, Subword Tokens, Wordpiece and Greedy Tokenization Algorithm, Maximum Matching Algorithm, Word Normalization, Lemmatization and Stemming, The Porter Stemmer and few more Topics related to the same from here. I have presented the implementation of Generating Anchor Boxes and Intersection Over Union Algorithm using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20143.PNG)
