@@ -1120,3 +1120,11 @@
   - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20143.PNG)
+
+**Day144 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Computer Vision, Labeling Training Set Anchor Boxes, Object Detection and Image Recognition, Ground Truth Bounding Box Index, Anchor Boxes and Offset Boxes, Intersection Over Union and Jaccard Algorithm and few more topics related to the same from here. I have also spend some time reading the Book **Speech and Language Processing**. Here, I have learned about Sentence Segmentation, The Minimum Edit Distance Algorithm, Viterbi Algorithm, N Gram Language Models, Probability, Spelling Correction and Grammatical Error Correction and few more topics related to the same from here. I have presented the implementation of Labeling Training Set Anchor Boxes and Initializing Offset Boxes using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20144.PNG)
