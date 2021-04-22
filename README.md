@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -1129,3 +1128,10 @@
   - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20144.PNG)
+
+**Day145 of 300DaysOfData!**
+- **Image Segmentation**: Image Segmentation is the process of partitioning digital image into multiple segments or set of pixels. The goal of segmentation is to simplify the representation of image into something meaningful and easier to analyze. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Non Maximum Suppression Algorithms, Prediction Bounding Boxes, Ground Truth Bounding Boxes, Confidence Level, Batch Size, Intersection Over Union Algorithm or Jaccard Index, Aspect Ratios, Bounding Boxes for Prediction, Multi Box Target Function, Anchor Boxes and few more topics related to the same from here. I have presented the implementation of Initializing Multi Box Anchor Boxes and Initializing Prediction Bounding Boxes using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20145.PNG)
