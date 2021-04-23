@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -1136,3 +1135,11 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20145.PNG)
+
+**Day146 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Multiscale Object Detection, Generating Multiple Anchor Boxes, Object Detection, Single Shot Multiple Detection Algorithm, Category Prediction Layer, Bounding Boxes Prediction Layer, Concatenating Predictions for Multiple Scales, Height and Width Down Sample Block, CNN Layer, RELU and Max Pooling Layer and few more topics related to the same from here. I have also spend some time reading the Book "Speech and Language Processing". Here, I have read about Part of Speech Tagging, Information Extraction, Named Entity Recognition, Regular Expressions and few more topics related to the same from here. I have presented the implementation of Initializing Category Prediction Layer and Height & Width Down Sample Block using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead!!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20146.PNG)
