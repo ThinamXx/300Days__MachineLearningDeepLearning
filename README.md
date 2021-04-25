@@ -1151,3 +1151,11 @@
   - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20147.PNG)
+
+**Day148 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Single Shot Multi Box Detection Model, Implementation of Tiny SSD Model, Forward Propagation Function, Data Reading and Initialization, Object Detection, Multi Scale Feature Block, Global Max Pooling Layer and few more topics related to the same from here. I have also spend some time reading the Book **Speech and Language Processing**. Here, I have learned about Unknown Words or Out of Vocabulary Words, OOV Rate, Smoothing, Laplace Smoothing, Text Classification, Add One Smoothing, MLE, Add K Smoothing and few more topics related to the same from here. I have presented the implementation of Single Shot Multi Box Detection Model and Dataset Initialization using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20148.PNG)
