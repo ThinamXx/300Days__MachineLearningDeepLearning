@@ -1159,3 +1159,12 @@
   - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20148.PNG)
+
+**Day149 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Softmax Activation Function, Convolutional Layer, Training the Single Shot Multi Box Detection Model, Multi Scale Anchor Boxes, Cross Entropy Loss Function, L1 Normalization Loss Function, Average Absolute Error, Accuracy Rate, Category and Offset Losses and few more topics related to the same from here. I have also spend some time reading the Book **Speech and Language Processing**. Here, I have learned about Backoff and Interpolation, Katz Backoff, Kneser Ney Smoothing, Absolute Discounting, The Web and Stupid Backoff, Perplexity Relation to Entropy and few more topics related to the same from here. I have presented the implementation of Training Single Shot Multi Box Detection Model, Loss and Evaluation Functions using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20149.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20149a.PNG)
