@@ -1168,3 +1168,11 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20149.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20149a.PNG)
+
+**Day150 of 300DaysOfData!**
+- **Image Segmentation**: Image Segmentation is the process of partitioning digital image into multiple segments or set of pixels. The goal of segmentation is to simplify the representation of image into something meaningful and easier to analyze. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Region Based Convolutional Neural Networks, Fast RCNN, Faster RCNN, Mask RCNN, Category Prediction Layer, Bounding Boxes Prediction Layer, Support Vector Machines, Rol Pooling Layer and Rol Alignment Layer, Pixel Level Semantics, Image Segmentation and Instance Segmentation, Pascal VOC2012 Semantic Segmentation, RGB, Data Preprocessing and few more topics related to the same from here. I have presented the implementation of Semantic Segmentation and Data Preprocessing using PyTorch here in the Snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20150a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20150b.PNG)
