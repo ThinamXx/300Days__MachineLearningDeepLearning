@@ -1176,3 +1176,10 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20150a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20150b.PNG)
+
+**Day151 of 300DaysOfData!**
+- **Sequence to Sequence Model**: Sequence to Sequence Neural Networks can be built with a modular and reusable Encoder and Decoder Architecture. The Encoder Model generates a Thought Vector which is a Dense and fixed Dimension Vector representation of the Data. The Decoder Model use Thought Vectors to generate Output Sequences. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Dataset Classes for Custom Semantic Segmentation, RGB Channels, Normalization of Images, Random Cropping Operation, Sequence to Sequence Recurrent Neural Networks, Label Encoder, One Hot Encoder, Encoding and Vectorization, Long Short Term Memory or LSTM and few more topics related to the same from here. I have presented the implementation Dataset Classes for Custom Semantic Segmentation using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20151.PNG)
