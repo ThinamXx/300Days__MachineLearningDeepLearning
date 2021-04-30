@@ -1192,3 +1192,10 @@
   - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20152.PNG)
+
+**Day153 of 300DaysOfData!**
+- **Transposed Convolution**: Transposed Convolution implies that Stride & Padding do not correspond to the number of zeros added around the image and the amount of shift in the kernel when sliding it across the input as they would in a standard convolution operation. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Fully Convolutional Neural Networks, Semantic Segmentation Principles, Transposed Convolutional Layer, Constructing a Pretrained Neural Networks Model, Global Average Pooling Layer, Flattening Layer, Image Processing and Upsampling, Bilinear Interpolation Kernel Function and few more topics related to the same from here. I have presented the implementation of Fully Convolutional Layer, Pretrained NNs, Bilinear Interpolation Kernel Function and Transposed Convolutional Layer using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20153.PNG)
