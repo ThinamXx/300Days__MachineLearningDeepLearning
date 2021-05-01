@@ -1198,3 +1198,12 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20153.PNG)
+
+**Day154 of 300DaysOfData!**
+- **Neural Style Transfer Algorithms**: It is the task of changing the style of an image in one domain to the style of an image in another domain. It manipulates images or videos in order to adopt the appearance of another image. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented from the Book **Dive into Deep Learning**. Here, I have learned about Softmax Cross Entropy Loss Function, Stochastic Gradient Descent, CNNs, Neural Networks Style Transfer, Composite Images, RGB Channels, Normalization and few more topics related to the same from here. I have also spend some time reading the Book **Speech and Language Processing**. Here, I have learned about Optimizing Naive Bayes for Sentiment Analysis, Sentiment Lexicons, Naive Bayes as Language Models, Precision, Recall and FMeasure, Multi Label and Multinomial Classification and few more topics related to the same from here. I have started working on Style Transfer using Neural Networks. The Notebook is mentioned below though I am still working on it.
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
+  - [**Neural Networks Style Transfer**](https://github.com/ThinamXx/NEURAL_STYLE_TRANSFER)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20154.PNG)
