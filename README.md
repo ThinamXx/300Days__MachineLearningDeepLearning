@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -1208,3 +1207,12 @@
   - [**Neural Networks Style Transfer**](https://github.com/ThinamXx/NEURAL_STYLE_TRANSFER)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20154.PNG)
+
+**Day155 of 300DaysOfData!**
+- **Neural Style Transfer Algorithms**: It is the task of changing the style of an image in one domain to the style of an image in another domain. It manipulates images or videos in order to adopt the appearance of another image. On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about Neural Networks Style Transfer, Convolutional Neural Networks, Reading the Content and Style Images, Preprocessing and Postprocessing the Images, Extracting Image Features, Composite Images, VGG Neural Networks, Squared Error Loss Faction, Total Variance Loss Function, Normalization of RGB Channels of Images and few more topics related to the same from here. I am still working on Style Transfer using Neural Networks. The Notebook is mentioned below though I am still working on it. I have presented the implementation of Function for Extracting Features and Square Error Loss Function using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
+  - [**Neural Networks Style Transfer**](https://github.com/ThinamXx/NEURAL_STYLE_TRANSFER)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20155.PNG)
