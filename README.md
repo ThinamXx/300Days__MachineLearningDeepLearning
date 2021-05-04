@@ -1216,3 +1216,13 @@
   - [**Neural Networks Style Transfer**](https://github.com/ThinamXx/NEURAL_STYLE_TRANSFER)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20155.PNG)
+
+**Day156 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about Creating and Initializing the Composite Images, Synchronization Functions, Adam Optimizer, Gram Matrix, Convolutional Neural Networks, Neural Networks Style Transfer, Loss Functions and few more topics related to the same from here. I have also spend some time reading the Book **Speech and Language Processing**. Here, I have learned about Test Sets and Cross Validation, Statistical Significance Testing, Naive Bayes Classifiers, Bootstrapping, Logistic Regression, Generative and Discriminative Classifiers, Feature Representation, Sigmoid Classification, Weight and Bias Term and few more topics related to the same from here. I have completed working on Style Transfer using Neural Networks. The Notebook is mentioned below but I am still updating.
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
+  - [**Neural Networks Style Transfer**](https://github.com/ThinamXx/NEURAL_STYLE_TRANSFER)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20156a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20156b.PNG)
