@@ -22,6 +22,8 @@
 | 1. [**California Housing Prices**](https://github.com/ThinamXx/CaliforniaHousing__Prices.git) |
 | 2. [**Logistic Regression from Scratch**](https://github.com/ThinamXx/MachineLearning__Algorithms/blob/main/LogisticRegression/LogisticRegression.ipynb) |
 | 3. [**Implementation of LeNet Architecture**](https://github.com/ThinamXx/MachineLearning__Algorithms/blob/main/LeNetArchitecture/LeNetArchitecture.ipynb) |
+| 4. [**Neural Networks Style Transfer**](https://github.com/ThinamXx/NEURAL_STYLE_TRANSFER) |
+| 5. [**Object Recognition on Images: CIFAR10**](https://github.com/ThinamXx/CIFAR10__Recognition) |
 
 **Day1 of 300DaysOfData!**
 - **Gradient Descent and Cross Validation**: Gradient Descent is an iterative approach to approximating the Parameters that minimize a Differentiable Loss Function. Cross Validation is a resampling procedure used to evaluate Machine Learning Models on a limited Data sample which has a parameter that splits the data into number of groups. On my Journey of Machine Learning and Deep Learning, Today I have read in brief about the fundamental Topics such as Calculus, Matrices, Matrix Calculus, Random Variables, Density Functions, Distributions, Independence, Maximum Likelihood Estimation and Conditional Probability. I have also read and Implemented about Gradient Descent and Cross Validation. I am starting this Journey from Scratch and I am following the Book:**Machine Learning From Scratch**. I have presented the Implementation of Gradient Descent and Cross Validation here in the Snapshots. I hope you will also spend some time reading the Topics from the Book mentioned above. I am excited about the days to come!!
