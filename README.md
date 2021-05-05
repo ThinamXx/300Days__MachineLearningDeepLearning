@@ -1228,3 +1228,12 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20156a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20156b.PNG)
+
+**Day157 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about Computer Vision, Image Classification, CIFAR10 Dataset, Obtaining and Organizing the Dataset, Augmentation and few more topics related to the same. Apart from that, I have learned about Data Scraping and Scrapy, Named Entity Recognition and SpaCy, Trained Transformer Model using SpaCy, Geocoding and few more topics related to the same from here. I have completed working on Style Transfer using Neural Networks Notebook. I have started working on Object Recognition on Images: CIFAR10 Notebook. All the Notebooks are mentioned below. I have presented the implementation of Obtaining and Organizing the CIFAR10 Dataset here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned above and below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Neural Networks Style Transfer**](https://github.com/ThinamXx/NEURAL_STYLE_TRANSFER)
+  - [**Object Recognition on Images: CIFAR10**](https://github.com/ThinamXx/CIFAR10__Recognition)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20157.PNG)
