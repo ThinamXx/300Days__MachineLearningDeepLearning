@@ -1238,3 +1238,12 @@
   - [**Object Recognition on Images: CIFAR10**](https://github.com/ThinamXx/CIFAR10__Recognition)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20157.PNG)
+
+**Day158 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about Computer Vision, Image Classification, Image Augmentation and Overfitting, Normalization of RGB Channels, Data Loader and Validation Set and few more topics related to the same from here. Apart from that, I have learned about Stanford NER Algorithms, NLTK, Named Entity Recognition and few more topics related to the same. I have completed working on Style Transfer using Neural Networks Notebook. I have started working on Object Recognition on Images: CIFAR10 Notebook. All the Notebooks are mentioned below. I have presented the implementation of Obtaining and Organizing the Dataset, Image Augmentation and Normalization using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Neural Networks Style Transfer**](https://github.com/ThinamXx/NEURAL_STYLE_TRANSFER)
+  - [**Object Recognition on Images: CIFAR10**](https://github.com/ThinamXx/CIFAR10__Recognition)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20158.PNG)
