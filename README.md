@@ -1246,3 +1246,11 @@
   - [**Object Recognition on Images: CIFAR10**](https://github.com/ThinamXx/CIFAR10__Recognition)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20158.PNG)
+
+**Day159 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about Computer Vision, ResNet Model and Residual Blocks, Xavier Random Initialization, Cross Entropy Loss Function, Defining Training Functions, Stochastic Gradient Descent, Learning Rate Scheduler, Evaluation Metrics and few more topics related to the same. I have also spend some time reading the Book **Speech and Language Processing**. Here, I have learned about Sentiment Classification, Learning in Logistic Regression, Conditional MLE, Cost Function and few more topics related to the same from here. I am working on Object Recognition on Images: CIFAR10 Notebook. The Notebook is mentioned below. I have presented the implementation Defining a Training Function using PyTorch here in the Snapshot.  I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Object Recognition on Images: CIFAR10**](https://github.com/ThinamXx/CIFAR10__Recognition)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20159.PNG)
