@@ -1264,4 +1264,4 @@
   - [**Object Recognition on Images: CIFAR10**](https://github.com/ThinamXx/CIFAR10__Recognition)
   - [**Dog Breed Identification: ImageNet**](https://github.com/ThinamXx/DogBreedClassification)
 
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/tree/main/Images)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20160.PNG)
