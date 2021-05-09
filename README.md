@@ -1256,3 +1256,12 @@
   - [**Object Recognition on Images: CIFAR10**](https://github.com/ThinamXx/CIFAR10__Recognition)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20159.PNG)
+
+**Day160 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about ImageNet Dataset, Obtaining and Organizing the Dataset, Image Augmentation such as Flipping and Resizing the Image, Changing Brightness and Contrast of Image, Transfer Learning and Features, Normalization of Images and few more topics related to the same from here. I have completed working on Object Recognition on Images: CIFAR10 Notebook. I have started working on Dog Breed Identification: ImageNet Notebook. All the Notebooks are mentioned below. I have presented the implementation of Image Augmentation and Normalization, Defining Neural Networks Model and Loss Function using PyTorch here in the Snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Object Recognition on Images: CIFAR10**](https://github.com/ThinamXx/CIFAR10__Recognition)
+  - [**Dog Breed Identification: ImageNet**](https://github.com/ThinamXx/DogBreedClassification)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/tree/main/Images)
