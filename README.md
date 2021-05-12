@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -1283,3 +1282,12 @@
   - [**Dog Breed Identification: ImageNet**](https://github.com/ThinamXx/DogBreedClassification)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20162.PNG)
+
+**Day163 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about Subsampling, Extracting Central Target Words and Context Words, Maximum Context Window Size, Penn Tree Bank Dataset and Pretraining Word Embedding and few more topics related to the same from here. I have also spend some time reading the Book **Speech and Language Processing**. Here, I have learned about Regularization and Overfitting, Manhattan Distance, Lasso and Ridge Regression, Multinomial Logistic Regression, Features in MLR, Learning in MLR, Interpreting Models, Deriving Gradient Equation and few more topics related to the same from here. I have completed working on Dog Breed Identification: ImageNet Notebook. I have presented the implementation of Extracting Central Target Words and Context Words using PyTorch here in the snapshot. I hope you will gain some insights. I hope you will also spend some time learning the Topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Object Recognition on Images: CIFAR10**](https://github.com/ThinamXx/CIFAR10__Recognition)
+  - [**Dog Breed Identification: ImageNet**](https://github.com/ThinamXx/DogBreedClassification)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20163.PNG)
