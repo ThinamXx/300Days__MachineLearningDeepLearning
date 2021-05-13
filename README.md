@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -1270,6 +1269,7 @@
 - On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about Defining the Training Functions, Computer Vision, Hyperparameters, Stochastic Gradient Descent Optimization Function, Learning Rate Scheduler and Optimization, Training Loss and Validation Loss and few more topics related to the same from here. I have also spend some time reading the Book **Speech and Language Processing**. Here, I have learned about Gradient for Logistic Regression, SGD Algorithm, Minibatch Training and few more topics related to the same from here. I am working on Dog Breed Identification: ImageNet Notebook. The Notebooks is mentioned below. I have presented the implementation of Defining the Training Function using PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned below. Excited about the days ahead!!
 - Book:
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
   - [**Object Recognition on Images: CIFAR10**](https://github.com/ThinamXx/CIFAR10__Recognition)
   - [**Dog Breed Identification: ImageNet**](https://github.com/ThinamXx/DogBreedClassification)
 
@@ -1288,7 +1288,16 @@
 - On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about Subsampling, Extracting Central Target Words and Context Words, Maximum Context Window Size, Penn Tree Bank Dataset and Pretraining Word Embedding and few more topics related to the same from here. I have also spend some time reading the Book **Speech and Language Processing**. Here, I have learned about Regularization and Overfitting, Manhattan Distance, Lasso and Ridge Regression, Multinomial Logistic Regression, Features in MLR, Learning in MLR, Interpreting Models, Deriving Gradient Equation and few more topics related to the same from here. I have completed working on Dog Breed Identification: ImageNet Notebook. I have presented the implementation of Extracting Central Target Words and Context Words using PyTorch here in the snapshot. I hope you will gain some insights. I hope you will also spend some time learning the Topics from the Book mentioned below. Excited about the days ahead !!
 - Book:
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
   - [**Object Recognition on Images: CIFAR10**](https://github.com/ThinamXx/CIFAR10__Recognition)
   - [**Dog Breed Identification: ImageNet**](https://github.com/ThinamXx/DogBreedClassification)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20163.PNG)
+
+**Day164 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about Subsampling and Negative Sampling, Word Embedding and Word2Vec, Probability, Reading into Batches, Concatenation and Padding, Random Minibatches and few more topics related to the same from here. I have also spend some time reading the Book **Speech and Language Processing**. Here, I have learned about Vector Semantics and Embeddings, Lexical Semantics, Lemmas and Senses, Word Sense Disambiguation, Word Similarity, Principle of Contrast, Representation Learning, Synonymy and few more topics related to the same from here. I have presented the implementation Negative Sampling using PyTorch here in the snapshot. I hope you will gain some insights. I hope you will also spend some time learning the Topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20164.PNG)
