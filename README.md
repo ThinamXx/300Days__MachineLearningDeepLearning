@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -1302,3 +1301,11 @@
   - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20164.PNG)
+
+**Day165 of 300DaysOfData!**
+- **Subsampling**: Subsampling is a method that reduces data size by selecting a subset of the original data. The subset is specified by choosing a parameter. Subsampling attempts to minimize the impact of high frequency words on the training of a word embedding model. On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about Word Embedding, Batches, Loss Function and Padding, Center and Context Words, Negative Sampling, Data Loader Instance, Vocabulary, Subsampling, Data Iterations, Mask Variables and few more topics related to the same from here. I have presented the implementation of Reading Batches and Function for Loading PTB Dataset using PyTorch here in the snapshots. I hope you will gain some insights. I hope you will also spend some time learning the Topics from the Book mentioned below. Excited about the days ahead !! 
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20165a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20165b.PNG)
