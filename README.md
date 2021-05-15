@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -1310,3 +1309,10 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20165a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20165b.PNG)
+
+**Day166 of 300DaysOfData!**
+- **Word Embedding**: Word Embedding is a term used for the representation of words for text analysis typically in the form of a real valued vector that encodes the meaning of the word such that the words that are closer in the vector space are expected to be similar in meaning. On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about Word Embedding, Word2Vec, The Skip Gram Model, Embedding Layer, Word Vector, Skip Gram Model Forward Calculation, Batch Matrix Multiplication, Binary Cross Entropy Loss Function, Negative Sampling, Mask Variables and Padding, Initializing Model Parameters and few more topics related to the same from here. I have presented the implementation of Embedding Layer, Skip Gram Model Forward Calculation and Binary Cross Entropy Loss Function using PyTorch here in the snapshot. I hope you will gain some insights. I hope you will also spend some time learning the Topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20166.PNG)
