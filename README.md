@@ -1324,3 +1324,11 @@
   - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20167.PNG)
+
+**Day168 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about Subword Embedding, Fast Text and Byte Pair Encoding, Finding Synonyms and Analogies, Pretrained Word Vectors, Token Embedding, Central Words and Context Words and few more topics related to the same from here. I have also spend some time reading the Book **Speech and Language Processing**. Here, I have learned about Words and Vectors, Vectors and Documents, Term Document Matrices, Information Retrieval, Row Vector and Context Matrix and few more topics related to the same from here.  I have presented the implementation of Defining Token Embedding Class using PyTorch here in the snapshot. I hope you will gain some insights. I hope you will also spend some time learning the Topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20168.PNG)
