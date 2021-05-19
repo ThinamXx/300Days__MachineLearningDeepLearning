@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -1333,3 +1332,11 @@
   - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20168.PNG)
+
+**Day169 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about Finding Synonyms and Analogies, Word Embedding Model and Word2Vec, Applying Pretrained Word Vectors, Cosine Similarity and few more topics related to the same from here. I have also spend some time reading the Book **Speech and Language Processing**. Here, I have read about Cosine for measuring similarity, Dot and Inner Products, Weighing terms in the vector, Term Frequency Inverse Document Frequency or TFIDF, Collection Frequency, Applications of TFIDF Vector Model and few more topics related to the same from here.  I have presented the implementation of Cosine Similarity and Finding Synonyms and Analogies using PyTorch here in the snapshot. I hope you will gain some insights. I hope you will also spend some time learning the Topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20169.PNG)
