@@ -1340,3 +1340,10 @@
   - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20169.PNG)
+
+**Day170 of 300DaysOfData!**
+- **Bidirectional Encoder Representations from Transformers**: ELMO encodes context bidirectionally but uses task specific architectures and GPT is a task agnostic but encodes context left to right. BERT encodes context bidirectionally and requires minimal architecture changes for a wide range of NLP tasks. On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about BERT Architecture, From Context Independent to Context Sensitive, Word Embedding Model and Word2Vec, From Task Specific to Task Agnostic, Embeddings from Language Models or ELMO Architecture, Input Representations, Token, Segment and Positional Embedding and Learnable Positional Embedding and few more topics related to the same from here.  I have presented the implementation of BERT Input Representations and BERT Encoder Class using PyTorch here in the snapshot. I hope you will gain some insights. I hope you will also spend some time learning the Topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20170.PNG)
