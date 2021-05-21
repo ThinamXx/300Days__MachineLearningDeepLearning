@@ -1347,3 +1347,11 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20170.PNG)
+
+**Day171 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about BERT Encoder Class, Pretraining Tasks, Masked Language Modeling, Multi Layer Perceptron, Forward Inference, BERT Input Sequences, Bidirectional Context Encoding and few more topics related to the same from here. I have also spend some time reading the Book **Speech and Language Processing**. Here, I have learned about Pointwise Mutual Information or PMI, Laplace Smoothing, Word2Vec, Skip Gram with Negative Sampling or SGNS, The Classifier, Logistic and Sigmoid Function, Cosine Similarity and Dot Product and few more topics related to the same from here. I have presented the implementation of Masked Language Modeling and BERT Encoder using PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20171.PNG)
