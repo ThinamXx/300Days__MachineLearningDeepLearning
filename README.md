@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -1356,3 +1355,10 @@
   - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20171.PNG)
+
+**Day172 of 300DaysOfData!**
+- **Bidirectional Encoder Representations from Transformers**: ELMO encodes context bidirectionally but uses task specific architectures and GPT is a task agnostic but encodes context left to right. BERT encodes context bidirectionally and requires minimal architecture changes for a wide range of NLP tasks. The embeddings are the sum of the Token, Segment and Positional Embeddings. On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about Bidirectional Encoder Representations from Transformers or BERT Architecture, Next Sentence Prediction Model, Cross Entropy Loss Function, MLP, BERT Model, Masked Language Modeling, BERT Encoder, Pretraining BERT Model and few more topics related to the same from here. I have presented the implementation of Next Sentence Prediction and BERT Model using PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20172.PNG)
