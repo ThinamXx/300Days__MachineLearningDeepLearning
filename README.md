@@ -1362,3 +1362,12 @@
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20172.PNG)
+
+**Day173 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about Pretraining BERT Model and Dataset, Defining Helper Functions for Pretraining Tasks, Generating Next Sentence Prediction Task, Generating Masked Language Modeling Task, Sequence Tokens and few more topics related to the same from here. I have also spend some time reading the Book **Speech and Language Processing**. Here, I have read about Learning Skip Gram Embeddings, Binary Classifier, Target and Context Embedding, Visualizing Embeddings, Semantic Properties of Embeddings and few more topics related to the same from here. I have presented the implementation of Generating Next Sentence Prediction Task and Generating Masked Language Modeling Task using PyTorch here in the snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20173a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20173b.PNG)
