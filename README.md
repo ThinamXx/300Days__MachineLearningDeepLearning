@@ -1397,3 +1397,12 @@
   - [**Sentiment Analysis Dataset Notebook**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20Dataset.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20176.PNG)
+
+**Day177 of 300DaysOfData!**
+- **Sentiment Analysis**: Sentiment Analysis is the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify and study affective states and subjective information. It is widely applied to voice of the customer materials such as reviews and survey responses, online and social media and healthcare materials for applications that range from marketing to customer service to clinical medicine. On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about Creating Data Iterations, Tokenization and Vocabulary, Truncating and Padding, Recurrent Neural Networks Model and Sentiment Analysis, Pretrained Word Vectors and Glove, Bidirectional LSTM and Embedding Layer, Linear Layer and Decoding, Encoding and Sequence Data, Xavier Initialization and few more topics related to the same from here. I have presented the implementation of Bidirectional Recurrent Neural Networks Model using PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Sentiment Analysis Dataset Notebook**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20Dataset.ipynb)
+  - [**Sentiment Analysis with RNN**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20RNN.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20177.PNG)
