@@ -26,6 +26,8 @@
 | 5. [**Object Recognition on Images: CIFAR10**](https://github.com/ThinamXx/CIFAR10__Recognition) |
 | 6. [**Dog Breed Identification: ImageNet**](https://github.com/ThinamXx/DogBreedClassification) |
 | 7. [**Sentiment Analysis Dataset Notebook**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20Dataset.ipynb) |
+| 8. [**Sentiment Analysis with RNN**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20RNN.ipynb) |
+| 9. [**Sentiment Analysis with CNN**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20CNN.ipynb) |
 
 **Day1 of 300DaysOfData!**
 - **Gradient Descent and Cross Validation**: Gradient Descent is an iterative approach to approximating the Parameters that minimize a Differentiable Loss Function. Cross Validation is a resampling procedure used to evaluate Machine Learning Models on a limited Data sample which has a parameter that splits the data into number of groups. On my Journey of Machine Learning and Deep Learning, Today I have read in brief about the fundamental Topics such as Calculus, Matrices, Matrix Calculus, Random Variables, Density Functions, Distributions, Independence, Maximum Likelihood Estimation and Conditional Probability. I have also read and Implemented about Gradient Descent and Cross Validation. I am starting this Journey from Scratch and I am following the Book:**Machine Learning From Scratch**. I have presented the Implementation of Gradient Descent and Cross Validation here in the Snapshots. I hope you will also spend some time reading the Topics from the Book mentioned above. I am excited about the days to come!!
@@ -1406,3 +1408,13 @@
   - [**Sentiment Analysis with RNN**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20RNN.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20177.PNG)
+
+**Day178 of 300DaysOfData!**
+- **Sentiment Analysis**: Sentiment Analysis is the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify and study affective states and subjective information. It is widely applied to voice of the customer materials such as reviews and survey responses, online and social media and healthcare materials for applications that range from marketing to customer service to clinical medicine. On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about Word Vectors and Vocabulary, Training and Evaluating Bidirectional RNN Model, Sentiment Analysis and One Dimensional Convolutional Neural Networks, One Dimensional Cross Correlation Operation, Max Over Time Pooling Layer, The Text CNN Model, RELU Activation Function and Dropout Layer and few more topics related to the same from here. I have presented the implementation of Text Convolutional Neural Networks using PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Sentiment Analysis Dataset Notebook**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20Dataset.ipynb)
+  - [**Sentiment Analysis with RNN**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20RNN.ipynb)
+  - [**Sentiment Analysis with CNN**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20CNN.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20178.PNG)
