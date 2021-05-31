@@ -28,6 +28,7 @@
 | 7. [**Sentiment Analysis Dataset Notebook**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20Dataset.ipynb) |
 | 8. [**Sentiment Analysis with RNN**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20RNN.ipynb) |
 | 9. [**Sentiment Analysis with CNN**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20CNN.ipynb) |
+| 10. [**Natural Language Inference**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/Natural%20Language%20Inference%20Dataset.ipynb) |
 
 **Day1 of 300DaysOfData!**
 - **Gradient Descent and Cross Validation**: Gradient Descent is an iterative approach to approximating the Parameters that minimize a Differentiable Loss Function. Cross Validation is a resampling procedure used to evaluate Machine Learning Models on a limited Data sample which has a parameter that splits the data into number of groups. On my Journey of Machine Learning and Deep Learning, Today I have read in brief about the fundamental Topics such as Calculus, Matrices, Matrix Calculus, Random Variables, Density Functions, Distributions, Independence, Maximum Likelihood Estimation and Conditional Probability. I have also read and Implemented about Gradient Descent and Cross Validation. I am starting this Journey from Scratch and I am following the Book:**Machine Learning From Scratch**. I have presented the Implementation of Gradient Descent and Cross Validation here in the Snapshots. I hope you will also spend some time reading the Topics from the Book mentioned above. I am excited about the days to come!!
@@ -1418,3 +1419,15 @@
   - [**Sentiment Analysis with CNN**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20CNN.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20178.PNG)
+
+**Day179 of 300DaysOfData!**
+- **Natural Language Inference**: Natural Language Inference is a study where a hypothesis can be inferred from a premise where both are a text sequence. It determines the logical relationship between a pair of text sequences. On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about Natural Language Inference and Dataset, Premise, Hypothesis or Entailment, Contradiction and Neutral, The Stanford Natural Language Inference Dataset, Reading SNLI Dataset and few more topics related to the same from here. I have presented the implementation of Reading SNLI Dataset using PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Sentiment Analysis Dataset Notebook**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20Dataset.ipynb)
+  - [**Sentiment Analysis with RNN**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20RNN.ipynb)
+  - [**Sentiment Analysis with CNN**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20CNN.ipynb)
+  - [**Natural Language Inference**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/Natural%20Language%20Inference%20Dataset.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20179.PNG)
+
