@@ -29,6 +29,7 @@
 | 8. [**Sentiment Analysis with RNN**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20RNN.ipynb) |
 | 9. [**Sentiment Analysis with CNN**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20CNN.ipynb) |
 | 10. [**Natural Language Inference Dataset**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NaturalLanguage%20Inference%20Data.ipynb) |
+| 11. [**Natural Language Inference**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NL%20Inference%20Attention.ipynb) |
 
 **Day1 of 300DaysOfData!**
 - **Gradient Descent and Cross Validation**: Gradient Descent is an iterative approach to approximating the Parameters that minimize a Differentiable Loss Function. Cross Validation is a resampling procedure used to evaluate Machine Learning Models on a limited Data sample which has a parameter that splits the data into number of groups. On my Journey of Machine Learning and Deep Learning, Today I have read in brief about the fundamental Topics such as Calculus, Matrices, Matrix Calculus, Random Variables, Density Functions, Distributions, Independence, Maximum Likelihood Estimation and Conditional Probability. I have also read and Implemented about Gradient Descent and Cross Validation. I am starting this Journey from Scratch and I am following the Book:**Machine Learning From Scratch**. I have presented the Implementation of Gradient Descent and Cross Validation here in the Snapshots. I hope you will also spend some time reading the Topics from the Book mentioned above. I am excited about the days to come!!
@@ -1451,3 +1452,12 @@
   - [**Natural Language Inference**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NL%20Inference%20Attention.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20181.PNG)
+
+**Day182 of 300DaysOfData!**
+- **Comparing and Aggregating Class**: Comparing Class compares a word in one sequence with the other sequence that is softly aligned with the word. Aggregating Class aggregates the two sets of comparison vectors to infer the logical relationship. It feeds the concatenation of both summarization results into MLP function to obtain the classification result of the logical relationship. On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about Comparing Word Sequences, Soft Alignment, Multi Layer Perceptron or MLP Classifier, Aggregating Comparison Vectors, Linear Layer and Concatenation, Decomposable Attention Model, Embedding Layer and few more topics related to the same from here. I have presented the implementation of Comparing Class, Aggregating Class and Decomposable Attention Model using PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Natural Language Inference Dataset**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NaturalLanguage%20Inference%20Data.ipynb)
+  - [**Natural Language Inference**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NL%20Inference%20Attention.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20182.PNG)
