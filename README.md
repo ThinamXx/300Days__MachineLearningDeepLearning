@@ -1461,3 +1461,12 @@
   - [**Natural Language Inference**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NL%20Inference%20Attention.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20182.PNG)
+
+**Day183 of 300DaysOfData!**
+- **Comparing and Aggregating Class**: Comparing Class compares a word in one sequence with the other sequence that is softly aligned with the word. Aggregating Class aggregates the two sets of comparison vectors to infer the logical relationship. It feeds the concatenation of both summarization results into MLP function to obtain the classification result of the logical relationship. On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about Decomposable Attention Model, Embedding Layer and Linear Layer, Training and Evaluating the Attention Model, Natural Language Inference, Entailment, Contradiction and Neutral, Pretrained Glove Embedding, SNLI Dataset, Adam Optimizer and Cross Entropy Loss Function, Premises and Hypotheses and few more topics related to the same from here. I have presented the implementation of Training and Evaluating Attention Model using PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Natural Language Inference Dataset**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NaturalLanguage%20Inference%20Data.ipynb)
+  - [**Natural Language Inference**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NL%20Inference%20Attention.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20183.PNG)
