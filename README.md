@@ -29,7 +29,8 @@
 | 8. [**Sentiment Analysis with RNN**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20RNN.ipynb) |
 | 9. [**Sentiment Analysis with CNN**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20CNN.ipynb) |
 | 10. [**Natural Language Inference Dataset**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NaturalLanguage%20Inference%20Data.ipynb) |
-| 11. [**Natural Language Inference**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NL%20Inference%20Attention.ipynb) |
+| 11. [**Natural Language Inference: Attention**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NL%20Inference%20Attention.ipynb) |
+| 12. [**Natural Language Inference: BERT**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NL%20Inference%20BERT.ipynb) |
 
 **Day1 of 300DaysOfData!**
 - **Gradient Descent and Cross Validation**: Gradient Descent is an iterative approach to approximating the Parameters that minimize a Differentiable Loss Function. Cross Validation is a resampling procedure used to evaluate Machine Learning Models on a limited Data sample which has a parameter that splits the data into number of groups. On my Journey of Machine Learning and Deep Learning, Today I have read in brief about the fundamental Topics such as Calculus, Matrices, Matrix Calculus, Random Variables, Density Functions, Distributions, Independence, Maximum Likelihood Estimation and Conditional Probability. I have also read and Implemented about Gradient Descent and Cross Validation. I am starting this Journey from Scratch and I am following the Book:**Machine Learning From Scratch**. I have presented the Implementation of Gradient Descent and Cross Validation here in the Snapshots. I hope you will also spend some time reading the Topics from the Book mentioned above. I am excited about the days to come!!
@@ -1467,6 +1468,15 @@
 - Book:
   - [**Dive into Deep Learning**](https://d2l.ai/index.html)
   - [**Natural Language Inference Dataset**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NaturalLanguage%20Inference%20Data.ipynb)
-  - [**Natural Language Inference**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NL%20Inference%20Attention.ipynb)
+  - [**Natural Language Inference: Attention**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NL%20Inference%20Attention.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20183.PNG)
+
+**Day184 of 300DaysOfData!**
+- **BERT Model Notes**: BERT requires minimal architecture changes for sequence level and token level NLP applications such as Single Text Classification, Text Pair Classification or Regression and Text Tagging. On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about Fine Tuning BERT for Sequence Level and Token Level Applications, Single Text Classification, Text Pair Classification or Regression, Text Tagging, Question Answering, Natural Language Inference and Pretrained BERT Model, Loading Pretrained BERT Model and Parameters, Semantic Textual Similarity, POS Tagging and few more topics related to the same from here. I have presented the implementation of Loading Pretrained BERT Model and Parameters using PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Natural Language Inference: Attention**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NL%20Inference%20Attention.ipynb)
+  - [**Natural Language Inference: BERT**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NL%20Inference%20BERT.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20184.PNG)
