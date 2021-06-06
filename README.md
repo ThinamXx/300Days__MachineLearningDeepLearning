@@ -1480,3 +1480,13 @@
   - [**Natural Language Inference: BERT**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NL%20Inference%20BERT.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20184.PNG)
+
+**Day185 of 300DaysOfData!**
+- **BERT Model Notes**: BERT requires minimal architecture changes for sequence level and token level NLP applications such as Single Text Classification, Text Pair Classification or Regression and Text Tagging. On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about Loading Pretrained BERT Model and Parameters, The Dataset for Fine Tuning BERT Model, Premise, Hypothesis and Input Sequence, Tokenization and Vocabulary, Truncating and Padding Tokens, Natural Language Inference and few more topics related to the same from here. I have presented the implementation of The Dataset for Fine Tuning BERT Model and Generating Training and Test Examples using PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Natural Language Inference: Attention**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NL%20Inference%20Attention.ipynb)
+  - [**Natural Language Inference: BERT**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NL%20Inference%20BERT.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20185a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20185b.PNG)
