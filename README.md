@@ -1490,3 +1490,12 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20185a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20185b.PNG)
+
+**Day186 of 300DaysOfData!**
+- **Generative Adversarial Networks**: Generative Adversarial Networks consist of two deep networks Generator and Discriminator. The Generator generates the image as much closer to the true image as possible to fool Discriminator by maximizing the cross entropy loss. The Discriminator tries to distinguish the generated images from the true images by minimizing the cross entropy loss. On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about Generative Adversarial Networks, Generator and Discriminator Networks, Updating Discriminator and few more topics related to the same from here. I have also read about Recommender Systems, Collaborative Filtering, Explicit and Implicit Feedbacks, Recommendation Tasks and few more topics related to the same. I have presented a simple implementation of Generator and Discriminator Networks and Optimization using PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Natural Language Inference: Attention**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NL%20Inference%20Attention.ipynb)
+  - [**Natural Language Inference: BERT**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NL%20Inference%20BERT.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20186.PNG)
