@@ -31,6 +31,7 @@
 | 10. [**Natural Language Inference Dataset**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NaturalLanguage%20Inference%20Data.ipynb) |
 | 11. [**Natural Language Inference: Attention**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NL%20Inference%20Attention.ipynb) |
 | 12. [**Natural Language Inference: BERT**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NL%20Inference%20BERT.ipynb) |
+| 13. [**Deep Convolutional GAN**](https://github.com/ThinamXx/GAN/blob/main/Deep%20GAN.ipynb) |
 
 **Day1 of 300DaysOfData!**
 - **Gradient Descent and Cross Validation**: Gradient Descent is an iterative approach to approximating the Parameters that minimize a Differentiable Loss Function. Cross Validation is a resampling procedure used to evaluate Machine Learning Models on a limited Data sample which has a parameter that splits the data into number of groups. On my Journey of Machine Learning and Deep Learning, Today I have read in brief about the fundamental Topics such as Calculus, Matrices, Matrix Calculus, Random Variables, Density Functions, Distributions, Independence, Maximum Likelihood Estimation and Conditional Probability. I have also read and Implemented about Gradient Descent and Cross Validation. I am starting this Journey from Scratch and I am following the Book:**Machine Learning From Scratch**. I have presented the Implementation of Gradient Descent and Cross Validation here in the Snapshots. I hope you will also spend some time reading the Topics from the Book mentioned above. I am excited about the days to come!!
@@ -1509,3 +1510,12 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20187a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20187b.PNG)
+
+**Day188 of 300DaysOfData!**
+- **Generative Adversarial Networks**: Generative Adversarial Networks consist of two deep networks Generator and Discriminator. The Generator generates the image as much closer to the true image as possible to fool Discriminator by maximizing the cross entropy loss. The Discriminator tries to distinguish the generated images from the true images by minimizing the cross entropy loss. On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about Deep Convolutional Generative Adversarial Networks, The Pokemon Dataset, Resizing and Normalization, DataLoader, The Generator Block Module, Transposed Convolution Layer, Batch Normalization Layer, RELU Activation Function and few more topics related to the same from here. I have also read about Inter Quartile Range, Mean Absolute Deviation, Box Plots, Density Plots, Frequency Tables and few more topics related to the same. I have presented the implementation of The Generator Block and Pokemon Dataset using PyTorch here in the snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the Topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Deep Convolutional GAN**](https://github.com/ThinamXx/GAN/blob/main/Deep%20GAN.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20188a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20188b.PNG)
