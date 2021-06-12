@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -1528,3 +1527,12 @@
   - [**Deep Convolutional GAN**](https://github.com/ThinamXx/GAN/blob/main/Deep%20GAN.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20189.PNG)
+
+**Day190 of 300DaysOfData!**
+- **Generative Adversarial Networks**: Generative Adversarial Networks consist of two deep networks Generator and Discriminator. The Generator generates the image as much closer to the true image as possible to fool Discriminator by maximizing the cross entropy loss. The Discriminator tries to distinguish the generated images from the true images by minimizing the cross entropy loss. On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the Book **Dive into Deep Learning**. Here, I have learned about Deep Convolutional Generative Adversarial Networks, The Generator and The Discriminator Blocks, Cross Entropy Loss Function, Adam Optimization Function and few more topics related to the same from here. I have presented the implementation of Training Generator and Discriminator Networks using PyTorch here in the snapshots. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - [**Dive into Deep Learning**](https://d2l.ai/index.html)
+  - [**Deep Convolutional GAN**](https://github.com/ThinamXx/GAN/blob/main/Deep%20GAN.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20190a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20190a.PNG)
