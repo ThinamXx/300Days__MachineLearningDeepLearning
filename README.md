@@ -12,7 +12,7 @@
 | 6. [**Deep Learning with PyTorch: Part I**](https://www.manning.com/books/deep-learning-with-pytorch) |
 | 7. [**Dive into Deep Learning**](https://d2l.ai/) |
 | 8. [**Logistic Regression Documentation**](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html) |
-| 9. [**Deep Learning for Coders with Fastai and PyTorch** |
+| 9. **Deep Learning for Coders with Fastai and PyTorch** |
 
 | Research Papers |
 | --------------- |
@@ -1537,3 +1537,11 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20190a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20190b.PNG)
+
+**Day191 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, Today I have started reading and implementing from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Deep Learning in Practice, Areas of Deep Learning, A Brief History of Neural Networks, Fastai and Jupyter Notebooks, Cat and Dog Classification, Image Loaders, Pretrained Models, RESNET and CNNs, Error Rate and few more topics related to the same from here. I have presented the implementation of Cat and Dog Classification using Fastai here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Introduction Notebook: Fastai**](https://github.com/ThinamXx/Fastai/blob/main/1.%20Introduction.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20191.PNG)
