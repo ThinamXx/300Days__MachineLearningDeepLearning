@@ -1545,3 +1545,11 @@
   - [**Introduction Notebook: Fastai**](https://github.com/ThinamXx/Fastai/blob/main/1.%20Introduction.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20191.PNG)
+
+**Day192 of 300DaysOfData!**
+- **Transfer Learning**: Transfer Learning is defined as the process of using pretrained model for a task different from what it was originally trained for. Fine Tuning is a transfer learning technique that updates the parameters of pretrained model by training for additional epochs using a different task from that used for pretraining. On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Machine Learning and Weight Assignment, Neural Networks and Stochastic Gradient Descent, Limitations Inherent to ML, Image Recognition, Classification and Regression, Overfitting and Validation Set, Transfer Learning, Semantic Segmentation, Sentiment Classification, Data Loaders and few more topics related to the same from here. I have presented the implementation of Semantic Segmentation and Sentiment Classification using Fastai here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Introduction Notebook: Fastai**](https://github.com/ThinamXx/Fastai/blob/main/1.%20Introduction.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20192.PNG)
