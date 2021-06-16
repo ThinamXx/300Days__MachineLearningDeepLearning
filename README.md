@@ -33,6 +33,7 @@
 | 11. [**Natural Language Inference: Attention**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NL%20Inference%20Attention.ipynb) |
 | 12. [**Natural Language Inference: BERT**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NL%20Inference%20BERT.ipynb) |
 | 13. [**Deep Convolutional GAN**](https://github.com/ThinamXx/GAN/blob/main/Deep%20GAN.ipynb) |
+| 14. [**Fastai: Introduction Notebook**](https://github.com/ThinamXx/Fastai/blob/main/1.%20Introduction.ipynb) |
 
 **Day1 of 300DaysOfData!**
 - **Gradient Descent and Cross Validation**: Gradient Descent is an iterative approach to approximating the Parameters that minimize a Differentiable Loss Function. Cross Validation is a resampling procedure used to evaluate Machine Learning Models on a limited Data sample which has a parameter that splits the data into number of groups. On my Journey of Machine Learning and Deep Learning, Today I have read in brief about the fundamental Topics such as Calculus, Matrices, Matrix Calculus, Random Variables, Density Functions, Distributions, Independence, Maximum Likelihood Estimation and Conditional Probability. I have also read and Implemented about Gradient Descent and Cross Validation. I am starting this Journey from Scratch and I am following the Book:**Machine Learning From Scratch**. I have presented the Implementation of Gradient Descent and Cross Validation here in the Snapshots. I hope you will also spend some time reading the Topics from the Book mentioned above. I am excited about the days to come!!
@@ -1542,7 +1543,7 @@
 - On my Journey of Machine Learning and Deep Learning, Today I have started reading and implementing from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Deep Learning in Practice, Areas of Deep Learning, A Brief History of Neural Networks, Fastai and Jupyter Notebooks, Cat and Dog Classification, Image Loaders, Pretrained Models, RESNET and CNNs, Error Rate and few more topics related to the same from here. I have presented the implementation of Cat and Dog Classification using Fastai here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
 - Book:
   - **Deep Learning for Coders with Fastai and PyTorch**
-  - [**Introduction Notebook: Fastai**](https://github.com/ThinamXx/Fastai/blob/main/1.%20Introduction.ipynb)
+  - [**Fastai: Introduction Notebook**](https://github.com/ThinamXx/Fastai/blob/main/1.%20Introduction.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20191.PNG)
 
@@ -1550,6 +1551,14 @@
 - **Transfer Learning**: Transfer Learning is defined as the process of using pretrained model for a task different from what it was originally trained for. Fine Tuning is a transfer learning technique that updates the parameters of pretrained model by training for additional epochs using a different task from that used for pretraining. On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Machine Learning and Weight Assignment, Neural Networks and Stochastic Gradient Descent, Limitations Inherent to ML, Image Recognition, Classification and Regression, Overfitting and Validation Set, Transfer Learning, Semantic Segmentation, Sentiment Classification, Data Loaders and few more topics related to the same from here. I have presented the implementation of Semantic Segmentation and Sentiment Classification using Fastai here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
 - Book:
   - **Deep Learning for Coders with Fastai and PyTorch**
-  - [**Introduction Notebook: Fastai**](https://github.com/ThinamXx/Fastai/blob/main/1.%20Introduction.ipynb)
+  - [**Fastai: Introduction Notebook**](https://github.com/ThinamXx/Fastai/blob/main/1.%20Introduction.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20192.PNG)
+
+**Day193 of 300DaysOfData!**
+- **Transfer Learning**: Transfer Learning is defined as the process of using pretrained model for a task different from what it was originally trained for. Fine Tuning is a transfer learning technique that updates the parameters of pretrained model by training for additional epochs using a different task from that used for pretraining. On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Tabular Data and Classification, Tabular Data Loaders, Categorical and Continuous Data, Recommendation System and Collaborative Filtering, Datasets for Models, Validation Sets and Test Sets, Judgement in Test Sets and few more topics related to the same from here. I have presented the implementation of Tabular Classification and Recommendation System Model using Fastai here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Introduction Notebook**](https://github.com/ThinamXx/Fastai/blob/main/1.%20Introduction.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20193.PNG)
