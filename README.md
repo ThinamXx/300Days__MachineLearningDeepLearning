@@ -1571,3 +1571,11 @@
   - [**Fastai: Image Detection**](https://github.com/ThinamXx/Fastai/blob/main/2.%20Model%20Production/BearDetector.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20194.PNG)
+
+**Day195 of 300DaysOfData!**
+- **The Drivetrain Approach**: It can be stated as start with considering your objective then think about what actions you can take to meet that objective and what data you have or can acquire that can help and then build a model that you can use to determine the best actions to take to get the best results in terms of your objective. On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have Fastai Dependencies and Functions, Biased Dataset, Data to Data Loaders, Data Block API, Dependent and Independent Variables, Random Splitting, Image Transformations and few more topics related to the same from here. I have presented the implementation of Gathering Data and Initializing Data Loaders using Duck Duck Go and Fastai here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Image Detection**](https://github.com/ThinamXx/Fastai/blob/main/2.%20Model%20Production/BearDetector.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20195.PNG)
