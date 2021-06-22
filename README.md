@@ -1587,3 +1587,11 @@
   - [**Fastai: Image Detection**](https://github.com/ThinamXx/Fastai/blob/main/2.%20Model%20Production/BearDetector.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20196.PNG)
+
+**Day197 of 300DaysOfData!**
+- **Data Augmentation**: Data Augmentation refers to creating random variations of the input data such that they appear different but do not change the meaning of the data. RandomResizedCrop is a specific example of Data Augmentation. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Training Pretrained Model, Data Augmentation and Transformations, Classification Interpretation and Confusion Matrix, Cleaning Dataset, Inference Model and Parameters, Notebooks and Widgets and few more topics related to the same from here. I have presented the implementation of Classification Interpretation, Cleaning Dataset, Inference Model and Parameters using Fastai here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Image Detection**](https://github.com/ThinamXx/Fastai/blob/main/2.%20Model%20Production/BearDetector.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20197.PNG)
