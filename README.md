@@ -36,6 +36,7 @@
 | 13. [**Deep Convolutional GAN**](https://github.com/ThinamXx/GAN/blob/main/Deep%20GAN.ipynb) |
 | 14. [**Fastai: Introduction Notebook**](https://github.com/ThinamXx/Fastai/blob/main/1.%20Introduction.ipynb) |
 | 15. [**Fastai: Image Detection**](https://github.com/ThinamXx/Fastai/blob/main/2.%20Model%20Production/BearDetector.ipynb) |
+| 16. [**Fastai: Training Classifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb) |
 
 **Day1 of 300DaysOfData!**
 - **Gradient Descent and Cross Validation**: Gradient Descent is an iterative approach to approximating the Parameters that minimize a Differentiable Loss Function. Cross Validation is a resampling procedure used to evaluate Machine Learning Models on a limited Data sample which has a parameter that splits the data into number of groups. On my Journey of Machine Learning and Deep Learning, Today I have read in brief about the fundamental Topics such as Calculus, Matrices, Matrix Calculus, Random Variables, Density Functions, Distributions, Independence, Maximum Likelihood Estimation and Conditional Probability. I have also read and Implemented about Gradient Descent and Cross Validation. I am starting this Journey from Scratch and I am following the Book:**Machine Learning From Scratch**. I have presented the Implementation of Gradient Descent and Cross Validation here in the Snapshots. I hope you will also spend some time reading the Topics from the Book mentioned above. I am excited about the days to come!!
@@ -1596,3 +1597,11 @@
   - [**Fastai: Image Detection**](https://github.com/ThinamXx/Fastai/blob/main/2.%20Model%20Production/BearDetector.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20197.PNG)
+
+**Day198 of 300DaysOfData!**
+- **Data Ethics**: Ethics refers to well founded standards of right and wrong that prescribe what humans should do. It is the study and development of ones ethical standards. Recourse Process, Feedback Loops, Bias are key examples for Data Ethics. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Data Ethics, Bugs and Recourse, Feedback Loops, Bias, Integrating ML with Product Design, Training a Digit Classifier, Pixels and Computer Vision, Tenacity and Deep Learning, Pixel Similarity, List Comprehensions and few more topics related to the same from here. I have presented the simple implementation of Pixels and Computer Vision using Fastai here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Training Classifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20198.PNG)
