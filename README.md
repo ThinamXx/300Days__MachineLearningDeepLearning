@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -1605,3 +1604,11 @@
   - [**Fastai: Training Classifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20198.PNG)
+
+**Day199 of 300DaysOfData!**
+- **L1 and L2 Norm**: Taking the mean of absolute value of differences is called Mean Absolute Difference or L1 Norm. Taking the mean of square of differences and then taking the square root is called Root Mean Squared Error or L2 Norm. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Rank of Tensors, Mean Absolute Difference or L1 Norm and Root Mean Squared Error or L2 Norm, Numpy Arrays and PyTorch Tensors, Computing Metrics using Broadcasting and few more topics related to the same from here. I have presented the simple implementation of Arrays and Tensors, L1 and L2 Norm using Fastai here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Training Classifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20199.PNG)
