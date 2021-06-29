@@ -1620,3 +1620,11 @@
   - [**Fastai: Training Classifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20200.PNG)
+
+**Day201 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about The Gradient Descent Process, Initializing Parameters, Calculating Predictions and Inspecting, Calculating Loss and MSE, Calculating Gradients and Backpropagation, Stepping the Weights and Updating Parameters, Repeating the Process & Stopping the Process and few more topics related to the same from here. I have presented the implementation of The Gradient Descent Process using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Training Classifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20201.PNG)
