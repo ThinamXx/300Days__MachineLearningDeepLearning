@@ -1636,3 +1636,11 @@
   - [**Fastai: Training Classifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20202.PNG)
+
+**Day203 of 300DaysOfData!**
+- **Accuracy and Loss Function**: The key difference between metric such as accuracy and loss function is that the loss is to drive automated learning and the metric is to drive human understanding. The loss must be a function with meaningful derivative and metrics focuses on performance of the model. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Matrix Multiplication, Activation Function, Loss Function, Gradients and Slope, Sigmoid Function, Accuracy Metrics and Understanding and few more topics related to the same from here. I have presented the implementation of Loss Function and Sigmoid using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Training Classifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20203.PNG)
