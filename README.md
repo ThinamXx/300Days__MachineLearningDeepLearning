@@ -1652,3 +1652,12 @@
   - [**Fastai: Training Classifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20204.PNG)
+
+**Day205 of 300DaysOfData!**
+- **SGD and Minibatches**: The process to change or update the weights based on the gradients in order to consider some of the details involved in the next phase of the learning process is called an Optimization Step. The calculation of average loss for a few data items at a time is called a Minibatch. The number of data items in the Minibatch is called Batchsize. A larger Batchsize means more accurate and stable estimate of the dataset gradients from the loss function whereas a single Batchsize result in an imprecise and unstable gradient. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Calculating Gradients and Back Propagation, Weights, Bias and Parameters, Zeroing Gradients, Training Loop and Learning Rate, Accuracy and Evaluation, Creating an Optimizer and few more topics related to the same from here. I have presented the implementation of Calculating Gradients, Accuracy and Training using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Training Classifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20205a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20205b.PNG)
