@@ -1679,3 +1679,11 @@
   - [**Fastai: Training Classifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20207.PNG)
+
+**Day208 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Image Classification, Localization, Regular Expressions, Data Block and Data Loaders, Regex Labeller, Data Augmentation, Presizing, Checking and Debugging Data Block, Item and Batch Transformations and few more topics related to the same from here. I have presented the implementation of Creating and Debugging Data Block and Data Loaders using Fastai and PyTorch here in the snapshot. I have used Resize as an item transform with a large size and RandomResizedCrop as a batch transform with a smaller size. RandomResizedCrop will be added if min scale parameter is passed in aug transforms function as was done in DataBlock call below. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Image Classification**](https://github.com/ThinamXx/Fastai/blob/main/4.%20Image%20Classification/ImageClassification.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20208.PNG)
