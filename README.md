@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -1688,3 +1687,11 @@
   - [**Fastai: Image Classification**](https://github.com/ThinamXx/Fastai/blob/main/4.%20Image%20Classification/ImageClassification.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20208.PNG)
+
+**Day209 of 300DaysOfData!**
+- **Exponential Function**: Exponential Function is defined as e\*\*x where e is a special number approximately equal to 2.718. It is the inverse of natural logarithm function. Exponential Function is always positive and increases very rapidly. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Cross Entropy Loss Function, Viewing Activations and Labels, Softmax Activation Function, Sigmoid Function, Exponential Function, Negative Log Likelihood, Binary Classification and few more topics related to the same from here. I have presented the implementation of Softmax Function and Negative Log Likelihood using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Image Classification**](https://github.com/ThinamXx/Fastai/blob/main/4.%20Image%20Classification/ImageClassification.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20209.PNG)
