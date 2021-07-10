@@ -2,6 +2,7 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
+
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -37,7 +38,7 @@
 | 15. [**Fastai: Image Detection**](https://github.com/ThinamXx/Fastai/blob/main/2.%20Model%20Production/BearDetector.ipynb) |
 | 16. [**Fastai: Training Classifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb) |
 | 17. [**Fastai: Image Classification**](https://github.com/ThinamXx/Fastai/blob/main/4.%20Image%20Classification/ImageClassification.ipynb) |
-| 18. [**Fastai: Multilabel Classification & Regression**](https://github.com/ThinamXx/Fastai/blob/main/5.%20MultilabelClassification%20Regression/MultilabelClassification.ipynb) |
+| 17. [**Fastai: Multilabel Classification & Regression**](https://github.com/ThinamXx/Fastai/blob/main/5.%20MultilabelClassification%20Regression/MultilabelClassification.ipynb) |
 
 **Day1 of 300DaysOfData!**
 - **Gradient Descent and Cross Validation**: Gradient Descent is an iterative approach to approximating the Parameters that minimize a Differentiable Loss Function. Cross Validation is a resampling procedure used to evaluate Machine Learning Models on a limited Data sample which has a parameter that splits the data into number of groups. On my Journey of Machine Learning and Deep Learning, Today I have read in brief about the fundamental Topics such as Calculus, Matrices, Matrix Calculus, Random Variables, Density Functions, Distributions, Independence, Maximum Likelihood Estimation and Conditional Probability. I have also read and Implemented about Gradient Descent and Cross Validation. I am starting this Journey from Scratch and I am following the Book:**Machine Learning From Scratch**. I have presented the Implementation of Gradient Descent and Cross Validation here in the Snapshots. I hope you will also spend some time reading the Topics from the Book mentioned above. I am excited about the days to come!!
@@ -1547,3 +1548,168 @@
 - On my Journey of Machine Learning and Deep Learning, Today I have started reading and implementing from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Deep Learning in Practice, Areas of Deep Learning, A Brief History of Neural Networks, Fastai and Jupyter Notebooks, Cat and Dog Classification, Image Loaders, Pretrained Models, RESNET and CNNs, Error Rate and few more topics related to the same from here. I have presented the implementation of Cat and Dog Classification using Fastai here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
 - Book:
   - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Introduction Notebook**](https://github.com/ThinamXx/Fastai/blob/main/1.%20Introduction.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20191.PNG)
+
+**Day192 of 300DaysOfData!**
+- **Transfer Learning**: Transfer Learning is defined as the process of using pretrained model for a task different from what it was originally trained for. Fine Tuning is a transfer learning technique that updates the parameters of pretrained model by training for additional epochs using a different task from that used for pretraining. On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Machine Learning and Weight Assignment, Neural Networks and Stochastic Gradient Descent, Limitations Inherent to ML, Image Recognition, Classification and Regression, Overfitting and Validation Set, Transfer Learning, Semantic Segmentation, Sentiment Classification, Data Loaders and few more topics related to the same from here. I have presented the implementation of Semantic Segmentation and Sentiment Classification using Fastai here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Introduction Notebook**](https://github.com/ThinamXx/Fastai/blob/main/1.%20Introduction.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20192.PNG)
+
+**Day193 of 300DaysOfData!**
+- **Transfer Learning**: Transfer Learning is defined as the process of using pretrained model for a task different from what it was originally trained for. Fine Tuning is a transfer learning technique that updates the parameters of pretrained model by training for additional epochs using a different task from that used for pretraining. On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Tabular Data and Classification, Tabular Data Loaders, Categorical and Continuous Data, Recommendation System and Collaborative Filtering, Datasets for Models, Validation Sets and Test Sets, Judgement in Test Sets and few more topics related to the same from here. I have presented the implementation of Tabular Classification and Recommendation System Model using Fastai here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Introduction Notebook**](https://github.com/ThinamXx/Fastai/blob/main/1.%20Introduction.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20193.PNG)
+
+**Day194 of 300DaysOfData!**
+- **The Drivetrain Approach**: It can be stated as start with considering your objective then think about what actions you can take to meet that objective and what data you have or can acquire that can help and then build a model that you can use to determine the best actions to take to get the best results in terms of your objective. On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about The Practice of Deep Learning, The State of DL, Computer Vision, Text and NLP, Combining Text and Images, Tabular Data and Recommendation Systems, The Drivetrain Approach, Gathering Data and Duck Duck Go, Questionnaire and few more topics related to the same from here. I have presented the implementation of Gathering Data for Object Detection using Duck Duck Go and Fastai here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Image Detection**](https://github.com/ThinamXx/Fastai/blob/main/2.%20Model%20Production/BearDetector.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20194.PNG)
+
+**Day195 of 300DaysOfData!**
+- **The Drivetrain Approach**: It can be stated as start with considering your objective then think about what actions you can take to meet that objective and what data you have or can acquire that can help and then build a model that you can use to determine the best actions to take to get the best results in terms of your objective. On my Journey of Machine Learning and Deep Learning, Today I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have Fastai Dependencies and Functions, Biased Dataset, Data to Data Loaders, Data Block API, Dependent and Independent Variables, Random Splitting, Image Transformations and few more topics related to the same from here. I have presented the implementation of Gathering Data and Initializing Data Loaders using Duck Duck Go and Fastai here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Image Detection**](https://github.com/ThinamXx/Fastai/blob/main/2.%20Model%20Production/BearDetector.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20195.PNG)
+
+**Day196 of 300DaysOfData!**
+- **Data Augmentation**: Data Augmentation refers to creating random variations of the input data such that they appear different but do not change the meaning of the data. RandomResizedCrop is a specific example of Data Augmentation. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Data Loaders, Image Block, Resizing, Squishing and Stretching Images, Padding Images, Data Augmentation, Image Transformations, Training the Model and Error Rate, Random Resizing and Cropping and few more topics related to the same from here. I have presented the implementation of Data Loaders, Data Augmentation and Training the Model using Fastai here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Image Detection**](https://github.com/ThinamXx/Fastai/blob/main/2.%20Model%20Production/BearDetector.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20196.PNG)
+
+**Day197 of 300DaysOfData!**
+- **Data Augmentation**: Data Augmentation refers to creating random variations of the input data such that they appear different but do not change the meaning of the data. RandomResizedCrop is a specific example of Data Augmentation. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Training Pretrained Model, Data Augmentation and Transformations, Classification Interpretation and Confusion Matrix, Cleaning Dataset, Inference Model and Parameters, Notebooks and Widgets and few more topics related to the same from here. I have presented the implementation of Classification Interpretation, Cleaning Dataset, Inference Model and Parameters using Fastai here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Image Detection**](https://github.com/ThinamXx/Fastai/blob/main/2.%20Model%20Production/BearDetector.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20197.PNG)
+
+**Day198 of 300DaysOfData!**
+- **Data Ethics**: Ethics refers to well founded standards of right and wrong that prescribe what humans should do. It is the study and development of ones ethical standards. Recourse Process, Feedback Loops, Bias are key examples for Data Ethics. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Data Ethics, Bugs and Recourse, Feedback Loops, Bias, Integrating ML with Product Design, Training a Digit Classifier, Pixels and Computer Vision, Tenacity and Deep Learning, Pixel Similarity, List Comprehensions and few more topics related to the same from here. I have presented the simple implementation of Pixels and Computer Vision using Fastai here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Training Classifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20198.PNG)
+
+**Day199 of 300DaysOfData!**
+- **L1 and L2 Norm**: Taking the mean of absolute value of differences is called Mean Absolute Difference or L1 Norm. Taking the mean of square of differences and then taking the square root is called Root Mean Squared Error or L2 Norm. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Rank of Tensors, Mean Absolute Difference or L1 Norm and Root Mean Squared Error or L2 Norm, Numpy Arrays and PyTorch Tensors, Computing Metrics using Broadcasting and few more topics related to the same from here. I have presented the simple implementation of Arrays and Tensors, L1 and L2 Norm using Fastai here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Training Classifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20199.PNG)
+
+**Day200 of 300DaysOfData!**
+- **L1 and L2 Norm**: Taking the mean of absolute value of differences is called Mean Absolute Difference or L1 Norm. Taking the mean of square of differences and then taking the square root is called Root Mean Squared Error or L2 Norm. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Computing Metrics using Broadcasting, Mean Absolute Error, Stochastic Gradient Descent, Initializing Parameters, Loss Function, Calculating Gradients, Backpropagation and Derivatives, Learning Rate Optimization and few more topics related to the same from here. I have presented the simple implementation of Stochastic Gradient Descent using Fastai here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Training Classifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20200.PNG)
+
+**Day201 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about The Gradient Descent Process, Initializing Parameters, Calculating Predictions and Inspecting, Calculating Loss and MSE, Calculating Gradients and Backpropagation, Stepping the Weights and Updating Parameters, Repeating the Process & Stopping the Process and few more topics related to the same from here. I have presented the implementation of The Gradient Descent Process using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Training Classifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20201.PNG)
+
+**Day202 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about The MNIST Loss Function, Matrices and Vectors, Independent Variables, Weights and Biases, Parameters, Matrix Multiplication and Dataset Class, Gradient Descent Process and Learning Rate, Activation Function and few more topics related to the same from here. I have presented the implementation of The Dataset Class and Matrix Multiplication using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Training Classifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20202.PNG)
+
+**Day203 of 300DaysOfData!**
+- **Accuracy and Loss Function**: The key difference between metric such as accuracy and loss function is that the loss is to drive automated learning and the metric is to drive human understanding. The loss must be a function with meaningful derivative and metrics focuses on performance of the model. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Matrix Multiplication, Activation Function, Loss Function, Gradients and Slope, Sigmoid Function, Accuracy Metrics and Understanding and few more topics related to the same from here. I have presented the implementation of Loss Function and Sigmoid using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Training Classifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20203.PNG)
+
+**Day204 of 300DaysOfData!**
+- **SGD and Minibatches**: The process to change or update the weights based on the gradients in order to consider some of the details involved in the next phase of the learning process is called an Optimization Step. The calculation of average loss for a few data items at a time is called a Minibatch. The number of data items in the Minibatch is called Batchsize. A larger Batchsize means more accurate and stable estimate of the dataset gradients from the loss function whereas a single Batchsize result in an imprecise and unstable gradient. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Stochastic Gradient Descent and Minibatches, Optimization Step, Batch Size, DataLoader and Dataset, Initializing Parameters, Weights and Bias, Backpropagation and Gradients, Loss Function and few more topics related to the same from here. I have presented the implementation of DataLoader and Gradients using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Training Classifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20204.PNG)
+
+**Day205 of 300DaysOfData!**
+- **SGD and Minibatches**: The process to change or update the weights based on the gradients in order to consider some of the details involved in the next phase of the learning process is called an Optimization Step. The calculation of average loss for a few data items at a time is called a Minibatch. The number of data items in the Minibatch is called Batchsize. A larger Batchsize means more accurate and stable estimate of the dataset gradients from the loss function whereas a single Batchsize result in an imprecise and unstable gradient. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Calculating Gradients and Back Propagation, Weights, Bias and Parameters, Zeroing Gradients, Training Loop and Learning Rate, Accuracy and Evaluation, Creating an Optimizer and few more topics related to the same from here. I have presented the implementation of Calculating Gradients, Accuracy and Training using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Training Classifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20205a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20205b.PNG)
+
+**Day206 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Creating an Optimizer, Linear Module, Weights and Biases, Model Parameters, Optimization and Zeroing Gradients, SGD Class, Data Loaders and Learner Class of Fastai and few more topics related to the same from here. I have presented the implementation of Creating Optimizer and Learner Class using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Training Classifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20206a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20206b.PNG)
+
+**Day207 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Adding a Nonlinearity, Simple Linear Classifiers, Basic Neural Networks, Weight and Bias Tensors, Rectified Linear Unit or RELU Activation Function, Universal Approximation Theorem, Sequential Module and few more topics related to the same from here. I have presented the implementation of Creating Simple Neural Networks using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Training Classifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20207.PNG)
+
+**Day208 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Image Classification, Localization, Regular Expressions, Data Block and Data Loaders, Regex Labeller, Data Augmentation, Presizing, Checking and Debugging Data Block, Item and Batch Transformations and few more topics related to the same from here. I have presented the implementation of Creating and Debugging Data Block and Data Loaders using Fastai and PyTorch here in the snapshot. I have used Resize as an item transform with a large size and RandomResizedCrop as a batch transform with a smaller size. RandomResizedCrop will be added if min scale parameter is passed in aug transforms function as was done in DataBlock call below. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Image Classification**](https://github.com/ThinamXx/Fastai/blob/main/4.%20Image%20Classification/ImageClassification.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20208.PNG)
+
+**Day209 of 300DaysOfData!**
+- **Exponential Function**: Exponential Function is defined as e\*\*x where e is a special number approximately equal to 2.718. It is the inverse of natural logarithm function. Exponential Function is always positive and increases very rapidly. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Cross Entropy Loss Function, Viewing Activations and Labels, Softmax Activation Function, Sigmoid Function, Exponential Function, Negative Log Likelihood, Binary Classification and few more topics related to the same from here. I have presented the implementation of Softmax Function and Negative Log Likelihood using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Image Classification**](https://github.com/ThinamXx/Fastai/blob/main/4.%20Image%20Classification/ImageClassification.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20209.PNG)
+
+**Day210 of 300DaysOfData!**
+- **Exponential Function**: Exponential Function is defined as e\*\*x where e is a special number approximately equal to 2.718. It is the inverse of natural logarithm function. Exponential Function is always positive and increases very rapidly. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Logarithmic Function, Negative Log Likelihood, Cross Entropy Loss Function, Softmax Function, Model Interpretation, Confusion Matrix, Improving the Model, The Learning Rate Finder, Logarithmic Scale and few more topics related to the same from here. I have presented the implementation of Cross Entropy Loss, Confusion Matrix and Learning Rate Finder using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Image Classification**](https://github.com/ThinamXx/Fastai/blob/main/4.%20Image%20Classification/ImageClassification.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20210.PNG)
+
+**Day211 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Unfreezing and Transfer Learning, Freezing Trained Layers, Discriminative Learning Rates, Selecting the Number of Epochs, Deeper Architectures and few more topics related to the same from here. I have presented the implementation of Unfreezing and Transfer Learning and Discriminative Learning Rates using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Image Classification**](https://github.com/ThinamXx/Fastai/blob/main/4.%20Image%20Classification/ImageClassification.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20211.PNG)
