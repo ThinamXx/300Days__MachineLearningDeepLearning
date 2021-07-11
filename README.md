@@ -1720,3 +1720,11 @@
   - [**Fastai: Multilabel Classification & Regression**](https://github.com/ThinamXx/Fastai/blob/main/5.%20MultilabelClassification%20Regression/MultilabelClassification.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20212.PNG)
+
+**Day213 of 300DaysOfData!**
+- **Multilabel Classification**: Multilabel Classification refers to the problem of identifying the categories of objects in images that may not contain exactly one type of object. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Lambda Functions, Transformation Blocks such as Image Block and Multi Category Block, One Hot Encoding, Data Splitting, DataLoaders, Datasets and DataBlock, Resizing and Cropping and few more topics related to the same from here. I have presented the implementation of Creating DataBlock and DataLoaders using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Multilabel Classification & Regression**](https://github.com/ThinamXx/Fastai/blob/main/5.%20MultilabelClassification%20Regression/MultilabelClassification.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20213.PNG)
