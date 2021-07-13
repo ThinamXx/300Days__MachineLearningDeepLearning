@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -1729,3 +1728,11 @@
   - [**Fastai: Multilabel Classification & Regression**](https://github.com/ThinamXx/Fastai/blob/main/5.%20MultilabelClassification%20Regression/MultilabelClassification.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20213.PNG)
+
+**Day214 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Binary Cross Entropy Loss Function, DataLoaders and Learner, Getting Model Activations, Sigmoid and Softmax Functions, One Hot Encoding, Getting Accuracy, Partial Function and few more topics related to the same from here. **F.binary_cross_entropy** and its module equivalent **nn.BCELoss** calculate cross entropy on a one hot encoded target but don't include the initial sigmoid. Normally, **F.binary_cross_entropy_with_logits** or **nn.BCEWithLogitsLoss** do both sigmoid and binary cross entropy in a single function. Similarly for single label dataset, **F.nll_loss** or **nn.NLLoss** for the version without initial softmax and F.cross_entropy or nn.CrossEntropyLoss for the version with initial softmax. I have presented the implementation of Cross Entropy Loss Functions and Accuracy using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Multilabel Classification & Regression**](https://github.com/ThinamXx/Fastai/blob/main/5.%20MultilabelClassification%20Regression/MultilabelClassification.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20214.PNG)
