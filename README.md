@@ -1746,3 +1746,13 @@
   - [**Fastai: Image Regression**](https://github.com/ThinamXx/Fastai/blob/main/5.%20MultilabelClassification%20Regression/Regression.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20215.PNG)
+
+**Day216 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Image Regression and Localization, Assembling the Dataset, Initializing DataBlock and DataLoaders, Points and Data Augmentation, Training the Model, Sigmoid Range, MSE Loss Function, Transfer Learning and few more topics related to the same from here. I have presented the implementation of Initializing DataBlock and DataLoaders and Training Image Regression using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai: Multilabel Classification & Regression**](https://github.com/ThinamXx/Fastai/blob/main/5.%20MultilabelClassification%20Regression/MultilabelClassification.ipynb)
+  - [**Fastai: Image Regression**](https://github.com/ThinamXx/Fastai/blob/main/5.%20MultilabelClassification%20Regression/Regression.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20216a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20216b.PNG)
