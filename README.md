@@ -1757,3 +1757,12 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20216a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20216b.PNG)
+
+**Day217 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Imagenette Classification, DataBlock and DataLoaders, Data Normalization and Normalize Function, Progressive Resizing and Data Augmentation, Transfer Learning, Mean and Standard Deviation and few more topics related to the same from here. **Progressive Resizing** is the process of gradually using larger and larger images as training progresses. I have presented the implementation of Initializing DataBlock and DataLoaders, Normalization and Progressive Resizing using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Advanced Classification**](https://github.com/ThinamXx/Fastai/blob/main/6.%20Advanced%20Classification/ImagenetteClassification.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20217a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20217b.PNG)
