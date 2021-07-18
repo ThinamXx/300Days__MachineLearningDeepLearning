@@ -1766,3 +1766,11 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20217a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20217b.PNG)
+
+**Day218 of 300DaysOfData!**
+- **Label Smoothing**: Label Smoothing is a process which replaces all the labels i.e 1s with a number a bit less than 1 and 0s with a number a bit more than 0 for training. It will make training more robust even if there is mislabeled data which results to be a model that generalizes better at inference. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Progressive Resizing, Test Time Augmentation, Mixup Augmentation, Linear Combinations, Callbacks, Label Smoothing and Cross Entropy Loss Function and few more topics related to the same from here. During inference or validation, creating multiple versions of each image using data augmentation and then taking the average or maximum of the predictions for each augmented version of the image is called **Test Time Augmentation**. I have presented the implementation of Progressive Resizing, Test Time Augmentation, Mixup Augmentation and Label Smoothing using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Advanced Classification**](https://github.com/ThinamXx/Fastai/blob/main/6.%20Advanced%20Classification/ImagenetteClassification.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20218.PNG)
