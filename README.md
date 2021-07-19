@@ -1775,3 +1775,11 @@
   - [**Advanced Classification**](https://github.com/ThinamXx/Fastai/blob/main/6.%20Advanced%20Classification/ImagenetteClassification.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20218.PNG)
+
+**Day219 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Collaborative Filtering, Learning the Latent Factors, Loss Function and Stochastic Gradient Descent, Creating DataLoaders, Batches, Dot Product and Matrix Multiplication and few more topics related to the same from here. The mathematical operation of multiplying the elements of two vectors together and then summing up the result is called **Dot Product**. I have presented the implementation of Initializing Dataset and Creating DataLoaders using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Collaborative Filtering**](https://github.com/ThinamXx/Fastai/blob/main/7.%20Collaborative%20Filtering/CollaborativeFiltering.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20219.PNG)
