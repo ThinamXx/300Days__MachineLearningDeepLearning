@@ -1783,3 +1783,12 @@
   - [**Collaborative Filtering**](https://github.com/ThinamXx/Fastai/blob/main/7.%20Collaborative%20Filtering/CollaborativeFiltering.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20219.PNG)
+
+**Day220 of 300DaysOfData!**
+- **Embedding**: The special layer that indexes into a vector using an integer but has its derivative calculated in such a way that it is identical to what it would have been if it had done a matrix multiplication with a one hot encoded vector is called **Embedding**. Multiplying by a one hot encoded matrix using the computational shortcut that it can be implemented by simply indexing directly. The thing that multiply the one hot encoded matrix is called the **Embedding Matrix**. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Creating DataLoaders, Embedding Matrix, Collaborative Filtering, Object Oriented Programming with Python, Inheritance, Module and Forward Propagation Function, Batches and Learner, Sigmoid Range and few more topics related to the same from here. I have presented the implementation Embedding, Dot Product Class and Sigmoid Range using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Collaborative Filtering**](https://github.com/ThinamXx/Fastai/blob/main/7.%20Collaborative%20Filtering/CollaborativeFiltering.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20220a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20220b.PNG)
