@@ -1809,3 +1809,11 @@
   - [**Collaborative Filtering**](https://github.com/ThinamXx/Fastai/blob/main/7.%20Collaborative%20Filtering/CollaborativeFiltering.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20222.PNG)
+
+**Day223 of 300DaysOfData!**
+-  On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Deep Learning and Collaborative Filtering, Embedding Matrices, Linear Function, RELU and Nonlinear Functions, Sigmoid Range, Forward Propagation Function, Tabular Model and Embedding Neural Networks and few more topics related to the same from here. In Python kwargs in a parameter list means "put any additional keyword arguments into a dict called kwargs." And kwargs in an argument list means "insert all key and value pairs in the kwargs dict as named arguments here." I have presented the implementation Deep Learning for Collaborative Filtering and Neural Networks using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Collaborative Filtering**](https://github.com/ThinamXx/Fastai/blob/main/7.%20Collaborative%20Filtering/CollaborativeFiltering.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20223.PNG)
