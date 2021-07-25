@@ -1818,3 +1818,11 @@
   - [**Collaborative Filtering**](https://github.com/ThinamXx/Fastai/blob/main/7.%20Collaborative%20Filtering/CollaborativeFiltering.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20223.PNG)
+
+**Day224 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Tabular Modeling, Categorical Embeddings, Continuous and Categorical Variables, Recommendation System, The Tabular Dataset, Ordinal Columns, Decision Trees, Handling Dates, Tabular Pandas and Tabular Proc Object and few more topics related to the same from here. I have presented the implementation of Handling Dates, Tabular Pandas and Tabular Proc using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Tabular Modeling**](https://github.com/ThinamXx/Fastai/blob/main/8.%20Tabular%20Modeling/TabularModel.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20224.PNG)
