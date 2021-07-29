@@ -1851,3 +1851,12 @@
   - [**Tabular Modeling**](https://github.com/ThinamXx/Fastai/blob/main/8.%20Tabular%20Modeling/TabularModel.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20227.PNG)
+
+**Day228 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Removing Redundant Features, Determining Similarity, OOB Score, Partial Dependence Plots, Data Leakage, Root Mean Squared Error and few more topics related to the same from here. Standard Deviation of predictions across the trees presents the relative confidence of predictions. The model is more consistent when the Standard Deviation is lower. I have presented the implementation of Removing Redundant Features and Partial Dependence Plots using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !! 
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Tabular Modeling**](https://github.com/ThinamXx/Fastai/blob/main/8.%20Tabular%20Modeling/TabularModel.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20228.PNG)
+
