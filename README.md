@@ -1860,3 +1860,10 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20228.PNG)
 
+**Day229 of 300DaysofData!**
+- **Random Forest Model** just averages the predictions of a number of trees and therefore it can never predict values outside the range of the training data. **Random Forests** are not able to extrapolate outside the types of data i.e out of domain data. Here prediction is simply the prediction that the Random Forest makes. Here bias is the prediction based on taking the mean of the dependent variable. Similarly contributions tells us the total change in prediction due to each of the independent variables. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Tree Interpreter, Redundant Features, Waterfall Charts or Plots, Random Forest, Prediction, Bias and Contributions, The Extrapolation Problem, Unsqueeze Method, Out of Domain Data and few more topics related to the same from here. I have presented the implementation of Tree Interpreter, Waterfall Plots, Extrapolation Problem using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Tabular Modeling**](https://github.com/ThinamXx/Fastai/blob/main/8.%20Tabular%20Modeling/TabularModel.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20229.PNG)
