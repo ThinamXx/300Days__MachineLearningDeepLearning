@@ -1875,3 +1875,12 @@
   - [**Tabular Modeling**](https://github.com/ThinamXx/Fastai/blob/main/8.%20Tabular%20Modeling/TabularModel.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20230.PNG)
+
+**Day231 of 300DaysOfData!**
+- **Random Forest**: Random Forest Model just averages the predictions of a number of trees and therefore it can never predict values outside the range of the training data. Random Forests are not able to extrapolate outside the types of data i.e out of domain data. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Tabular Modeling and Neural Networks, Continuous and Categorical Features, Embedding Matrix, Mean Squared Error and Regression, Tabular Learner and Learning Rate, Ensembling, Bagging and Boosting, Combining Embeddings and few more topics related to the same from here. Ensembling is the generalization technique in which the average of the predictions of several models are used. I have presented the implementation of Tabular Modeling and Neural Networks and Ensembling using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Tabular Modeling**](https://github.com/ThinamXx/Fastai/blob/main/8.%20Tabular%20Modeling/TabularModel.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20231a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20231b.PNG)
