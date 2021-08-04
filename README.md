@@ -1901,3 +1901,11 @@
   - [**Natural Language Processing**](https://github.com/ThinamXx/Fastai/blob/main/9.%20Natural%20Language%20Processing/NLP.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20233.PNG)
+
+**Day234 of 300DaysOfData!**
+- **Tokenization**: **Subword Tokenization** splits words into smaller parts based on the most commonly occurring sub strings. **Word Tokenization** splits a sentence on spaces as well as applying language specific rules to try to separate parts of meaning even when there are no spaces. **Subword Tokenization** provides a way to easily scale between character tokenization i.e. using a small subword vocab and word tokenization i.e using a large subword vocab and handles every human language without needing language specific algorithms to be developed. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Numericalization with Fastai, Embedding Matrices, Creating Batches for Language Model, Tokenization, Training a Text Classifier, Language Model using DataBlock, Data Loaders, Fine Tuning Language Model and Transfer Learning and few more topics related to the same from here. I have presented the implementation of Creating Data Loaders and Data Block for Language Model using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Natural Language Processing**](https://github.com/ThinamXx/Fastai/blob/main/9.%20Natural%20Language%20Processing/NLP.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20234.PNG)
