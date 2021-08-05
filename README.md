@@ -1909,3 +1909,12 @@
   - [**Natural Language Processing**](https://github.com/ThinamXx/Fastai/blob/main/9.%20Natural%20Language%20Processing/NLP.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20234.PNG)
+
+**Day235 of 300DaysOfData!**
+- **Encoder**: Encoder is defined as the model which doesn't contain task specific final layers. The term Encoder means much the same thing as body when applied to vision CNN but Encoder tends to be more used for NLP and generative models. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Encoder Model, Text Generation and Classification, Creating the Classifier Data Loaders, Embeddings, Data Augmentation, Fine Tuning the Classifier, Discriminative Learning Rates and Gradual Unfreezing, Disinformation and Language Models and few more topics related to the same from here. I have presented the implementation of Training Text Classifier Model using Discriminative Learning Rates and Gradual Unfreezing using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Natural Language Processing**](https://github.com/ThinamXx/Fastai/blob/main/9.%20Natural%20Language%20Processing/NLP.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20235a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20235b.PNG)
