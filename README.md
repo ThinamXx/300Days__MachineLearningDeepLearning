@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -1928,3 +1927,11 @@
   - [**Data Munging**](https://github.com/ThinamXx/Fastai/blob/main/10.%20Data%20Munging/DataMunging.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20236.PNG)
+
+**Day237 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Data Munging, Decorator, Pipeline Method, Transformed Collections, Training and Validation Set, Data Loaders Object, Categorize Method, Transformations and few more topics related to the same from here. I have presented the implementation of Pipeline Class and Transformed Collections using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Data Munging**](https://github.com/ThinamXx/Fastai/blob/main/10.%20Data%20Munging/DataMunging.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20237.PNG)
