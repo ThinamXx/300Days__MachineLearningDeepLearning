@@ -1943,3 +1943,11 @@
   - [**Data Munging**](https://github.com/ThinamXx/Fastai/blob/main/10.%20Data%20Munging/DataMunging.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20238.PNG)
+
+**Day239 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Applying Mid Level Data API for Siamese Pair and Computer Vision, Data Loaders, Transforms and Resizing Images, Data Augmentation, Subclasses, Transformed Collections and few more topics related to the same from here. Datasets class will apply two or more pipelines in parallel to the same raw object and build a tuple with the result. It will automatically do the setup and index into a Datasets. I have presented the implementation of Siamese Image Object and Data Augmentation using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Data Munging**](https://github.com/ThinamXx/Fastai/blob/main/10.%20Data%20Munging/DataMunging.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20239.PNG)
