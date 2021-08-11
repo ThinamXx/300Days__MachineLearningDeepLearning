@@ -1951,3 +1951,11 @@
   - [**Data Munging**](https://github.com/ThinamXx/Fastai/blob/main/10.%20Data%20Munging/DataMunging.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20239.PNG)
+
+**Day240 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Siamese Transform Object, Random Splitting, Transformed Collections and Datasets Class, Data Loaders, ToTensor and IntToFloatTensor Methods, Data and Batch Normalization and few more topics related to the same from here. ToTensor method converts images to tensors. IntToFloatTensor method converts the tensor of images containing the integers from 0 to 255 to a tensor of floats and divide by 255 to make values between 0 and 1. I have presented the implementation of Siamese Transform Object and Data Augmentation using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Data Munging**](https://github.com/ThinamXx/Fastai/blob/main/10.%20Data%20Munging/DataMunging.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20240.PNG)
