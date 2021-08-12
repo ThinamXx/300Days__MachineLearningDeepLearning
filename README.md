@@ -1965,6 +1965,6 @@
 - On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Language Model from Scratch, Data Concatenation and Tokenization, Vocabulary and Numericalization, Neural Networks, Independent Variables and Dependent Variable, Sequence of Tensors and few more topics related to the same from here. I have presented the implementation of Preparing Sequence of Tensors for Language Model using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
 - Book:
   - **Deep Learning for Coders with Fastai and PyTorch**
-  - [**Languag Model from Scratch**](https://github.com/ThinamXx/Fastai/blob/main/11.%20Language%20Model/LanguageModel.ipynb)
+  - [**Language Model from Scratch**](https://github.com/ThinamXx/Fastai/blob/main/11.%20Language%20Model/LanguageModel.ipynb)
  
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20241.PNG)
