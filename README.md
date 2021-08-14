@@ -1976,3 +1976,11 @@
   - [**Language Model from Scratch**](https://github.com/ThinamXx/Fastai/blob/main/11.%20Language%20Model/LanguageModel.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20242.PNG)
+
+**Day243 of 300DaysOfData!**
+- **Backpropagation Through Time**: Backpropagation through Time is a process of treating a neural network with effectively one layer per time step as one big model and calculating gradients on it in the usual way. The BPTT technique is used to avoid running out of memory and time which detaches the history of computation steps in the hidden state every few time steps. Hidden State is defined as the activations that are updated at each step of a recurrent neural network. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Recurrent Neural Networks, Hidden State of NN, Improving the RNN, Maintaining the State of RNN, Unrolled Representation, Backpropagation and Derivatives, Detach Method, Stateful RNN, Backpropagation Through Time and few more topics related to the same from here. I have presented the implementation of Recurrent Neural Networks and Language Model using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Language Model from Scratch**](https://github.com/ThinamXx/Fastai/blob/main/11.%20Language%20Model/LanguageModel.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20243.PNG)
