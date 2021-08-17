@@ -2001,3 +2001,11 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20245a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20245b.PNG)
+
+**Day246 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Exploding and Disappearing Activations, Matrix Multiplication, Architecture of Long Short Term Memory and RNN, Sigmoid and Tanh Function, Hidden State and Cell State, Forget Gate, Input Gate, Cell Gate and Output Gate, Chunk Method and few more topics related to the same from here. I have presented the implementation Long Short Term Memory using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Language Model from Scratch**](https://github.com/ThinamXx/Fastai/blob/main/11.%20Language%20Model/LanguageModel.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20246.PNG)
