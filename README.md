@@ -2017,3 +2017,11 @@
   - [**Language Model from Scratch**](https://github.com/ThinamXx/Fastai/blob/main/11.%20Language%20Model/LanguageModel.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20247.PNG)
+
+**Day248 of 300DaysOfData!**
+- **Activation Regularization**: Activation Regularization is a process of adding the small penalty to the final activations produced by the LSTM to make it as small as possible. It is a regularization method very similar to weight decay. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Activation Regularization and Temporal Activation Regularization, Language Model using Long Short Term Memory, Weight Decay, Training a Weight Tied Regularized LSTM, Weight Tying and Input Embeddings, Text Learner, Cross Entropy Loss Function and few more topics related to the same from here. I have presented the implementation Language Model using Regularized Long Short Term Memory and Regularized Dropout and Activation Regularization using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Language Model from Scratch**](https://github.com/ThinamXx/Fastai/blob/main/11.%20Language%20Model/LanguageModel.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20248.PNG)
