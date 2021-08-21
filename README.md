@@ -2034,3 +2034,11 @@
   - [**Convolutional Neural Networks**](https://github.com/ThinamXx/Fastai/blob/main/12.%20Convolutional%20Neural%20Networks/CNN.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20249.PNG)
+
+**Day250 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Convolutions with PyTorch, Rank Tensors, Creating Data Block and Data Loaders, Channel of Images, Unsqueeze Method and Unit Axis, Strides and Padding, Understanding the Convolutions Equations, Matrix Multiplication, Shared Weights and few more topics related to the same from here. A channel is a single basic color in an image. For a regular full color images, there are three channels : red, green and blue. Kernels passed to convolutions need to be rank 4 tensors. I have presented the implementation of Convolutions and DataLoaders using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Convolutional Neural Networks**](https://github.com/ThinamXx/Fastai/blob/main/12.%20Convolutional%20Neural%20Networks/CNN.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20250.PNG)
