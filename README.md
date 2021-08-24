@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -2051,3 +2050,11 @@
   - [**Convolutional Neural Networks**](https://github.com/ThinamXx/Fastai/blob/main/12.%20Convolutional%20Neural%20Networks/CNN.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20251.PNG)
+
+**Day252 of 300DaysOfData!**
+- **Channels and Features**: Channels and Features are largely used interchangeably and refer to the size of the second axis of a weight matrix which is the number of activations per grid cell after a convolution. Channels refer to the input data i.e colors or activations inside the network. Using a stride 2 convolution often increases the number of Features at the same time because the number of activations in the activation map decrease by the factor of 4. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Improving Training Stability of Convolutional Neural Networks, Batch Size and Splitting the Dataset, Simple Baseline Network, Activations and Kernel Size, Activation Stat Callbacks, Learning Rate, Creating a Learner and Training and few more topics related to the same from here. I have presented the implementation of Convolutional Neural Network and Training the Learner using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Convolutional Neural Networks**](https://github.com/ThinamXx/Fastai/blob/main/12.%20Convolutional%20Neural%20Networks/CNN.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20252.PNG)
