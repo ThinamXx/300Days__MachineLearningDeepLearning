@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -2059,3 +2058,11 @@
   - [**Convolutional Neural Networks**](https://github.com/ThinamXx/Fastai/blob/main/12.%20Convolutional%20Neural%20Networks/CNN.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20252.PNG)
+
+**Day253 of 300DaysOfData!**
+- **One Cycle Training**: 1 Cycle Training is a combination of warmup and annealing. Warmup is the one where learning rate grows from the minimum value to the maximum value and Annealing is the one where it decreases back to the minimum value. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Activation Stats Callbacks, Increasing Batch Size, Activations, 1 Cycle Training, Warmup and Annealing, Super Convergence, Learning Rate and Momentum, Colorful Dimension and Histograms and few more topics related to the same from here. I have presented the implementation of Increasing Batch Size, 1 Cycle Training and Inspecting Momentum and Activations using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Convolutional Neural Networks**](https://github.com/ThinamXx/Fastai/blob/main/12.%20Convolutional%20Neural%20Networks/CNN.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20253.PNG)
