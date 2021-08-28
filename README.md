@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -2076,3 +2075,11 @@
   - [**Residual Networks**](https://github.com/ThinamXx/Fastai/blob/main/13.%20ResNets/ResNets.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20254.PNG)
+
+**Day255 of 300DaysOfData!**
+- **Fully Convolutional Networks**: The idea in Fully Convolutional Networks is to take the average of activations across a convolutional grid. A Fully Convolutional Networks has a number of convolutional layers, some of which will be stride 2 convolutions at the end of which is an adaptive average pooling layer, a flatten layer to remove the unit axis and finally a linear layer. Larger batches have gradients that are more accurate since they are calculated from more data. But larger batch size means fewer batches per epoch which means fewer opportunities for the model to update weights. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Fully Convolutional Neural Networks, Building ResNet, Skip Connections, Identity Mapping, SGD, Batch Normalization Layer, Trainable Parameters, True Identity Path, Convolutional Neural Networks, Average Pooling Layer and few more topics related to the same from here. I have presented the implementation of ResNet Architecture and Skip Connections using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Residual Networks**](https://github.com/ThinamXx/Fastai/blob/main/13.%20ResNets/ResNets.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20255.PNG)
