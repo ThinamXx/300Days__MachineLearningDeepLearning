@@ -2083,3 +2083,11 @@
   - [**Residual Networks**](https://github.com/ThinamXx/Fastai/blob/main/13.%20ResNets/ResNets.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20255.PNG)
+
+**Day256 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Residual Networks, RELU Activation Function, Skip Connections, Training Deeper Models, Loss Landscape of NN, Stem of the Network, Convolutional Layers, Max Pooling Layer and few more topics related to the same from here. Stem is defined as the first few layers of CNN. It has different structure than the main body of CNN. I have presented the implementation of Training Deeper Models and Stem of Network using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Residual Networks**](https://github.com/ThinamXx/Fastai/blob/main/13.%20ResNets/ResNets.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20256.PNG)
