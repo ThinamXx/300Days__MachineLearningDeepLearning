@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -2092,3 +2091,11 @@
   - [**Residual Networks**](https://github.com/ThinamXx/Fastai/blob/main/13.%20ResNets/ResNets.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20256.PNG)
+
+**Day257 of 300DaysOfData!**
+- **Bottleneck Layers**: Bottleneck Layers use three convolutions: Two 1X1 at the begining and the end and one 3X3. The 1X1 convolutions are much faster which facilitates to use higher number of filters in and out. The 1X1 convolutions diminish and then restore the number of channels so called Bottleneck. The overall impact is to facilitate the use of more filters in the same amount of time. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Stem of the Network, Residual Network Architecture, Bottleneck Layers, Convolutional Neural Networks, Progressive Resizing and few more topics related to the same from here. I have presented the implementation of Training Deeper Networks and Bottleneck Layers using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Residual Networks**](https://github.com/ThinamXx/Fastai/blob/main/13.%20ResNets/ResNets.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20257.PNG)
