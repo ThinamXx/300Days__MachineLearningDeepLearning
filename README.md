@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -49,6 +48,7 @@
 | 26. [**Fastai: Convolutional Neural Networks**](https://github.com/ThinamXx/Fastai/blob/main/12.%20Convolutional%20Neural%20Networks/CNN.ipynb) |
 | 27. [**Fastai: Residual Networks**](https://github.com/ThinamXx/Fastai/blob/main/13.%20ResNets/ResNets.ipynb) |
 | 28. [**Fastai: Architecture Details**](https://github.com/ThinamXx/Fastai/blob/main/14.%20Architecture%20Details/Architectures.ipynb) |
+| 29. [**Fastai: Training Process**](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20259.PNG) |
 
 **Day1 of 300DaysOfData!**
 - **Gradient Descent and Cross Validation**: Gradient Descent is an iterative approach to approximating the Parameters that minimize a Differentiable Loss Function. Cross Validation is a resampling procedure used to evaluate Machine Learning Models on a limited Data sample which has a parameter that splits the data into number of groups. On my Journey of Machine Learning and Deep Learning, Today I have read in brief about the fundamental Topics such as Calculus, Matrices, Matrix Calculus, Random Variables, Density Functions, Distributions, Independence, Maximum Likelihood Estimation and Conditional Probability. I have also read and Implemented about Gradient Descent and Cross Validation. I am starting this Journey from Scratch and I am following the Book:**Machine Learning From Scratch**. I have presented the Implementation of Gradient Descent and Cross Validation here in the Snapshots. I hope you will also spend some time reading the Topics from the Book mentioned above. I am excited about the days to come!!
@@ -2109,3 +2109,11 @@
   - [**Architecture Details**](https://github.com/ThinamXx/Fastai/blob/main/14.%20Architecture%20Details/Architectures.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20258.PNG)
+
+**Day259 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Stochastic Gradient Descent, Loss Function, Updating Weights, Optimization Function, Creating Data Block and Data Loaders, ResNet Model and Learner, Training Process and few more topics related to the same from here. I have presented the implementation of Preparing Dataset and Baseline Model using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Training Process**](https://github.com/ThinamXx/Fastai/blob/main/15.%20Training%20Process/Training.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20259.PNG)
