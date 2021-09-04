@@ -2117,3 +2117,11 @@
   - [**Training Process**](https://github.com/ThinamXx/Fastai/blob/main/15.%20Training%20Process/Training.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20259.PNG)
+
+**Day260 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Training Process, Stochastic Gradient Descent, Optimization Function, Learning Rate Finder, Momentum, Optimizer Callbacks, Zeroing Gradients, Partial Function and few more topics related to the same from here. I have presented the implementation of Functions for Optimizer and SGD here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Training Process**](https://github.com/ThinamXx/Fastai/blob/main/15.%20Training%20Process/Training.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20260.PNG)
