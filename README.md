@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -2134,3 +2133,11 @@
   - [**Training Process**](https://github.com/ThinamXx/Fastai/blob/main/15.%20Training%20Process/Training.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20261.PNG)
+
+**Day262 of 300DaysOfData!**
+- **Adam Optimizer**: Adam mixes the idea of SGD with momentum and RMSProp together where it uses the moving average of the gradients as a direction and divides by the square root of the moving average of the gradients squared to give an adaptive learning rate to each parameter. It takes the unbiased moving average. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about RMSProp Optimizer, SGD, Adam Optimizer, Unbiased Moving Average of Gradients, Momentum Parameter, Decoupled Weight Decay, L1 and L2 Regularization, Callbacks and few more topics related to the same from here. I have presented the implementation of RMS Prop and Adam Optimizer using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Training Process**](https://github.com/ThinamXx/Fastai/blob/main/15.%20Training%20Process/Training.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20262.PNG)
