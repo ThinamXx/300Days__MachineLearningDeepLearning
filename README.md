@@ -49,6 +49,7 @@
 | 27. [**Fastai: Residual Networks**](https://github.com/ThinamXx/Fastai/blob/main/13.%20ResNets/ResNets.ipynb) |
 | 28. [**Fastai: Architecture Details**](https://github.com/ThinamXx/Fastai/blob/main/14.%20Architecture%20Details/Architectures.ipynb) |
 | 29. [**Fastai: Training Process**](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20259.PNG) |
+| 30. [**Fastai: Neural Network Foundations**](https://github.com/ThinamXx/Fastai/blob/main/16.%20Neural%20Network%20Foundations/NeuralFoundations.ipynb) |
 
 **Day1 of 300DaysOfData!**
 - **Gradient Descent and Cross Validation**: Gradient Descent is an iterative approach to approximating the Parameters that minimize a Differentiable Loss Function. Cross Validation is a resampling procedure used to evaluate Machine Learning Models on a limited Data sample which has a parameter that splits the data into number of groups. On my Journey of Machine Learning and Deep Learning, Today I have read in brief about the fundamental Topics such as Calculus, Matrices, Matrix Calculus, Random Variables, Density Functions, Distributions, Independence, Maximum Likelihood Estimation and Conditional Probability. I have also read and Implemented about Gradient Descent and Cross Validation. I am starting this Journey from Scratch and I am following the Book:**Machine Learning From Scratch**. I have presented the Implementation of Gradient Descent and Cross Validation here in the Snapshots. I hope you will also spend some time reading the Topics from the Book mentioned above. I am excited about the days to come!!
@@ -2149,3 +2150,11 @@
   - [**Training Process**](https://github.com/ThinamXx/Fastai/blob/main/15.%20Training%20Process/Training.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20263.PNG)
+
+**Day264 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Neural Networks, Building a Neural Network from Scratch, Modeling a Neuron, Nonlinear Activation Functions, Hidden Size, Fully Connected Layer and Dense Layer, Linear Layer, Matrix Multiplication from Scratch, Elementwise Arithmetic and few more topics related to the same from here. I have presented the implementation of Matrix Multiplication from Scratch and Elementwise Arithmetic using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Neural Network Foundations**](https://github.com/ThinamXx/Fastai/blob/main/16.%20Neural%20Network%20Foundations/NeuralFoundations.ipynb)
+  
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20264.PNG)
