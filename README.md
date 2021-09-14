@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -2167,3 +2166,11 @@
   - [**Neural Network Foundations**](https://github.com/ThinamXx/Fastai/blob/main/16.%20Neural%20Network%20Foundations/NeuralFoundations.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20265.PNG)
+
+**Day266 of 300DaysOfData!**
+- **Forward and Backward Passes**: Computing all the gradients of a given loss with respect to its parameters is known as Backward Pass. Similarly computing the output of the model on a given input based on the matrix products is known as Forward Pass. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Mean and Standard Deviation, Matrix Multiplications, Xavier Initialization, RELU Activation, Kaiming Initialization, Weights and Activations and few more topics related to the same from here. I have presented the implementation of Xavier Initialization, RELU Activation, and Matrix Multiplications using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Neural Network Foundations**](https://github.com/ThinamXx/Fastai/blob/main/16.%20Neural%20Network%20Foundations/NeuralFoundations.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20266.PNG)
