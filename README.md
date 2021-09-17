@@ -2190,3 +2190,11 @@
   - [**Neural Network Foundations**](https://github.com/ThinamXx/Fastai/blob/main/16.%20Neural%20Network%20Foundations/NeuralFoundations.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20268.PNG)
+
+**Day269 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Initializing Model Architecture, Callable Function, Forward and Backward Propagation Function, Linear Function, Mean Squared Error Loss Function, RELU Activation Function, Back Propagation Function and Gradients, Squeeze Function and few more topics related to the same from here. I have also read about Perturbations and Neural Networks, Vanishing Gradients and Convolutional Neural Networks.  I have presented the implementation of Defining Model Architecture, Layer Function and RELU using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Neural Network Foundations**](https://github.com/ThinamXx/Fastai/blob/main/16.%20Neural%20Network%20Foundations/NeuralFoundations.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20268.PNG)
