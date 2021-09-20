@@ -2207,3 +2207,11 @@
   - [**Neural Network Foundations**](https://github.com/ThinamXx/Fastai/blob/main/16.%20Neural%20Network%20Foundations/NeuralFoundations.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20270.PNG)
+
+**Day271 of 300DaysOfData!**
+- **Class Activation Map**: The Class Activation Map uses the output of the last convolutional layer which is just before the average pooling layer together with predictions to give a heatmap visualization of model decision. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about CNN Interpretation, Class Activation Map, Hooks, Heatmap Visualization, Activations and Convolutional Layer, Dot Product, Feature Map, Data Loaders and few more topics related to the same from here. I have presented the implementation of Defining Hook Function and Decoding Images using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**CNN Interpretation with CAM**](https://github.com/ThinamXx/Fastai/blob/main/17.%20CNN%20Interpretation/CNN%20Interpretation.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20271.PNG)
