@@ -2215,3 +2215,12 @@
   - [**CNN Interpretation with CAM**](https://github.com/ThinamXx/Fastai/blob/main/17.%20CNN%20Interpretation/CNN%20Interpretation.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20271.PNG)
+
+**Day272 of 300DaysOfData!**
+- **Class Activation Map**: The Class Activation Map uses the output of the last convolutional layer which is just before the average pooling layer together with predictions to give a heatmap visualization of model decision. On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Hook Class and Context Manager, Gradient Class Activation Map, Heatmap Visualization, Activations and Weights, Gradients and Back Propagation, Model Interpretation and few more topics related to the same from here. I have presented the implementation of Defining Hook Function, Activations, Gradients and Heatmap Visualization using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**CNN Interpretation with CAM**](https://github.com/ThinamXx/Fastai/blob/main/17.%20CNN%20Interpretation/CNN%20Interpretation.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20272a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20272b.PNG)
