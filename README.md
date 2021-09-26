@@ -2249,3 +2249,11 @@
   - [**Fastai Learner from Scratch**](https://github.com/ThinamXx/Fastai/blob/main/18.%20Fastai%20Learner/Fastai%20Learner.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20275.PNG)
+
+**Day276 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Convolutional Neural Networks, Linear Model, Testing Module, Sequential Module, Parameters, Adaptive Pooling Layer and Mean, Stride, Hook Function, Pipeline and few more topics related to the same from here. I have presented the implementation of Testing Module, Sequential Module and Convolutional Neural Network using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai Learner from Scratch**](https://github.com/ThinamXx/Fastai/blob/main/18.%20Fastai%20Learner/Fastai%20Learner.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20276.PNG)
