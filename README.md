@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -2258,3 +2257,11 @@
   - [**Fastai Learner from Scratch**](https://github.com/ThinamXx/Fastai/blob/main/18.%20Fastai%20Learner/Fastai%20Learner.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20276.PNG)
+
+**Day277 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Loss Function, Negative Log Likelihood Function, Log Softmax Function, Log of Sum of Exponentials, Stochastic Gradient Descent Optimizer Function, Data Loaders, Training and Validation Sets and few more topics related to the same from here. I have presented the implementation of Negative Log Likelihood Function, Cross Entropy Loss Function, SGD Optimizer and Data Loaders using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Fastai Learner from Scratch**](https://github.com/ThinamXx/Fastai/blob/main/18.%20Fastai%20Learner/Fastai%20Learner.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20277.PNG)
