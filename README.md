@@ -13,6 +13,7 @@
 | 7. [**Dive into Deep Learning**](https://d2l.ai/) |
 | 8. [**Logistic Regression Documentation**](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html) |
 | 9. **Deep Learning for Coders with Fastai and PyTorch** |
+| 10. **Approaching Almost Any Machine Learning Problem** |
 
 | Research Papers |
 | --------------- |
