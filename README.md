@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -54,6 +53,7 @@
 | 31. [**Fastai: CNN Interpretation with CAM**](https://github.com/ThinamXx/Fastai/blob/main/17.%20CNN%20Interpretation/CNN%20Interpretation.ipynb) |
 | 32. [**Fastai: Fastai Learner from Scratch**](https://github.com/ThinamXx/Fastai/blob/main/18.%20Fastai%20Learner/Fastai%20Learner.ipynb) |
 | 33. [**Fastai: Chest X-Rays Classification**](https://github.com/ThinamXx/Fastai/blob/main/19.%20Chest%20XRays%20Classification/XRays%20Classification.ipynb) |
+| 34. [**Supervised and Unsupervised Learning**](https://github.com/ThinamXx/ApproachingAnyMachineLearning/blob/main/01.%20Supervised%20Unsupervised%20Learning/Supervised%20Unsupervised.ipynb) |
 
 **Day1 of 300DaysOfData!**
 - **Gradient Descent and Cross Validation**: Gradient Descent is an iterative approach to approximating the Parameters that minimize a Differentiable Loss Function. Cross Validation is a resampling procedure used to evaluate Machine Learning Models on a limited Data sample which has a parameter that splits the data into number of groups. On my Journey of Machine Learning and Deep Learning, Today I have read in brief about the fundamental Topics such as Calculus, Matrices, Matrix Calculus, Random Variables, Density Functions, Distributions, Independence, Maximum Likelihood Estimation and Conditional Probability. I have also read and Implemented about Gradient Descent and Cross Validation. I am starting this Journey from Scratch and I am following the Book:**Machine Learning From Scratch**. I have presented the Implementation of Gradient Descent and Cross Validation here in the Snapshots. I hope you will also spend some time reading the Topics from the Book mentioned above. I am excited about the days to come!!
