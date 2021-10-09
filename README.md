@@ -2316,3 +2316,11 @@
   - [**Supervised and Unsupervised Learning**](https://github.com/ThinamXx/ApproachingAnyMachineLearning/blob/main/01.%20Supervised%20Unsupervised%20Learning/Supervised%20Unsupervised.ipynb) 
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20283.PNG)
+
+**Day284 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Approaching Almost Any Machine Learning Problem**. Here, I have read about Stratified KFold Cross Validation, Skewed Dataset and Classification, Data Distribution, Hold Out Cross Validation, Time Series Data, Regression and Sturge's Rule, Probabilities, Evaluation Metrics and Accuracy and few more topics related to the same from here. I have presented the implementation of Distribution of Labels and Stratified KFold here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Supervised and Unsupervised Learning**](https://github.com/ThinamXx/ApproachingAnyMachineLearning/blob/main/01.%20Supervised%20Unsupervised%20Learning/Supervised%20Unsupervised.ipynb) 
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20284.PNG)
