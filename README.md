@@ -2332,3 +2332,11 @@
   - [**Evaluation Metrics**](https://github.com/ThinamXx/ApproachingAnyMachineLearning/blob/main/02.%20Evaluation%20Metrics/Evaluation%20Metrics.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20285.PNG)
+
+**Day286 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Approaching Almost Any Machine Learning Problem**. Here, I have read about True Positive Rate, Recall and Sensitivity, False Positive Rate and Specificity, Area Under ROC Curve, Prediction, Probability and Thresholds, Log Loss Function, Multiclass Classification and Macro Averaged Precision and few more topics related to the same from here. I have presented the implementation of True Negative Rate, False Positive Rate, Log Loss Function and Macro Averaged Precision here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Evaluation Metrics**](https://github.com/ThinamXx/ApproachingAnyMachineLearning/blob/main/02.%20Evaluation%20Metrics/Evaluation%20Metrics.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20286.PNG)
