@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources |
 | ----- |
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
@@ -2358,3 +2357,13 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20288a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20288b.PNG)
+
+**Day289 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Approaching Almost Any Machine Learning Problem**. Here, I have read about Regression Metrics such as Mean Absolute and Average Error, Root Mean Squared Error, Squared Logarithmic Error, Mean Absolute Percentage Error, R-Squared and Coefficient of Determination, Cohen's Kappa Score, MCC Score and few more topics related to the same from here. I have presented the implementation of Mean Absolute and Average Error, Squared Logarithmic Error, Mean Absolute Percentage Error, R-Squared and MCC Score here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Evaluation Metrics**](https://github.com/ThinamXx/ApproachingAnyMachineLearning/blob/main/02.%20Evaluation%20Metrics/Evaluation%20Metrics.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20289a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20289b.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20289c.PNG)
