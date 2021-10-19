@@ -5,15 +5,15 @@
 | Books and Resources | Status of Completion |
 | ----- | -----|
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) | :white_check_mark: |
-| 2. **A Comprehensive Guide to Machine Learning** |
-| 3. **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow** |
-| 4. [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/) |
-| 5. [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course) |
-| 6. [**Deep Learning with PyTorch: Part I**](https://www.manning.com/books/deep-learning-with-pytorch) |
-| 7. [**Dive into Deep Learning**](https://d2l.ai/) |
+| 2. **A Comprehensive Guide to Machine Learning** | :white_check_mark: |
+| 3. **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow** | :white_check_mark: |
+| 4. [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/) | :white_check_mark: |
+| 5. [**Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course) | :white_check_mark: |
+| 6. [**Deep Learning with PyTorch: Part I**](https://www.manning.com/books/deep-learning-with-pytorch) | :white_check_mark: |
+| 7. [**Dive into Deep Learning**](https://d2l.ai/) | :white_check_mark: |
 | 8. [**Logistic Regression Documentation**](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html) |
-| 9. **Deep Learning for Coders with Fastai and PyTorch** |
-| 10. **Approaching Almost Any Machine Learning Problem** |
+| 9. **Deep Learning for Coders with Fastai and PyTorch** | :white_check_mark: |
+| 10. **Approaching Almost Any Machine Learning Problem** | :white_unchecked_mark: |
 
 | Research Papers |
 | --------------- |
