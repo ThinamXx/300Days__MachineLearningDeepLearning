@@ -2,9 +2,9 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-| Books and Resources |
-| ----- |
-| 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) |
+| Books and Resources | Status of Completion |
+| ----- | -----|
+| 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) | [x] |
 | 2. **A Comprehensive Guide to Machine Learning** |
 | 3. **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow** |
 | 4. [**Speech and Language Processing**](https://web.stanford.edu/~jurafsky/slp3/) |
