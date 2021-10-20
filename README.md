@@ -2374,5 +2374,6 @@
 - On my Journey of Machine Learning and Deep Learning, I have read and implemented about Object Detection and Fine Tuning, Image Segmentation, Tensors and Aspect Ratio, Arrays, Dataset and Data Loaders. I have also started the Machine Learning Engineering for Production Specialization from Coursera. Here, I have read about Steps of ML Project and Case Study, ML Project Lifecycle and few more topics related to the same from here. I have presented the implementation of Dataset Class here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
 - Resource: 
   - **Machine Learning Engineering for Production**
+  - [**Object Detection**](https://github.com/ThinamXx/ObjectDetection/blob/main/Object%20Detection.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20290.PNG)
