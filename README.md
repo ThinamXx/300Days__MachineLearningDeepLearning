@@ -1,6 +1,5 @@
 # **Journey of 300DaysOfData in Machine Learning and Deep Learning**
 
-
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
 | Books and Resources | Status of Completion |
@@ -57,6 +56,7 @@
 | 33. [**Fastai: Chest X-Rays Classification**](https://github.com/ThinamXx/Fastai/blob/main/19.%20Chest%20XRays%20Classification/XRays%20Classification.ipynb) |
 | 34. [**Supervised and Unsupervised Learning**](https://github.com/ThinamXx/ApproachingAnyMachineLearning/blob/main/01.%20Supervised%20Unsupervised%20Learning/Supervised%20Unsupervised.ipynb) |
 | 35. [**Evaluation Metrics**](https://github.com/ThinamXx/ApproachingAnyMachineLearning/blob/main/02.%20Evaluation%20Metrics/Evaluation%20Metrics.ipynb) |
+| 36. [**Object Detection**](https://github.com/ThinamXx/ObjectDetection/blob/main/Object%20Detection.ipynb) |
 
 **Day1 of 300DaysOfData!**
 - **Gradient Descent and Cross Validation**: Gradient Descent is an iterative approach to approximating the Parameters that minimize a Differentiable Loss Function. Cross Validation is a resampling procedure used to evaluate Machine Learning Models on a limited Data sample which has a parameter that splits the data into number of groups. On my Journey of Machine Learning and Deep Learning, Today I have read in brief about the fundamental Topics such as Calculus, Matrices, Matrix Calculus, Random Variables, Density Functions, Distributions, Independence, Maximum Likelihood Estimation and Conditional Probability. I have also read and Implemented about Gradient Descent and Cross Validation. I am starting this Journey from Scratch and I am following the Book:**Machine Learning From Scratch**. I have presented the Implementation of Gradient Descent and Cross Validation here in the Snapshots. I hope you will also spend some time reading the Topics from the Book mentioned above. I am excited about the days to come!!
@@ -2369,3 +2369,10 @@
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20289a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20289b.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20289c.PNG)
+
+**Day290 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented about Object Detection and Fine Tuning, Image Segmentation, Tensors and Aspect Ratio, Arrays, Dataset and Data Loaders. I have also started the Machine Learning Engineering for Production Specialization from Coursera. Here, I have read about Steps of ML Project and Case Study, ML Project Lifecycle and few more topics related to the same from here. I have presented the implementation of Dataset Class here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Resource: 
+  - **Machine Learning Engineering for Production**
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20290.PNG)
