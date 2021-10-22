@@ -2381,5 +2381,6 @@
 - Resources: 
   - **Machine Learning Engineering for Production**
   - [**PyImageSearch**](https://www.pyimagesearch.com/)
+  - [**OpenCV Notebook**](https://github.com/ThinamXx/ComputerVision/blob/main/01.%20OpenCV/OpenCV.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20291.PNG)
