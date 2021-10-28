@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources | Status of Completion |
 | ----- | -----|
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) | :white_check_mark: |
@@ -59,6 +58,7 @@
 | 35. [**Evaluation Metrics**](https://github.com/ThinamXx/ApproachingAnyMachineLearning/blob/main/02.%20Evaluation%20Metrics/Evaluation%20Metrics.ipynb) |
 | 36. [**OpenCV Notebook**](https://github.com/ThinamXx/ComputerVision/blob/main/01.%20OpenCV/OpenCV.ipynb) |
 | 37. [**OpenCV Project I**](https://github.com/ThinamXx/ComputerVision/blob/main/01.%20OpenCV/OCV%20Project%20I.ipynb) | 
+| 38. [**OpenCV Project II**](https://github.com/ThinamXx/ComputerVision/blob/main/01.%20OpenCV/OCV%20Project%20II.ipynb) |
 
 **Day1 of 300DaysOfData!**
 - **Gradient Descent and Cross Validation**: Gradient Descent is an iterative approach to approximating the Parameters that minimize a Differentiable Loss Function. Cross Validation is a resampling procedure used to evaluate Machine Learning Models on a limited Data sample which has a parameter that splits the data into number of groups. On my Journey of Machine Learning and Deep Learning, Today I have read in brief about the fundamental Topics such as Calculus, Matrices, Matrix Calculus, Random Variables, Density Functions, Distributions, Independence, Maximum Likelihood Estimation and Conditional Probability. I have also read and Implemented about Gradient Descent and Cross Validation. I am starting this Journey from Scratch and I am following the Book:**Machine Learning From Scratch**. I have presented the Implementation of Gradient Descent and Cross Validation here in the Snapshots. I hope you will also spend some time reading the Topics from the Book mentioned above. I am excited about the days to come!!
@@ -2405,3 +2405,12 @@
   - [**OpenCV Project I**](https://github.com/ThinamXx/ComputerVision/blob/main/01.%20OpenCV/OCV%20Project%20I.ipynb)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20293.PNG)
+
+**Day294 of 300DaysOfData!**
+- **Histogram Matching**: Histogram Matching can be used as a normalization technique in an image processing pipeline as a form of color correction and color matching which allows to obtain a consistent, normalized representation of images even if lighting conditions change. On my Journey of Machine Learning and Deep Learning, I have read and implemented from PyImageSearch Blogs. Here, I have read about OpenCV, Color Detection, RGB Colorspace, Histogram Matching, Pixel Distribution, Cumulative Distribution, Resizing Image and few more topics related to the same from here. I have also read about Skewed Datasets, Performance Auditing, Data Centric AI Development and Data Augmentation from Machine Learning Engineering for Production Specialization of Coursera. I have presented the implementation of OpenCV in Histogram Matching here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Resources: 
+  - **Machine Learning Engineering for Production**
+  - [**PyImageSearch**](https://www.pyimagesearch.com/)
+  - [**OpenCV Project I**](https://github.com/ThinamXx/ComputerVision/blob/main/01.%20OpenCV/OCV%20Project%20II.ipynb)
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20294.PNG)
