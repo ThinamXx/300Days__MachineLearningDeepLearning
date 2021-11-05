@@ -2,7 +2,6 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
-
 | Books and Resources | Status of Completion |
 | ----- | -----|
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) | :white_check_mark: |
@@ -2436,3 +2435,12 @@
   - [**Convolutional Layer**](https://github.com/ThinamXx/ComputerVision/blob/main/02.%20ConvolutionalNeuralNetworks/Convolutional%20Layers.ipynb) 
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20296.PNG)
+
+**Day297 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from PyImageSearch Blogs. Here, I have read about CNN Architecture, Strided Net, Label Binarizer and One Hot Encoding, Image Data Generator and Data Augmentation, Loading and Resizing Images and few more topics related to the same from here. I have presented the implementation of Label Binarizer and Preparing Dataset here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Resources: 
+  - **Machine Learning Engineering for Production**
+  - [**PyImageSearch**](https://www.pyimagesearch.com/)
+  - [**Convolutional Layer**](https://github.com/ThinamXx/ComputerVision/blob/main/02.%20ConvolutionalNeuralNetworks/Convolutional%20Layers.ipynb) 
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20297.PNG)
