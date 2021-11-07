@@ -2444,3 +2444,12 @@
   - [**Convolutional Layer**](https://github.com/ThinamXx/ComputerVision/blob/main/02.%20ConvolutionalNeuralNetworks/Convolutional%20Layers.ipynb) 
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20297.PNG)
+
+**Day298 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from PyImageSearch Blogs. Here, I have read about Convolutional Neural Networks, Adam Optimization Function, Compiling and Training Strided Net Model, Data Augmentation and Image Data Generator, Classification Report, Plotting Training Loss and Accuracy, Overfitting and Generalization and few more topics related to the same from here. I have presented the implementation of Compiling and Training Model, Classification Report, Training Loss and Accuracy here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Resources: 
+  - **Machine Learning Engineering for Production**
+  - [**PyImageSearch**](https://www.pyimagesearch.com/)
+  - [**Convolutional Layer**](https://github.com/ThinamXx/ComputerVision/blob/main/02.%20ConvolutionalNeuralNetworks/Convolutional%20Layers.ipynb) 
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20298.PNG)
