@@ -2454,3 +2454,12 @@
   - [**Convolutional Layer**](https://github.com/ThinamXx/ComputerVision/blob/main/02.%20ConvolutionalNeuralNetworks/Convolutional%20Layers.ipynb) 
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20298.PNG)
+
+**Day299 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Transformers Model, GPT2 Pretrained Model and Tokenizer, Encodes and Decodes Methods, Preparing Dataset, Transform Method, Data Loaders and few more topics related to the same from here. I have presented the implementation of Pretrained GPT2 Model and Tokenizer and Transformed DataLoaders using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Transformers**](https://github.com/ThinamXx/Fastai/blob/main/20.%20Transformers/Transformers.ipynb) 
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20299a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20299b.PNG)
