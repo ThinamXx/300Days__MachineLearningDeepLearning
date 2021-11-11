@@ -2463,3 +2463,12 @@
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20299a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20299b.PNG)
+
+**Day300 of 300DaysOfData!**
+- On my Journey of Machine Learning and Deep Learning, I have read and implemented from the book **Deep Learning for Coders with Fastai and PyTorch**. Here, I have read about Transformers Model, Data Loaders, Batch Size and Sequence Length, Language Model, Fine Tuning GPT2 Model, Callback, Learner, Perplexity and Cross Entropy Loss Function, Learner Rate Finder, Training and Generating Predictions and few more topics related to the same from here. I have presented the implementation of Initializing DataLoaders, Fine Tuning GPT2Model and LR Finder using Fastai and PyTorch here in the snapshot. I hope you will gain some insights and work on the same. I hope you will also spend some time learning the topics from the Book mentioned below. Excited about the days ahead !!
+- Book:
+  - **Deep Learning for Coders with Fastai and PyTorch**
+  - [**Transformers**](https://github.com/ThinamXx/Fastai/blob/main/20.%20Transformers/Transformers.ipynb) 
+
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20300a.PNG)
+![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20300b.PNG)
