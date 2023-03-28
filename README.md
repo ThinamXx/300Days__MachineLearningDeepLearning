@@ -16,6 +16,7 @@
 | 10. **Approaching Almost Any Machine Learning Problem** | |
 | 11. [**PyImageSearch**](https://www.pyimagesearch.com/) | |
 
+
 | Research Papers |
 | --------------- |
 | 1. [**Practical Recommendations for Gradient based Training of Deep Architectures**](https://arxiv.org/pdf/1206.5533.pdf) |
