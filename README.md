@@ -2,6 +2,7 @@
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
 
+
 | Books and Resources | Status of Completion |
 | ----- | -----|
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) | :white_check_mark: |
@@ -15,7 +16,6 @@
 | 9. **Deep Learning for Coders with Fastai and PyTorch** | :white_check_mark: |
 | 10. **Approaching Almost Any Machine Learning Problem** | |
 | 11. [**PyImageSearch**](https://www.pyimagesearch.com/) | |
-
 
 | Research Papers |
 | --------------- |
